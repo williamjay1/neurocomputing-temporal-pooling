@@ -1,0 +1,297 @@
+{
+  "status": "ALL36_SOURCE_FITS_COMPLETE_CALIBRATION_GATED",
+  "jobs": [
+    {
+      "adapter": "direct",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_fine_seed20261001.json",
+      "report_sha256": "8fbd218c048cc3290f2ca81024edd6c32e7ebe05456251fd16bbf86885ba7b56",
+      "checkpoint_sha256": "bb219666d4df29731dd74027aa101a660a1391dabc5d3dceb49e054d1a3d154d"
+    },
+    {
+      "adapter": "direct",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_coarse_seed20261001.json",
+      "report_sha256": "fccc7298549e26cfaca8bed975e665500db7fa7c64613a51a4e05d62e72b25f0",
+      "checkpoint_sha256": "54d7a2965e4027e79d06d2c4b48d484d60932e1592298d508bd11191b11a5e2f"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_coarse_seed20261001.json",
+      "report_sha256": "e58798532738d45b0ae99b4d9e54555e5cd1445e086ec6fd8f7fbfb364041c59",
+      "checkpoint_sha256": "927d77407160f62db3c0678c4f08b977db55bb3c6cf886c6d75f4146f72e358c"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_fine_seed20261001.json",
+      "report_sha256": "74c7a58e30836934d30f7a9738dd777b6da2ae3e2eb6ddb3bcafe04664e01903",
+      "checkpoint_sha256": "57a7cc191a3354a2d04b50793e43227ab9f7f4eed99ebd6dd538d368a40f19da"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_fine_seed20261001.json",
+      "report_sha256": "91e785d37738969f4276b7d71cbad23c0dd3d282b7e200e3ce76e84aa559bc0f",
+      "checkpoint_sha256": "26545607902facf9b32b5a130f0fa93786f1c494ff7c2c8c5af40111b8a8a6c1"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_coarse_seed20261001.json",
+      "report_sha256": "a7fe7410ac9eb7dd287b9c21797b4f25d256e249e65b6262482e6850f062103c",
+      "checkpoint_sha256": "db532365d8b68878f12474bff21306dce96d0b788f534755c9b5ffbf196ea507"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_coarse_seed20261001.json",
+      "report_sha256": "053d90600a39e7bc6b9af36e93b3e6588ca1e934abcac2dde351b7b29c59bcc1",
+      "checkpoint_sha256": "de80ca91fbf059b43345d19d502ee8253ca26bca92ab1548418853558fe6161d"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_fine_seed20261001.json",
+      "report_sha256": "35adf16c1e24cbf939a44344cd734d82df7ab667f89297456d282a63f8a6995d",
+      "checkpoint_sha256": "9fd506504ae4b2f5d34c8060970985eb8ec5b5d92d663bcacda04edd1e8f1d58"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_fine_seed20261001.json",
+      "report_sha256": "0e2a44839fc0b244947a1e09051a4a321f9ec425b51947a45fd1de1e519ad94a",
+      "checkpoint_sha256": "30936f3da5f337596732ce777c6e0cd43dc5f6c62b0ab6e8278d2c887f729e05"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_coarse_seed20261001.json",
+      "report_sha256": "e8dffd5b13f90540cbde6dc56b277fae00ba0730f592a4e60254188efe543cef",
+      "checkpoint_sha256": "66966652ab3c07a9d0c7de13461bfb8009ce6cc61faa085f29aa5ef5d7bc2033"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "coarse",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_coarse_seed20261001.json",
+      "report_sha256": "363bde1adfb029861ec153f1095d744b553ac66f50f0118b5d05d1cbdf9a32f5",
+      "checkpoint_sha256": "b32f8f01fa133a2dc6886647f7b1d29b03ea21187b5a68338e7dd222fa3fbf2c"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "fine",
+      "seed": 20261001,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_fine_seed20261001.json",
+      "report_sha256": "2ab8c18d0825ebd258bf3733ce2e0a91710841310de9fc688967555b851e05c4",
+      "checkpoint_sha256": "10f6cfd3f342eab2dc704dfbc3b155c965c8e75526322650ad61aa7da94f552c"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_coarse_seed20261002.json",
+      "report_sha256": "ec83ad81d00952f65a58c7860edaddb114079592809138dbe66560b4e5afc1e7",
+      "checkpoint_sha256": "6810e637ffdc52756286a24c05262a11f841f659284dd5a99faa79a71516ea2d"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_fine_seed20261002.json",
+      "report_sha256": "4259d9a3273e9f60c71837b7001e66ac00736b2f4f7aafd02dc4fe45b116d0cc",
+      "checkpoint_sha256": "25fb844b3f68253521648aedc4c088bd440576e24734712e3639d34c01c0487d"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_fine_seed20261002.json",
+      "report_sha256": "debf500544cb955b89847dff4801e1e6ea137304fa8d18ae369260f08fda615a",
+      "checkpoint_sha256": "d1532ee1fa7156dbbbfd6cd9a641e98c6b9d8fc95cc8a15baec2933debe521e9"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_coarse_seed20261002.json",
+      "report_sha256": "618c28f3a04fa8b333a858ae7d7a878de9937aae1173d6a1c25c0fac2db266bf",
+      "checkpoint_sha256": "afb797e7dc7cf6ae9f5b11ddbd16f8d4ee1726f2b5d8c4017a0115934cf36eb9"
+    },
+    {
+      "adapter": "direct",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_coarse_seed20261002.json",
+      "report_sha256": "f1a90e738f6c54abb555af9c98455451c36a40a48eb08d087407ddaeb2417da6",
+      "checkpoint_sha256": "90c73d5ce8762db076fc1eb6fe58604f5fe5a51b2feb5211a1eddd0d31219b9c"
+    },
+    {
+      "adapter": "direct",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_fine_seed20261002.json",
+      "report_sha256": "8fe03f80bfd83957872392f5623194c94319f63c5b08b5cbf718ab0862fa7a40",
+      "checkpoint_sha256": "9e84279dc77da3892953adf5e1b14bdaaab71c1e4ef9be8f02c990e60be100c3"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_fine_seed20261002.json",
+      "report_sha256": "b47fa9cf3d79161bf0704eb7006f53922e085266ea6d24b09bc93d0565080f04",
+      "checkpoint_sha256": "a8c734cad34cd31907341d69e061d8073fe145992906325a6e874fa853a1047e"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_coarse_seed20261002.json",
+      "report_sha256": "c7a4344ecf2dabb44b2ce33f57de1c8f8edb75de765af93015b09967d3d3ad11",
+      "checkpoint_sha256": "0a9271baa821c61dc1b240d74eefb43ff5bf60cf6867b902966db821c934cd8c"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_coarse_seed20261002.json",
+      "report_sha256": "e9a21dc90f068323c4b4cec68c8c5bfba6ed4afcef223973f2fadd981451da4e",
+      "checkpoint_sha256": "599d0d38cb2537a23ca73a11fedadd6eefa52271a864206a47665adf798dd05a"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_fine_seed20261002.json",
+      "report_sha256": "cc95d818e37b99c62ac39b248670c16db188f9bf61f9368b7ec91e9b981c4fb8",
+      "checkpoint_sha256": "9806ddf781b0227ea7cd20c3cd0e8bb315a58f73b861912d9a6a7aa104bf0669"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "fine",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_fine_seed20261002.json",
+      "report_sha256": "7ab16973d6ef9735787dae16f739272e9bb9b3b94f8797b790118c2f9544a38b",
+      "checkpoint_sha256": "81ffb464d6ae775026fc0c896c8ba55af961598e2ccb9be23d846a6d4c7adfe7"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "coarse",
+      "seed": 20261002,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_coarse_seed20261002.json",
+      "report_sha256": "faaf6f45e84a7564a498c7c44a935e643a806df6b51fef29d93159029bb10838",
+      "checkpoint_sha256": "2a413f96cd6fd6c88b1a9335f5e717829724b969bb4ba9af900590e4ef5945b5"
+    },
+    {
+      "adapter": "direct",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_fine_seed20261003.json",
+      "report_sha256": "fc361a3b2a9cac53bb0a2e1bf63b7030b3b1694f228ca52ee0a0b4a2686adf3e",
+      "checkpoint_sha256": "2db6c426c3048656ab45f861ed1fc89109513a38259fda50d5ee058e9b6c45ad"
+    },
+    {
+      "adapter": "direct",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\direct_coarse_seed20261003.json",
+      "report_sha256": "59dd0a60e93d8cf485ebff198a51c52375be377b9065b77558f6b9f3b23befa0",
+      "checkpoint_sha256": "43f7de6fc71d3410b10cbbd16943f7fcb713fbac5cf1c35ea994ad79a1786b25"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_coarse_seed20261003.json",
+      "report_sha256": "4b82dc18235701d490456ce580554aaad48b8a5708a4a37bcb6b065f5f315cb2",
+      "checkpoint_sha256": "b9fa1fcd561b37810d524c700d82976c0c020b9fc255686562a17ec24917d0b8"
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_blur_repeat_fine_seed20261003.json",
+      "report_sha256": "7c09d6ea7d75e2f707aa97f41bf54b73005750b9304b20e50cfb468096741a82",
+      "checkpoint_sha256": "b12f387114cd56d3fbca8bc90d54fc25841c80980d91f7ba63e78f0c193f68d0"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_fine_seed20261003.json",
+      "report_sha256": "158196228dbf8a1842bbf981c411921ce4bd58fb1cd28b65721fa0f908817831",
+      "checkpoint_sha256": "6e1a71f4b5fbfe577bf0751b71e5f99d6c452b175f99b3850ffd128a5aa0bf76"
+    },
+    {
+      "adapter": "max_repeat",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\max_repeat_coarse_seed20261003.json",
+      "report_sha256": "a2bc4b6794e169a4038395f229bb39368c6f0cfefa265dc1455c18a6464205c5",
+      "checkpoint_sha256": "f59458df2292f059fb13ed97fb1d942d7572388efb343c672a1f874fca597ccd"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_coarse_seed20261003.json",
+      "report_sha256": "36972947e2889941d319ac86823e3dbfa17ee245de35c4888266816a6f71d940",
+      "checkpoint_sha256": "a73599ec15f71bad728e1dc0d9a7f4deb0d6b731a1c671c34950409546495d55"
+    },
+    {
+      "adapter": "avg_repeat",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\avg_repeat_fine_seed20261003.json",
+      "report_sha256": "b8b54b0d0e6260f6c25451e2421514bbf2dd109a535048351032659feeee25e6",
+      "checkpoint_sha256": "d2ffc4b8c82e4555674b38b62f1b81dea696c3e5d57ee740fe9a892ecd755439"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_fine_seed20261003.json",
+      "report_sha256": "4297b320ca8579f5e96654651f73cac5ad6f0f86600ef3af3f0fa85be6f36a36",
+      "checkpoint_sha256": "51b43e9a93defbea7ec46fba08d62bcc47add2c7baa89a0c0e3ea2e2fe7b5de7"
+    },
+    {
+      "adapter": "haar_absolute",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_absolute_coarse_seed20261003.json",
+      "report_sha256": "e0f6b3c52e9cded9b8c59a8d17200552ad4b2a465c9f227fe8af5ae900f89eb6",
+      "checkpoint_sha256": "9a7d910a1d858447ac0ec31880143c012527b3b36df82dc258e2f861c2cb76f2"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "coarse",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_coarse_seed20261003.json",
+      "report_sha256": "3ff9fc4ca256b80f835fd987d16358c6be0fe4bcf3c3b8912277961d384b396a",
+      "checkpoint_sha256": "59c0c4ffc81c73935935ebc6410cb827c6a2c9aa0721703a6fa69c3a407304ce"
+    },
+    {
+      "adapter": "haar_signed",
+      "history": "fine",
+      "seed": 20261003,
+      "report_path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_access_v1\\source_fits\\haar_signed_fine_seed20261003.json",
+      "report_sha256": "8b442a62cf92ff6c12b9b7e30ea1e0314fe23e745f5154517d6def5fec225da6",
+      "checkpoint_sha256": "165f4966a487e24fbca3afbb746e5d36eec5a4781abf5144d2e8e8a6aa01b0e0"
+    }
+  ],
+  "script_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "protocol_sha256": "10978eefedd5b49ebda1c745d8ef3c1f85da6fb2458a9502427cebd0e9762a0a",
+  "confirmation_outcomes_scored": false,
+  "calibration_predictions_created": false
+}

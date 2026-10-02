@@ -1,0 +1,123 @@
+{
+  "report_kind": "path-normalized copy of actual executed report",
+  "normalization": "only local repository/workspace prefixes replaced; scientific values/statuses unchanged",
+  "original_executed_report_sha256": "c39affc3b37fe3798ae4b0d73b7921b7caa3ca8a0df42086078f380e954a1851",
+  "report": {
+    "status": "PASS_EXECUTED_NO_NEW_TRAINING",
+    "command": "statistics",
+    "new_training_fits": 0,
+    "stages": {
+      "uci_multiplicity_intervals.csv": {
+        "rows": 5,
+        "max_numeric_difference": 0.0
+      },
+      "uci_design_precision.csv": {
+        "rows": 5,
+        "max_numeric_difference": 0.0
+      },
+      "uci_crossed_reml.csv": {
+        "rows": 20,
+        "max_numeric_difference": 0.0
+      },
+      "confirmation_multiplicity_intervals.csv": {
+        "rows": 5,
+        "max_numeric_difference": 0.0
+      },
+      "confirmation_design_precision.csv": {
+        "rows": 5,
+        "max_numeric_difference": 0.0
+      },
+      "confirmation_crossed_reml.csv": {
+        "rows": 20,
+        "max_numeric_difference": 0.0
+      }
+    },
+    "runtime": {
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "packages": {
+        "numpy": "2.5.3",
+        "scipy": "1.18.1"
+      }
+    },
+    "adapter_policy": "Only legacy Path/import resolution and fresh output roots; scientific functions/assertions unchanged.",
+    "seconds": 5.4863422000198625,
+    "immutable_original_script_sha256": {
+      "scripts/139_r7_statistical_extensions_v1.py": "702b2d049b901124d0c89411a138f08e3f06637a048c7bc4415729848af6c1bc"
+    },
+    "runtime_path_relocations": {
+      "<original-workspace>": "<repo-root>",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/direct_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\direct_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_repeat_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/avg_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\avg_repeat_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_absolute_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_absolute_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/haar_signed_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\haar_signed_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_access_v1/predictions/max_blur_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_access_v1\\predictions\\max_blur_repeat_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_fine_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_coarse_seed20261001.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261001.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_fine_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_coarse_seed20261002.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261002.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/direct_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/avg_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_absolute_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/haar_signed_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_fine_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261003.npz",
+      "<original-workspace>/results/r6_confirmation_v1/predictions/max_blur_repeat_coarse_seed20261003.npz": "<repo-root>\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261003.npz"
+    }
+  }
+}

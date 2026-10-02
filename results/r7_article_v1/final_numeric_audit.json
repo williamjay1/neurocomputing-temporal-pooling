@@ -1,0 +1,6710 @@
+{
+  "status": "PASS",
+  "main_sha256": "6e08b7ed11cb9841f443e9e596c902335d4163f306ac56e152cba5bd5088ca60",
+  "supplement_sha256": "25f5d6094f7bab380cb71750e76f327b9296ec7bf77c8768e9dcf67c01238847",
+  "scope": "scientific-content delivery, not publication acceptance",
+  "automatic_checks": [
+    {
+      "check": "four main numeric tables",
+      "pass": true,
+      "actual": 4,
+      "expected": 4
+    },
+    {
+      "check": "eight supplement numeric tables plus reproduction map",
+      "pass": true,
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "check": "Table1/0/line207/col1",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/0/line207/col2",
+      "pass": true,
+      "actual": [
+        0.020261
+      ],
+      "expected": [
+        0.02026063777195447
+      ]
+    },
+    {
+      "check": "Table1/0/line207/col3",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/0/line207/col4",
+      "pass": true,
+      "actual": [
+        0.020375
+      ],
+      "expected": [
+        0.02037511204552538
+      ]
+    },
+    {
+      "check": "Table1/0/line208/col1",
+      "pass": true,
+      "actual": [
+        0.529731
+      ],
+      "expected": [
+        0.5297310209625448
+      ]
+    },
+    {
+      "check": "Table1/0/line208/col2",
+      "pass": true,
+      "actual": [
+        0.530259
+      ],
+      "expected": [
+        0.5302590151256005
+      ]
+    },
+    {
+      "check": "Table1/0/line208/col3",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/0/line208/col4",
+      "pass": true,
+      "actual": [
+        0.271152
+      ],
+      "expected": [
+        0.2711517652343411
+      ]
+    },
+    {
+      "check": "Table1/0/line209/col1",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/0/line209/col2",
+      "pass": true,
+      "actual": [
+        0.271126
+      ],
+      "expected": [
+        0.27112614046184264
+      ]
+    },
+    {
+      "check": "Table1/0/line209/col3",
+      "pass": true,
+      "actual": [
+        0.63338
+      ],
+      "expected": [
+        0.6333802276324186
+      ]
+    },
+    {
+      "check": "Table1/0/line209/col4",
+      "pass": true,
+      "actual": [
+        0.636068
+      ],
+      "expected": [
+        0.6360681469548587
+      ]
+    },
+    {
+      "check": "Table1/0/line210/col1",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/0/line210/col2",
+      "pass": true,
+      "actual": [
+        0.27124
+      ],
+      "expected": [
+        0.2712396339305607
+      ]
+    },
+    {
+      "check": "Table1/0/line210/col3",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/0/line210/col4",
+      "pass": true,
+      "actual": [
+        0.271329
+      ],
+      "expected": [
+        0.2713292906651159
+      ]
+    },
+    {
+      "check": "Table1/0/line211/col1",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/0/line211/col2",
+      "pass": true,
+      "actual": [
+        0.020256
+      ],
+      "expected": [
+        0.020256351822373557
+      ]
+    },
+    {
+      "check": "Table1/0/line211/col3",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/0/line211/col4",
+      "pass": true,
+      "actual": [
+        0.020349
+      ],
+      "expected": [
+        0.020348914639950533
+      ]
+    },
+    {
+      "check": "Table1/S2/line172/col1",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/S2/line172/col2",
+      "pass": true,
+      "actual": [
+        0.020261
+      ],
+      "expected": [
+        0.02026063777195447
+      ]
+    },
+    {
+      "check": "Table1/S2/line172/col3",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/S2/line172/col4",
+      "pass": true,
+      "actual": [
+        0.020375
+      ],
+      "expected": [
+        0.02037511204552538
+      ]
+    },
+    {
+      "check": "Table1/S2/line173/col1",
+      "pass": true,
+      "actual": [
+        0.529731
+      ],
+      "expected": [
+        0.5297310209625448
+      ]
+    },
+    {
+      "check": "Table1/S2/line173/col2",
+      "pass": true,
+      "actual": [
+        0.530259
+      ],
+      "expected": [
+        0.5302590151256005
+      ]
+    },
+    {
+      "check": "Table1/S2/line173/col3",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/S2/line173/col4",
+      "pass": true,
+      "actual": [
+        0.271152
+      ],
+      "expected": [
+        0.2711517652343411
+      ]
+    },
+    {
+      "check": "Table1/S2/line174/col1",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/S2/line174/col2",
+      "pass": true,
+      "actual": [
+        0.271126
+      ],
+      "expected": [
+        0.27112614046184264
+      ]
+    },
+    {
+      "check": "Table1/S2/line174/col3",
+      "pass": true,
+      "actual": [
+        0.63338
+      ],
+      "expected": [
+        0.6333802276324186
+      ]
+    },
+    {
+      "check": "Table1/S2/line174/col4",
+      "pass": true,
+      "actual": [
+        0.636068
+      ],
+      "expected": [
+        0.6360681469548587
+      ]
+    },
+    {
+      "check": "Table1/S2/line175/col1",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/S2/line175/col2",
+      "pass": true,
+      "actual": [
+        0.27124
+      ],
+      "expected": [
+        0.2712396339305607
+      ]
+    },
+    {
+      "check": "Table1/S2/line175/col3",
+      "pass": true,
+      "actual": [
+        0.27
+      ],
+      "expected": [
+        0.27
+      ]
+    },
+    {
+      "check": "Table1/S2/line175/col4",
+      "pass": true,
+      "actual": [
+        0.271329
+      ],
+      "expected": [
+        0.2713292906651159
+      ]
+    },
+    {
+      "check": "Table1/S2/line176/col1",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/S2/line176/col2",
+      "pass": true,
+      "actual": [
+        0.020256
+      ],
+      "expected": [
+        0.020256351822373557
+      ]
+    },
+    {
+      "check": "Table1/S2/line176/col3",
+      "pass": true,
+      "actual": [
+        0.02
+      ],
+      "expected": [
+        0.02
+      ]
+    },
+    {
+      "check": "Table1/S2/line176/col4",
+      "pass": true,
+      "actual": [
+        0.020349
+      ],
+      "expected": [
+        0.020348914639950533
+      ]
+    },
+    {
+      "check": "Table2/line229/col1",
+      "pass": true,
+      "actual": [
+        0.104805
+      ],
+      "expected": [
+        0.10480483119585271
+      ]
+    },
+    {
+      "check": "Table2/line229/col2",
+      "pass": true,
+      "actual": [
+        0.103512
+      ],
+      "expected": [
+        0.10351185181823104
+      ]
+    },
+    {
+      "check": "Table2/line229/col3",
+      "pass": true,
+      "actual": [
+        0.143284
+      ],
+      "expected": [
+        0.14328394313480336
+      ]
+    },
+    {
+      "check": "Table2/line229/col4",
+      "pass": true,
+      "actual": [
+        0.139662
+      ],
+      "expected": [
+        0.1396624183804809
+      ]
+    },
+    {
+      "check": "Table2/line230/col1",
+      "pass": true,
+      "actual": [
+        0.104699
+      ],
+      "expected": [
+        0.10469943918804088
+      ]
+    },
+    {
+      "check": "Table2/line230/col2",
+      "pass": true,
+      "actual": [
+        0.104763
+      ],
+      "expected": [
+        0.10476325692353558
+      ]
+    },
+    {
+      "check": "Table2/line230/col3",
+      "pass": true,
+      "actual": [
+        0.141488
+      ],
+      "expected": [
+        0.14148775291468785
+      ]
+    },
+    {
+      "check": "Table2/line230/col4",
+      "pass": true,
+      "actual": [
+        0.14107
+      ],
+      "expected": [
+        0.14107011804891162
+      ]
+    },
+    {
+      "check": "Table2/line231/col1",
+      "pass": true,
+      "actual": [
+        0.105693
+      ],
+      "expected": [
+        0.10569318829181136
+      ]
+    },
+    {
+      "check": "Table2/line231/col2",
+      "pass": true,
+      "actual": [
+        0.10432
+      ],
+      "expected": [
+        0.1043196516344593
+      ]
+    },
+    {
+      "check": "Table2/line231/col3",
+      "pass": true,
+      "actual": [
+        0.142033
+      ],
+      "expected": [
+        0.14203335351293012
+      ]
+    },
+    {
+      "check": "Table2/line231/col4",
+      "pass": true,
+      "actual": [
+        0.140173
+      ],
+      "expected": [
+        0.1401730871360058
+      ]
+    },
+    {
+      "check": "Table2/line232/col1",
+      "pass": true,
+      "actual": [
+        0.104364
+      ],
+      "expected": [
+        0.10436366576054937
+      ]
+    },
+    {
+      "check": "Table2/line232/col2",
+      "pass": true,
+      "actual": [
+        0.104043
+      ],
+      "expected": [
+        0.10404250020087775
+      ]
+    },
+    {
+      "check": "Table2/line232/col3",
+      "pass": true,
+      "actual": [
+        0.140502
+      ],
+      "expected": [
+        0.14050164802538054
+      ]
+    },
+    {
+      "check": "Table2/line232/col4",
+      "pass": true,
+      "actual": [
+        0.13933
+      ],
+      "expected": [
+        0.13932957089189657
+      ]
+    },
+    {
+      "check": "Table2/line233/col1",
+      "pass": true,
+      "actual": [
+        0.104147
+      ],
+      "expected": [
+        0.10414716363824386
+      ]
+    },
+    {
+      "check": "Table2/line233/col2",
+      "pass": true,
+      "actual": [
+        0.104834
+      ],
+      "expected": [
+        0.10483362623631579
+      ]
+    },
+    {
+      "check": "Table2/line233/col3",
+      "pass": true,
+      "actual": [
+        0.141069
+      ],
+      "expected": [
+        0.1410687413928876
+      ]
+    },
+    {
+      "check": "Table2/line233/col4",
+      "pass": true,
+      "actual": [
+        0.140125
+      ],
+      "expected": [
+        0.14012508909208848
+      ]
+    },
+    {
+      "check": "Table2/line234/col1",
+      "pass": true,
+      "actual": [
+        0.105448
+      ],
+      "expected": [
+        0.10544810424865328
+      ]
+    },
+    {
+      "check": "Table2/line234/col2",
+      "pass": true,
+      "actual": [
+        0.103805
+      ],
+      "expected": [
+        0.1038050749988603
+      ]
+    },
+    {
+      "check": "Table2/line234/col3",
+      "pass": true,
+      "actual": [
+        0.14236
+      ],
+      "expected": [
+        0.14236043743655383
+      ]
+    },
+    {
+      "check": "Table2/line234/col4",
+      "pass": true,
+      "actual": [
+        0.141163
+      ],
+      "expected": [
+        0.14116331049484046
+      ]
+    },
+    {
+      "check": "Table3/line242/uci",
+      "pass": true,
+      "actual": [
+        -0.001437,
+        -0.003246,
+        0.000107
+      ],
+      "expected": [
+        -0.001437354392846743,
+        -0.0032455760044435384,
+        0.00010654687487498559
+      ]
+    },
+    {
+      "check": "Table3/line242/confirmation",
+      "pass": true,
+      "actual": [
+        -0.001443,
+        -0.002971,
+        0.00019
+      ],
+      "expected": [
+        -0.0014426315111480958,
+        -0.0029706580631829226,
+        0.00018975514334469977
+      ]
+    },
+    {
+      "check": "Table3/line243/uci",
+      "pass": true,
+      "actual": [
+        0.000336,
+        -0.000792,
+        0.001463
+      ],
+      "expected": [
+        0.00033577342749152583,
+        -0.0007918495132703466,
+        0.0014633963682533983
+      ]
+    },
+    {
+      "check": "Table3/line243/confirmation",
+      "pass": true,
+      "actual": [
+        0.000986,
+        -0.001425,
+        0.003397
+      ],
+      "expected": [
+        0.0009861048893073099,
+        -0.0014251804450330723,
+        0.003397390223647692
+      ]
+    },
+    {
+      "check": "Table3/line244/uci",
+      "pass": true,
+      "actual": [
+        0.000217,
+        -0.000963,
+        0.001396
+      ],
+      "expected": [
+        0.00021650212230550636,
+        -0.0009633007412905034,
+        0.0013963049859015161
+      ]
+    },
+    {
+      "check": "Table3/line244/confirmation",
+      "pass": true,
+      "actual": [
+        -0.000567,
+        -0.001925,
+        0.000791
+      ],
+      "expected": [
+        -0.0005670933675070711,
+        -0.001925366662767174,
+        0.0007911799277530319
+      ]
+    },
+    {
+      "check": "Table3/line245/uci",
+      "pass": true,
+      "actual": [
+        -0.000658,
+        -0.002224,
+        0.000909
+      ],
+      "expected": [
+        -0.0006576675576088487,
+        -0.002224461292781501,
+        0.0009091261775638034
+      ]
+    },
+    {
+      "check": "Table3/line245/confirmation",
+      "pass": true,
+      "actual": [
+        -0.002215,
+        -0.005619,
+        0.001188
+      ],
+      "expected": [
+        -0.002215201741915751,
+        -0.005618685242001025,
+        0.0011882817581695226
+      ]
+    },
+    {
+      "check": "Table3/line246/uci",
+      "pass": true,
+      "actual": [
+        0.000749,
+        -0.000784,
+        0.002282
+      ],
+      "expected": [
+        0.0007486650606123857,
+        -0.000784404644002979,
+        0.0022817347652277506
+      ]
+    },
+    {
+      "check": "Table3/line246/confirmation",
+      "pass": true,
+      "actual": [
+        0.000873,
+        -0.001142,
+        0.002887
+      ],
+      "expected": [
+        0.0008726845218659796,
+        -0.0011416042618219366,
+        0.0028869733055538957
+      ]
+    },
+    {
+      "check": "Table4/line266/col2",
+      "pass": true,
+      "actual": [
+        29.06
+      ],
+      "expected": [
+        29.060385397365955
+      ]
+    },
+    {
+      "check": "Table4/line266/col3",
+      "pass": true,
+      "actual": [
+        4225.7
+      ],
+      "expected": [
+        4225.679687736247
+      ]
+    },
+    {
+      "check": "Table4/line266/col4",
+      "pass": true,
+      "actual": [
+        396.67
+      ],
+      "expected": [
+        396.66766741176025
+      ]
+    },
+    {
+      "check": "Table4/line266/col5",
+      "pass": true,
+      "actual": [
+        0.143284
+      ],
+      "expected": [
+        0.14328394313480336
+      ]
+    },
+    {
+      "check": "Table4/line267/col2",
+      "pass": true,
+      "actual": [
+        28.62
+      ],
+      "expected": [
+        28.624751555090434
+      ]
+    },
+    {
+      "check": "Table4/line267/col3",
+      "pass": true,
+      "actual": [
+        4162.6
+      ],
+      "expected": [
+        4162.597801502678
+      ]
+    },
+    {
+      "check": "Table4/line267/col4",
+      "pass": true,
+      "actual": [
+        399.5
+      ],
+      "expected": [
+        399.49792332697274
+      ]
+    },
+    {
+      "check": "Table4/line267/col5",
+      "pass": true,
+      "actual": [
+        0.139662
+      ],
+      "expected": [
+        0.1396624183804809
+      ]
+    },
+    {
+      "check": "Table4/line268/col2",
+      "pass": true,
+      "actual": [
+        28.86
+      ],
+      "expected": [
+        28.859073174122006
+      ]
+    },
+    {
+      "check": "Table4/line268/col3",
+      "pass": true,
+      "actual": [
+        4191.8
+      ],
+      "expected": [
+        4191.7647213135
+      ]
+    },
+    {
+      "check": "Table4/line268/col4",
+      "pass": true,
+      "actual": [
+        393.48
+      ],
+      "expected": [
+        393.4779858501549
+      ]
+    },
+    {
+      "check": "Table4/line268/col5",
+      "pass": true,
+      "actual": [
+        0.141488
+      ],
+      "expected": [
+        0.14148775291468785
+      ]
+    },
+    {
+      "check": "Table4/line269/col2",
+      "pass": true,
+      "actual": [
+        28.89
+      ],
+      "expected": [
+        28.892278436843775
+      ]
+    },
+    {
+      "check": "Table4/line269/col3",
+      "pass": true,
+      "actual": [
+        4267.8
+      ],
+      "expected": [
+        4267.791803436491
+      ]
+    },
+    {
+      "check": "Table4/line269/col4",
+      "pass": true,
+      "actual": [
+        395.79
+      ],
+      "expected": [
+        395.78741974805575
+      ]
+    },
+    {
+      "check": "Table4/line269/col5",
+      "pass": true,
+      "actual": [
+        0.14107
+      ],
+      "expected": [
+        0.14107011804891162
+      ]
+    },
+    {
+      "check": "Table4/line270/col2",
+      "pass": true,
+      "actual": [
+        29.08
+      ],
+      "expected": [
+        29.075890417028525
+      ]
+    },
+    {
+      "check": "Table4/line270/col3",
+      "pass": true,
+      "actual": [
+        4232.7
+      ],
+      "expected": [
+        4232.704301598393
+      ]
+    },
+    {
+      "check": "Table4/line270/col4",
+      "pass": true,
+      "actual": [
+        394.18
+      ],
+      "expected": [
+        394.1849149283125
+      ]
+    },
+    {
+      "check": "Table4/line270/col5",
+      "pass": true,
+      "actual": [
+        0.142033
+      ],
+      "expected": [
+        0.14203335351293012
+      ]
+    },
+    {
+      "check": "Table4/line271/col2",
+      "pass": true,
+      "actual": [
+        28.68
+      ],
+      "expected": [
+        28.678504571099136
+      ]
+    },
+    {
+      "check": "Table4/line271/col3",
+      "pass": true,
+      "actual": [
+        4199.9
+      ],
+      "expected": [
+        4199.934591826912
+      ]
+    },
+    {
+      "check": "Table4/line271/col4",
+      "pass": true,
+      "actual": [
+        399.0
+      ],
+      "expected": [
+        398.9963521300823
+      ]
+    },
+    {
+      "check": "Table4/line271/col5",
+      "pass": true,
+      "actual": [
+        0.140173
+      ],
+      "expected": [
+        0.1401730871360058
+      ]
+    },
+    {
+      "check": "Table4/line272/col2",
+      "pass": true,
+      "actual": [
+        28.87
+      ],
+      "expected": [
+        28.874503634578524
+      ]
+    },
+    {
+      "check": "Table4/line272/col3",
+      "pass": true,
+      "actual": [
+        4211.8
+      ],
+      "expected": [
+        4211.772189090776
+      ]
+    },
+    {
+      "check": "Table4/line272/col4",
+      "pass": true,
+      "actual": [
+        391.71
+      ],
+      "expected": [
+        391.7138174672543
+      ]
+    },
+    {
+      "check": "Table4/line272/col5",
+      "pass": true,
+      "actual": [
+        0.140502
+      ],
+      "expected": [
+        0.14050164802538054
+      ]
+    },
+    {
+      "check": "Table4/line273/col2",
+      "pass": true,
+      "actual": [
+        28.52
+      ],
+      "expected": [
+        28.523746344354443
+      ]
+    },
+    {
+      "check": "Table4/line273/col3",
+      "pass": true,
+      "actual": [
+        4150.6
+      ],
+      "expected": [
+        4150.552786959508
+      ]
+    },
+    {
+      "check": "Table4/line273/col4",
+      "pass": true,
+      "actual": [
+        394.79
+      ],
+      "expected": [
+        394.7914893227573
+      ]
+    },
+    {
+      "check": "Table4/line273/col5",
+      "pass": true,
+      "actual": [
+        0.13933
+      ],
+      "expected": [
+        0.13932957089189657
+      ]
+    },
+    {
+      "check": "Table4/line274/col2",
+      "pass": true,
+      "actual": [
+        28.91
+      ],
+      "expected": [
+        28.908250756966623
+      ]
+    },
+    {
+      "check": "Table4/line274/col3",
+      "pass": true,
+      "actual": [
+        4155.8
+      ],
+      "expected": [
+        4155.759250645564
+      ]
+    },
+    {
+      "check": "Table4/line274/col4",
+      "pass": true,
+      "actual": [
+        388.34
+      ],
+      "expected": [
+        388.3378272419616
+      ]
+    },
+    {
+      "check": "Table4/line274/col5",
+      "pass": true,
+      "actual": [
+        0.141069
+      ],
+      "expected": [
+        0.1410687413928876
+      ]
+    },
+    {
+      "check": "Table4/line275/col2",
+      "pass": true,
+      "actual": [
+        28.75
+      ],
+      "expected": [
+        28.747761792184367
+      ]
+    },
+    {
+      "check": "Table4/line275/col3",
+      "pass": true,
+      "actual": [
+        4244.1
+      ],
+      "expected": [
+        4244.136483097597
+      ]
+    },
+    {
+      "check": "Table4/line275/col4",
+      "pass": true,
+      "actual": [
+        396.66
+      ],
+      "expected": [
+        396.6625306677787
+      ]
+    },
+    {
+      "check": "Table4/line275/col5",
+      "pass": true,
+      "actual": [
+        0.140125
+      ],
+      "expected": [
+        0.14012508909208848
+      ]
+    },
+    {
+      "check": "Table4/line276/col2",
+      "pass": true,
+      "actual": [
+        29.11
+      ],
+      "expected": [
+        29.110735550480708
+      ]
+    },
+    {
+      "check": "Table4/line276/col3",
+      "pass": true,
+      "actual": [
+        4234.0
+      ],
+      "expected": [
+        4234.046638465917
+      ]
+    },
+    {
+      "check": "Table4/line276/col4",
+      "pass": true,
+      "actual": [
+        392.09
+      ],
+      "expected": [
+        392.0866998797944
+      ]
+    },
+    {
+      "check": "Table4/line276/col5",
+      "pass": true,
+      "actual": [
+        0.14236
+      ],
+      "expected": [
+        0.14236043743655383
+      ]
+    },
+    {
+      "check": "Table4/line277/col2",
+      "pass": true,
+      "actual": [
+        28.8
+      ],
+      "expected": [
+        28.795394563474666
+      ]
+    },
+    {
+      "check": "Table4/line277/col3",
+      "pass": true,
+      "actual": [
+        4256.5
+      ],
+      "expected": [
+        4256.540661374545
+      ]
+    },
+    {
+      "check": "Table4/line277/col4",
+      "pass": true,
+      "actual": [
+        397.19
+      ],
+      "expected": [
+        397.189079756997
+      ]
+    },
+    {
+      "check": "Table4/line277/col5",
+      "pass": true,
+      "actual": [
+        0.141163
+      ],
+      "expected": [
+        0.14116331049484046
+      ]
+    },
+    {
+      "check": "S3/uci/line186/col2",
+      "pass": true,
+      "actual": [
+        18.04787
+      ],
+      "expected": [
+        18.047870553061593
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line186/col3",
+      "pass": true,
+      "actual": [
+        0.104805
+      ],
+      "expected": [
+        0.10480483119585271
+      ]
+    },
+    {
+      "check": "S3/uci/line186/col4",
+      "pass": true,
+      "actual": [
+        1126.047
+      ],
+      "expected": [
+        1126.0470286301986
+      ]
+    },
+    {
+      "check": "S3/uci/line186/col5",
+      "pass": true,
+      "actual": [
+        113.011
+      ],
+      "expected": [
+        113.01083375512192
+      ]
+    },
+    {
+      "check": "S3/uci/line186/seed_range",
+      "pass": true,
+      "actual": [
+        0.103735,
+        0.106272
+      ],
+      "expected": [
+        0.1037346289699975,
+        0.10627191695578742
+      ]
+    },
+    {
+      "check": "S3/uci/line187/col2",
+      "pass": true,
+      "actual": [
+        17.8218
+      ],
+      "expected": [
+        17.821802399790805
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line187/col3",
+      "pass": true,
+      "actual": [
+        0.103512
+      ],
+      "expected": [
+        0.10351185181823104
+      ]
+    },
+    {
+      "check": "S3/uci/line187/col4",
+      "pass": true,
+      "actual": [
+        1122.513
+      ],
+      "expected": [
+        1122.5130884434404
+      ]
+    },
+    {
+      "check": "S3/uci/line187/col5",
+      "pass": true,
+      "actual": [
+        116.172
+      ],
+      "expected": [
+        116.17225649349976
+      ]
+    },
+    {
+      "check": "S3/uci/line187/seed_range",
+      "pass": true,
+      "actual": [
+        0.102932,
+        0.103987
+      ],
+      "expected": [
+        0.10293180493210798,
+        0.10398672129454822
+      ]
+    },
+    {
+      "check": "S3/uci/line188/col2",
+      "pass": true,
+      "actual": [
+        17.89334
+      ],
+      "expected": [
+        17.89333804654928
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line188/col3",
+      "pass": true,
+      "actual": [
+        0.104699
+      ],
+      "expected": [
+        0.10469943918804088
+      ]
+    },
+    {
+      "check": "S3/uci/line188/col4",
+      "pass": true,
+      "actual": [
+        1097.054
+      ],
+      "expected": [
+        1097.054101125358
+      ]
+    },
+    {
+      "check": "S3/uci/line188/col5",
+      "pass": true,
+      "actual": [
+        112.857
+      ],
+      "expected": [
+        112.85650446491825
+      ]
+    },
+    {
+      "check": "S3/uci/line188/seed_range",
+      "pass": true,
+      "actual": [
+        0.103696,
+        0.106187
+      ],
+      "expected": [
+        0.103696227994339,
+        0.1061868584096565
+      ]
+    },
+    {
+      "check": "S3/uci/line189/col2",
+      "pass": true,
+      "actual": [
+        18.02055
+      ],
+      "expected": [
+        18.02054613092701
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line189/col3",
+      "pass": true,
+      "actual": [
+        0.104763
+      ],
+      "expected": [
+        0.10476325692353558
+      ]
+    },
+    {
+      "check": "S3/uci/line189/col4",
+      "pass": true,
+      "actual": [
+        1164.101
+      ],
+      "expected": [
+        1164.100936954515
+      ]
+    },
+    {
+      "check": "S3/uci/line189/col5",
+      "pass": true,
+      "actual": [
+        113.554
+      ],
+      "expected": [
+        113.55401923770734
+      ]
+    },
+    {
+      "check": "S3/uci/line189/seed_range",
+      "pass": true,
+      "actual": [
+        0.104614,
+        0.104857
+      ],
+      "expected": [
+        0.10461422549170081,
+        0.10485684575253272
+      ]
+    },
+    {
+      "check": "S3/uci/line190/col2",
+      "pass": true,
+      "actual": [
+        18.1047
+      ],
+      "expected": [
+        18.10469934473194
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line190/col3",
+      "pass": true,
+      "actual": [
+        0.105693
+      ],
+      "expected": [
+        0.10569318829181136
+      ]
+    },
+    {
+      "check": "S3/uci/line190/col4",
+      "pass": true,
+      "actual": [
+        1120.432
+      ],
+      "expected": [
+        1120.432133800494
+      ]
+    },
+    {
+      "check": "S3/uci/line190/col5",
+      "pass": true,
+      "actual": [
+        113.895
+      ],
+      "expected": [
+        113.8951512645115
+      ]
+    },
+    {
+      "check": "S3/uci/line190/seed_range",
+      "pass": true,
+      "actual": [
+        0.104655,
+        0.106298
+      ],
+      "expected": [
+        0.1046545528987406,
+        0.10629797703580679
+      ]
+    },
+    {
+      "check": "S3/uci/line191/col2",
+      "pass": true,
+      "actual": [
+        17.9882
+      ],
+      "expected": [
+        17.98819521736878
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line191/col3",
+      "pass": true,
+      "actual": [
+        0.10432
+      ],
+      "expected": [
+        0.1043196516344593
+      ]
+    },
+    {
+      "check": "S3/uci/line191/col4",
+      "pass": true,
+      "actual": [
+        1141.148
+      ],
+      "expected": [
+        1141.1480866199329
+      ]
+    },
+    {
+      "check": "S3/uci/line191/col5",
+      "pass": true,
+      "actual": [
+        114.623
+      ],
+      "expected": [
+        114.62348875266316
+      ]
+    },
+    {
+      "check": "S3/uci/line191/seed_range",
+      "pass": true,
+      "actual": [
+        0.102133,
+        0.106445
+      ],
+      "expected": [
+        0.10213308633327255,
+        0.1064450753971414
+      ]
+    },
+    {
+      "check": "S3/uci/line192/col2",
+      "pass": true,
+      "actual": [
+        17.94266
+      ],
+      "expected": [
+        17.94265990922623
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line192/col3",
+      "pass": true,
+      "actual": [
+        0.104364
+      ],
+      "expected": [
+        0.10436366576054937
+      ]
+    },
+    {
+      "check": "S3/uci/line192/col4",
+      "pass": true,
+      "actual": [
+        1110.425
+      ],
+      "expected": [
+        1110.4250428895998
+      ]
+    },
+    {
+      "check": "S3/uci/line192/col5",
+      "pass": true,
+      "actual": [
+        113.773
+      ],
+      "expected": [
+        113.77315350622712
+      ]
+    },
+    {
+      "check": "S3/uci/line192/seed_range",
+      "pass": true,
+      "actual": [
+        0.103036,
+        0.10526
+      ],
+      "expected": [
+        0.10303601883246492,
+        0.10526031784564586
+      ]
+    },
+    {
+      "check": "S3/uci/line193/col2",
+      "pass": true,
+      "actual": [
+        17.95598
+      ],
+      "expected": [
+        17.95598225437779
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line193/col3",
+      "pass": true,
+      "actual": [
+        0.104043
+      ],
+      "expected": [
+        0.10404250020087775
+      ]
+    },
+    {
+      "check": "S3/uci/line193/col4",
+      "pass": true,
+      "actual": [
+        1148.35
+      ],
+      "expected": [
+        1148.349868413439
+      ]
+    },
+    {
+      "check": "S3/uci/line193/col5",
+      "pass": true,
+      "actual": [
+        113.155
+      ],
+      "expected": [
+        113.1552910805031
+      ]
+    },
+    {
+      "check": "S3/uci/line193/seed_range",
+      "pass": true,
+      "actual": [
+        0.102964,
+        0.105558
+      ],
+      "expected": [
+        0.10296360294604527,
+        0.10555841596067897
+      ]
+    },
+    {
+      "check": "S3/uci/line194/col2",
+      "pass": true,
+      "actual": [
+        17.86302
+      ],
+      "expected": [
+        17.863021403507922
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line194/col3",
+      "pass": true,
+      "actual": [
+        0.104147
+      ],
+      "expected": [
+        0.10414716363824386
+      ]
+    },
+    {
+      "check": "S3/uci/line194/col4",
+      "pass": true,
+      "actual": [
+        1089.412
+      ],
+      "expected": [
+        1089.411508417837
+      ]
+    },
+    {
+      "check": "S3/uci/line194/col5",
+      "pass": true,
+      "actual": [
+        111.296
+      ],
+      "expected": [
+        111.29630344577185
+      ]
+    },
+    {
+      "check": "S3/uci/line194/seed_range",
+      "pass": true,
+      "actual": [
+        0.102759,
+        0.105039
+      ],
+      "expected": [
+        0.10275899507812114,
+        0.10503874059750276
+      ]
+    },
+    {
+      "check": "S3/uci/line195/col2",
+      "pass": true,
+      "actual": [
+        17.96788
+      ],
+      "expected": [
+        17.967882010934694
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line195/col3",
+      "pass": true,
+      "actual": [
+        0.104834
+      ],
+      "expected": [
+        0.10483362623631579
+      ]
+    },
+    {
+      "check": "S3/uci/line195/col4",
+      "pass": true,
+      "actual": [
+        1141.569
+      ],
+      "expected": [
+        1141.5694253051033
+      ]
+    },
+    {
+      "check": "S3/uci/line195/col5",
+      "pass": true,
+      "actual": [
+        113.903
+      ],
+      "expected": [
+        113.90304228539658
+      ]
+    },
+    {
+      "check": "S3/uci/line195/seed_range",
+      "pass": true,
+      "actual": [
+        0.103161,
+        0.105891
+      ],
+      "expected": [
+        0.10316148924452218,
+        0.10589141623991662
+      ]
+    },
+    {
+      "check": "S3/uci/line196/col2",
+      "pass": true,
+      "actual": [
+        18.07907
+      ],
+      "expected": [
+        18.079067507283284
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line196/col3",
+      "pass": true,
+      "actual": [
+        0.105448
+      ],
+      "expected": [
+        0.10544810424865328
+      ]
+    },
+    {
+      "check": "S3/uci/line196/col4",
+      "pass": true,
+      "actual": [
+        1124.966
+      ],
+      "expected": [
+        1124.966261957091
+      ]
+    },
+    {
+      "check": "S3/uci/line196/col5",
+      "pass": true,
+      "actual": [
+        113.408
+      ],
+      "expected": [
+        113.40833473716391
+      ]
+    },
+    {
+      "check": "S3/uci/line196/seed_range",
+      "pass": true,
+      "actual": [
+        0.104071,
+        0.106574
+      ],
+      "expected": [
+        0.10407136337866776,
+        0.10657373747648893
+      ]
+    },
+    {
+      "check": "S3/uci/line197/col2",
+      "pass": true,
+      "actual": [
+        17.8337
+      ],
+      "expected": [
+        17.83370192229703
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/uci/line197/col3",
+      "pass": true,
+      "actual": [
+        0.103805
+      ],
+      "expected": [
+        0.1038050749988603
+      ]
+    },
+    {
+      "check": "S3/uci/line197/col4",
+      "pass": true,
+      "actual": [
+        1139.818
+      ],
+      "expected": [
+        1139.8179122660833
+      ]
+    },
+    {
+      "check": "S3/uci/line197/col5",
+      "pass": true,
+      "actual": [
+        113.33
+      ],
+      "expected": [
+        113.32957509420478
+      ]
+    },
+    {
+      "check": "S3/uci/line197/seed_range",
+      "pass": true,
+      "actual": [
+        0.102584,
+        0.105108
+      ],
+      "expected": [
+        0.10258406206665902,
+        0.10510798527181459
+      ]
+    },
+    {
+      "check": "S3/confirmation/line205/col2",
+      "pass": true,
+      "actual": [
+        29.06039
+      ],
+      "expected": [
+        29.060385397365955
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line205/col3",
+      "pass": true,
+      "actual": [
+        0.143284
+      ],
+      "expected": [
+        0.14328394313480336
+      ]
+    },
+    {
+      "check": "S3/confirmation/line205/col4",
+      "pass": true,
+      "actual": [
+        3829.012
+      ],
+      "expected": [
+        3829.012020324487
+      ]
+    },
+    {
+      "check": "S3/confirmation/line205/col5",
+      "pass": true,
+      "actual": [
+        396.668
+      ],
+      "expected": [
+        396.66766741176025
+      ]
+    },
+    {
+      "check": "S3/confirmation/line205/seed_range",
+      "pass": true,
+      "actual": [
+        0.142258,
+        0.145057
+      ],
+      "expected": [
+        0.14225813843315926,
+        0.1450565495585836
+      ]
+    },
+    {
+      "check": "S3/confirmation/line206/col2",
+      "pass": true,
+      "actual": [
+        28.62475
+      ],
+      "expected": [
+        28.624751555090434
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line206/col3",
+      "pass": true,
+      "actual": [
+        0.139662
+      ],
+      "expected": [
+        0.1396624183804809
+      ]
+    },
+    {
+      "check": "S3/confirmation/line206/col4",
+      "pass": true,
+      "actual": [
+        3763.1
+      ],
+      "expected": [
+        3763.0998781757035
+      ]
+    },
+    {
+      "check": "S3/confirmation/line206/col5",
+      "pass": true,
+      "actual": [
+        399.498
+      ],
+      "expected": [
+        399.49792332697274
+      ]
+    },
+    {
+      "check": "S3/confirmation/line206/seed_range",
+      "pass": true,
+      "actual": [
+        0.137672,
+        0.140829
+      ],
+      "expected": [
+        0.1376715422259831,
+        0.14082882916894005
+      ]
+    },
+    {
+      "check": "S3/confirmation/line207/col2",
+      "pass": true,
+      "actual": [
+        28.85907
+      ],
+      "expected": [
+        28.859073174122006
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line207/col3",
+      "pass": true,
+      "actual": [
+        0.141488
+      ],
+      "expected": [
+        0.14148775291468785
+      ]
+    },
+    {
+      "check": "S3/confirmation/line207/col4",
+      "pass": true,
+      "actual": [
+        3798.287
+      ],
+      "expected": [
+        3798.2867354633445
+      ]
+    },
+    {
+      "check": "S3/confirmation/line207/col5",
+      "pass": true,
+      "actual": [
+        393.478
+      ],
+      "expected": [
+        393.4779858501549
+      ]
+    },
+    {
+      "check": "S3/confirmation/line207/seed_range",
+      "pass": true,
+      "actual": [
+        0.140315,
+        0.143507
+      ],
+      "expected": [
+        0.14031478985269746,
+        0.1435067047122837
+      ]
+    },
+    {
+      "check": "S3/confirmation/line208/col2",
+      "pass": true,
+      "actual": [
+        28.89228
+      ],
+      "expected": [
+        28.892278436843775
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line208/col3",
+      "pass": true,
+      "actual": [
+        0.14107
+      ],
+      "expected": [
+        0.14107011804891162
+      ]
+    },
+    {
+      "check": "S3/confirmation/line208/col4",
+      "pass": true,
+      "actual": [
+        3872.004
+      ],
+      "expected": [
+        3872.004383688435
+      ]
+    },
+    {
+      "check": "S3/confirmation/line208/col5",
+      "pass": true,
+      "actual": [
+        395.787
+      ],
+      "expected": [
+        395.78741974805575
+      ]
+    },
+    {
+      "check": "S3/confirmation/line208/seed_range",
+      "pass": true,
+      "actual": [
+        0.139743,
+        0.143328
+      ],
+      "expected": [
+        0.13974310527079928,
+        0.14332793772395191
+      ]
+    },
+    {
+      "check": "S3/confirmation/line209/col2",
+      "pass": true,
+      "actual": [
+        29.07589
+      ],
+      "expected": [
+        29.075890417028525
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line209/col3",
+      "pass": true,
+      "actual": [
+        0.142033
+      ],
+      "expected": [
+        0.14203335351293012
+      ]
+    },
+    {
+      "check": "S3/confirmation/line209/col4",
+      "pass": true,
+      "actual": [
+        3838.519
+      ],
+      "expected": [
+        3838.51938667008
+      ]
+    },
+    {
+      "check": "S3/confirmation/line209/col5",
+      "pass": true,
+      "actual": [
+        394.185
+      ],
+      "expected": [
+        394.1849149283125
+      ]
+    },
+    {
+      "check": "S3/confirmation/line209/seed_range",
+      "pass": true,
+      "actual": [
+        0.140952,
+        0.143401
+      ],
+      "expected": [
+        0.14095169530722385,
+        0.1434011575489717
+      ]
+    },
+    {
+      "check": "S3/confirmation/line210/col2",
+      "pass": true,
+      "actual": [
+        28.6785
+      ],
+      "expected": [
+        28.678504571099136
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line210/col3",
+      "pass": true,
+      "actual": [
+        0.140173
+      ],
+      "expected": [
+        0.1401730871360058
+      ]
+    },
+    {
+      "check": "S3/confirmation/line210/col4",
+      "pass": true,
+      "actual": [
+        3800.938
+      ],
+      "expected": [
+        3800.9382396968285
+      ]
+    },
+    {
+      "check": "S3/confirmation/line210/col5",
+      "pass": true,
+      "actual": [
+        398.996
+      ],
+      "expected": [
+        398.9963521300823
+      ]
+    },
+    {
+      "check": "S3/confirmation/line210/seed_range",
+      "pass": true,
+      "actual": [
+        0.138571,
+        0.14193
+      ],
+      "expected": [
+        0.13857108691620132,
+        0.14193007731795831
+      ]
+    },
+    {
+      "check": "S3/confirmation/line211/col2",
+      "pass": true,
+      "actual": [
+        28.8745
+      ],
+      "expected": [
+        28.874503634578524
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line211/col3",
+      "pass": true,
+      "actual": [
+        0.140502
+      ],
+      "expected": [
+        0.14050164802538054
+      ]
+    },
+    {
+      "check": "S3/confirmation/line211/col4",
+      "pass": true,
+      "actual": [
+        3820.058
+      ],
+      "expected": [
+        3820.0583716235205
+      ]
+    },
+    {
+      "check": "S3/confirmation/line211/col5",
+      "pass": true,
+      "actual": [
+        391.714
+      ],
+      "expected": [
+        391.7138174672543
+      ]
+    },
+    {
+      "check": "S3/confirmation/line211/seed_range",
+      "pass": true,
+      "actual": [
+        0.140039,
+        0.141261
+      ],
+      "expected": [
+        0.14003873428860955,
+        0.1412613815649863
+      ]
+    },
+    {
+      "check": "S3/confirmation/line212/col2",
+      "pass": true,
+      "actual": [
+        28.52375
+      ],
+      "expected": [
+        28.523746344354443
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line212/col3",
+      "pass": true,
+      "actual": [
+        0.13933
+      ],
+      "expected": [
+        0.13932957089189657
+      ]
+    },
+    {
+      "check": "S3/confirmation/line212/col4",
+      "pass": true,
+      "actual": [
+        3755.761
+      ],
+      "expected": [
+        3755.7612976367504
+      ]
+    },
+    {
+      "check": "S3/confirmation/line212/col5",
+      "pass": true,
+      "actual": [
+        394.791
+      ],
+      "expected": [
+        394.7914893227573
+      ]
+    },
+    {
+      "check": "S3/confirmation/line212/seed_range",
+      "pass": true,
+      "actual": [
+        0.137777,
+        0.140214
+      ],
+      "expected": [
+        0.13777693888086479,
+        0.14021366219289344
+      ]
+    },
+    {
+      "check": "S3/confirmation/line213/col2",
+      "pass": true,
+      "actual": [
+        28.90825
+      ],
+      "expected": [
+        28.908250756966623
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line213/col3",
+      "pass": true,
+      "actual": [
+        0.141069
+      ],
+      "expected": [
+        0.1410687413928876
+      ]
+    },
+    {
+      "check": "S3/confirmation/line213/col4",
+      "pass": true,
+      "actual": [
+        3767.421
+      ],
+      "expected": [
+        3767.4214234036026
+      ]
+    },
+    {
+      "check": "S3/confirmation/line213/col5",
+      "pass": true,
+      "actual": [
+        388.338
+      ],
+      "expected": [
+        388.3378272419616
+      ]
+    },
+    {
+      "check": "S3/confirmation/line213/seed_range",
+      "pass": true,
+      "actual": [
+        0.140767,
+        0.14137
+      ],
+      "expected": [
+        0.14076713917864822,
+        0.1413698217376283
+      ]
+    },
+    {
+      "check": "S3/confirmation/line214/col2",
+      "pass": true,
+      "actual": [
+        28.74776
+      ],
+      "expected": [
+        28.747761792184367
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line214/col3",
+      "pass": true,
+      "actual": [
+        0.140125
+      ],
+      "expected": [
+        0.14012508909208848
+      ]
+    },
+    {
+      "check": "S3/confirmation/line214/col4",
+      "pass": true,
+      "actual": [
+        3847.474
+      ],
+      "expected": [
+        3847.473952429819
+      ]
+    },
+    {
+      "check": "S3/confirmation/line214/col5",
+      "pass": true,
+      "actual": [
+        396.663
+      ],
+      "expected": [
+        396.6625306677787
+      ]
+    },
+    {
+      "check": "S3/confirmation/line214/seed_range",
+      "pass": true,
+      "actual": [
+        0.139015,
+        0.141101
+      ],
+      "expected": [
+        0.13901478001041054,
+        0.14110135210932362
+      ]
+    },
+    {
+      "check": "S3/confirmation/line215/col2",
+      "pass": true,
+      "actual": [
+        29.11074
+      ],
+      "expected": [
+        29.110735550480708
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line215/col3",
+      "pass": true,
+      "actual": [
+        0.14236
+      ],
+      "expected": [
+        0.14236043743655383
+      ]
+    },
+    {
+      "check": "S3/confirmation/line215/col4",
+      "pass": true,
+      "actual": [
+        3841.96
+      ],
+      "expected": [
+        3841.959938586123
+      ]
+    },
+    {
+      "check": "S3/confirmation/line215/col5",
+      "pass": true,
+      "actual": [
+        392.087
+      ],
+      "expected": [
+        392.0866998797944
+      ]
+    },
+    {
+      "check": "S3/confirmation/line215/seed_range",
+      "pass": true,
+      "actual": [
+        0.141408,
+        0.143752
+      ],
+      "expected": [
+        0.14140822522289648,
+        0.14375205130906188
+      ]
+    },
+    {
+      "check": "S3/confirmation/line216/col2",
+      "pass": true,
+      "actual": [
+        28.79539
+      ],
+      "expected": [
+        28.795394563474666
+      ],
+      "comparison": "MAE actually printed to five decimals"
+    },
+    {
+      "check": "S3/confirmation/line216/col3",
+      "pass": true,
+      "actual": [
+        0.141163
+      ],
+      "expected": [
+        0.14116331049484046
+      ]
+    },
+    {
+      "check": "S3/confirmation/line216/col4",
+      "pass": true,
+      "actual": [
+        3859.352
+      ],
+      "expected": [
+        3859.3515816175495
+      ]
+    },
+    {
+      "check": "S3/confirmation/line216/col5",
+      "pass": true,
+      "actual": [
+        397.189
+      ],
+      "expected": [
+        397.189079756997
+      ]
+    },
+    {
+      "check": "S3/confirmation/line216/seed_range",
+      "pass": true,
+      "actual": [
+        0.139278,
+        0.14279
+      ],
+      "expected": [
+        0.1392776376526836,
+        0.14279033049921175
+      ]
+    },
+    {
+      "check": "S3detail/line224/fine",
+      "pass": true,
+      "actual": [
+        396.668
+      ],
+      "expected": [
+        396.66766741176025
+      ]
+    },
+    {
+      "check": "S3detail/line224/coarse",
+      "pass": true,
+      "actual": [
+        399.498
+      ],
+      "expected": [
+        399.49792332697274
+      ]
+    },
+    {
+      "check": "S3detail/line224/differenceCI",
+      "pass": true,
+      "actual": [
+        -2.83,
+        -6.769,
+        0.565
+      ],
+      "expected": [
+        -2.83025591521249,
+        -6.768951493469106,
+        0.565249784023277
+      ]
+    },
+    {
+      "check": "S3detail/line224/relativeNMAE",
+      "pass": true,
+      "actual": [
+        2.593
+      ],
+      "expected": [
+        2.593056024890217
+      ]
+    },
+    {
+      "check": "S3detail/line225/fine",
+      "pass": true,
+      "actual": [
+        393.478
+      ],
+      "expected": [
+        393.4779858501549
+      ]
+    },
+    {
+      "check": "S3detail/line225/coarse",
+      "pass": true,
+      "actual": [
+        395.787
+      ],
+      "expected": [
+        395.78741974805575
+      ]
+    },
+    {
+      "check": "S3detail/line225/differenceCI",
+      "pass": true,
+      "actual": [
+        -2.309,
+        -9.399,
+        3.42
+      ],
+      "expected": [
+        -2.309433897900874,
+        -9.39925435536913,
+        3.4198985819911263
+      ]
+    },
+    {
+      "check": "S3detail/line225/relativeNMAE",
+      "pass": true,
+      "actual": [
+        0.296
+      ],
+      "expected": [
+        0.29604771836331256
+      ]
+    },
+    {
+      "check": "S3detail/line226/fine",
+      "pass": true,
+      "actual": [
+        394.185
+      ],
+      "expected": [
+        394.1849149283125
+      ]
+    },
+    {
+      "check": "S3detail/line226/coarse",
+      "pass": true,
+      "actual": [
+        398.996
+      ],
+      "expected": [
+        398.9963521300823
+      ]
+    },
+    {
+      "check": "S3detail/line226/differenceCI",
+      "pass": true,
+      "actual": [
+        -4.811,
+        -11.329,
+        -0.072
+      ],
+      "expected": [
+        -4.81143720176982,
+        -11.328589234693668,
+        -0.07210022626852662
+      ]
+    },
+    {
+      "check": "S3detail/line226/relativeNMAE",
+      "pass": true,
+      "actual": [
+        1.327
+      ],
+      "expected": [
+        1.327120929511505
+      ]
+    },
+    {
+      "check": "S3detail/line227/fine",
+      "pass": true,
+      "actual": [
+        391.714
+      ],
+      "expected": [
+        391.7138174672543
+      ]
+    },
+    {
+      "check": "S3detail/line227/coarse",
+      "pass": true,
+      "actual": [
+        394.791
+      ],
+      "expected": [
+        394.7914893227573
+      ]
+    },
+    {
+      "check": "S3detail/line227/differenceCI",
+      "pass": true,
+      "actual": [
+        -3.078,
+        -8.696,
+        0.936
+      ],
+      "expected": [
+        -3.077671855503013,
+        -8.696002243336576,
+        0.9364917923489139
+      ]
+    },
+    {
+      "check": "S3detail/line227/relativeNMAE",
+      "pass": true,
+      "actual": [
+        0.841
+      ],
+      "expected": [
+        0.8412264000966285
+      ]
+    },
+    {
+      "check": "S3detail/line228/fine",
+      "pass": true,
+      "actual": [
+        388.338
+      ],
+      "expected": [
+        388.3378272419616
+      ]
+    },
+    {
+      "check": "S3detail/line228/coarse",
+      "pass": true,
+      "actual": [
+        396.663
+      ],
+      "expected": [
+        396.6625306677787
+      ]
+    },
+    {
+      "check": "S3detail/line228/differenceCI",
+      "pass": true,
+      "actual": [
+        -8.325,
+        -19.646,
+        -1.081
+      ],
+      "expected": [
+        -8.32470342581712,
+        -19.645797577713054,
+        -1.0806646708109482
+      ]
+    },
+    {
+      "check": "S3detail/line228/relativeNMAE",
+      "pass": true,
+      "actual": [
+        0.673
+      ],
+      "expected": [
+        0.6734356473300673
+      ]
+    },
+    {
+      "check": "S3detail/line229/fine",
+      "pass": true,
+      "actual": [
+        392.087
+      ],
+      "expected": [
+        392.0866998797944
+      ]
+    },
+    {
+      "check": "S3detail/line229/coarse",
+      "pass": true,
+      "actual": [
+        397.189
+      ],
+      "expected": [
+        397.189079756997
+      ]
+    },
+    {
+      "check": "S3detail/line229/differenceCI",
+      "pass": true,
+      "actual": [
+        -5.102,
+        -12.104,
+        -0.411
+      ],
+      "expected": [
+        -5.102379877202566,
+        -12.104092744722669,
+        -0.4107637497000875
+      ]
+    },
+    {
+      "check": "S3detail/line229/relativeNMAE",
+      "pass": true,
+      "actual": [
+        0.848
+      ],
+      "expected": [
+        0.8480439694400044
+      ]
+    },
+    {
+      "check": "S3simult/line240/point",
+      "pass": true,
+      "actual": [
+        0.000336
+      ],
+      "expected": [
+        0.00033577342749152583
+      ]
+    },
+    {
+      "check": "S3simult/line240/maxT",
+      "pass": true,
+      "actual": [
+        -0.000792,
+        0.001463
+      ],
+      "expected": [
+        -0.0007918495132703466,
+        0.0014633963682533983
+      ]
+    },
+    {
+      "check": "S3simult/line240/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.000692,
+        0.001659
+      ],
+      "expected": [
+        -0.0006916700897472365,
+        0.001659279205247581
+      ]
+    },
+    {
+      "check": "S3simult/line241/point",
+      "pass": true,
+      "actual": [
+        0.000217
+      ],
+      "expected": [
+        0.00021650212230550636
+      ]
+    },
+    {
+      "check": "S3simult/line241/maxT",
+      "pass": true,
+      "actual": [
+        -0.000963,
+        0.001396
+      ],
+      "expected": [
+        -0.0009633007412905034,
+        0.0013963049859015161
+      ]
+    },
+    {
+      "check": "S3simult/line241/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.000917,
+        0.001453
+      ],
+      "expected": [
+        -0.0009168356490960426,
+        0.0014534730356998344
+      ]
+    },
+    {
+      "check": "S3simult/line242/point",
+      "pass": true,
+      "actual": [
+        -0.000658
+      ],
+      "expected": [
+        -0.0006576675576088487
+      ]
+    },
+    {
+      "check": "S3simult/line242/maxT",
+      "pass": true,
+      "actual": [
+        -0.002224,
+        0.000909
+      ],
+      "expected": [
+        -0.002224461292781501,
+        0.0009091261775638034
+      ]
+    },
+    {
+      "check": "S3simult/line242/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.002418,
+        0.000788
+      ],
+      "expected": [
+        -0.0024179039324752597,
+        0.0007883989414963027
+      ]
+    },
+    {
+      "check": "S3simult/line243/point",
+      "pass": true,
+      "actual": [
+        0.000749
+      ],
+      "expected": [
+        0.0007486650606123857
+      ]
+    },
+    {
+      "check": "S3simult/line243/maxT",
+      "pass": true,
+      "actual": [
+        -0.000784,
+        0.002282
+      ],
+      "expected": [
+        -0.000784404644002979,
+        0.0022817347652277506
+      ]
+    },
+    {
+      "check": "S3simult/line243/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.000623,
+        0.002458
+      ],
+      "expected": [
+        -0.0006230471936982925,
+        0.002457905010149752
+      ]
+    },
+    {
+      "check": "S3simult/line244/point",
+      "pass": true,
+      "actual": [
+        0.000986
+      ],
+      "expected": [
+        0.0009861048893073099
+      ]
+    },
+    {
+      "check": "S3simult/line244/maxT",
+      "pass": true,
+      "actual": [
+        -0.001425,
+        0.003397
+      ],
+      "expected": [
+        -0.0014251804450330723,
+        0.003397390223647692
+      ]
+    },
+    {
+      "check": "S3simult/line244/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.00077,
+        0.004103
+      ],
+      "expected": [
+        -0.0007700878154045705,
+        0.004102798604000288
+      ]
+    },
+    {
+      "check": "S3simult/line245/point",
+      "pass": true,
+      "actual": [
+        -0.000567
+      ],
+      "expected": [
+        -0.0005670933675070711
+      ]
+    },
+    {
+      "check": "S3simult/line245/maxT",
+      "pass": true,
+      "actual": [
+        -0.001925,
+        0.000791
+      ],
+      "expected": [
+        -0.001925366662767174,
+        0.0007911799277530319
+      ]
+    },
+    {
+      "check": "S3simult/line245/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.002071,
+        0.000753
+      ],
+      "expected": [
+        -0.0020706174335999405,
+        0.0007528426016695452
+      ]
+    },
+    {
+      "check": "S3simult/line246/point",
+      "pass": true,
+      "actual": [
+        -0.002215
+      ],
+      "expected": [
+        -0.002215201741915751
+      ]
+    },
+    {
+      "check": "S3simult/line246/maxT",
+      "pass": true,
+      "actual": [
+        -0.005619,
+        0.001188
+      ],
+      "expected": [
+        -0.005618685242001025,
+        0.0011882817581695226
+      ]
+    },
+    {
+      "check": "S3simult/line246/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.006402,
+        0.000384
+      ],
+      "expected": [
+        -0.0064020923879636255,
+        0.0003835862792579452
+      ]
+    },
+    {
+      "check": "S3simult/line247/point",
+      "pass": true,
+      "actual": [
+        0.000873
+      ],
+      "expected": [
+        0.0008726845218659796
+      ]
+    },
+    {
+      "check": "S3simult/line247/maxT",
+      "pass": true,
+      "actual": [
+        -0.001142,
+        0.002887
+      ],
+      "expected": [
+        -0.0011416042618219366,
+        0.0028869733055538957
+      ]
+    },
+    {
+      "check": "S3simult/line247/Bonferroni",
+      "pass": true,
+      "actual": [
+        -0.001217,
+        0.003007
+      ],
+      "expected": [
+        -0.0012173067762319086,
+        0.003006656011450286
+      ]
+    },
+    {
+      "check": "S3precision/line255/SE",
+      "pass": true,
+      "actual": [
+        0.00085
+      ],
+      "expected": [
+        0.0008497251529363321
+      ]
+    },
+    {
+      "check": "S3precision/line255/MDES",
+      "pass": true,
+      "actual": [
+        0.002381
+      ],
+      "expected": [
+        0.002380577427925209
+      ]
+    },
+    {
+      "check": "S3precision/line255/oldCI",
+      "pass": true,
+      "actual": [
+        -0.003246,
+        0.000107
+      ],
+      "expected": [
+        -0.0032455760044435384,
+        0.00010654687487498559
+      ]
+    },
+    {
+      "check": "S3precision/line256/SE",
+      "pass": true,
+      "actual": [
+        0.000781
+      ],
+      "expected": [
+        0.0007805849793131304
+      ]
+    },
+    {
+      "check": "S3precision/line256/MDES",
+      "pass": true,
+      "actual": [
+        0.002187
+      ],
+      "expected": [
+        0.0021868753395246836
+      ]
+    },
+    {
+      "check": "S3precision/line256/oldCI",
+      "pass": true,
+      "actual": [
+        -0.002971,
+        0.00019
+      ],
+      "expected": [
+        -0.0029706580631829226,
+        0.00018975514334469977
+      ]
+    },
+    {
+      "check": "S3REML/line262/estimate",
+      "pass": true,
+      "actual": [
+        -0.001448
+      ],
+      "expected": [
+        -0.001448026421402438
+      ]
+    },
+    {
+      "check": "S3REML/line262/CI",
+      "pass": true,
+      "actual": [
+        -0.002912,
+        1.6e-05
+      ],
+      "expected": [
+        -0.0029122322406376104,
+        1.6179397832734267e-05
+      ]
+    },
+    {
+      "check": "S3REML/line262/variance3",
+      "pass": true,
+      "actual": 7.52e-06,
+      "expected": 7.524011332098704e-06,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line262/variance4",
+      "pass": true,
+      "actual": 2.01e-07,
+      "expected": 2.007571861308312e-07,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line262/variance5",
+      "pass": true,
+      "actual": 3.47e-05,
+      "expected": 3.473658762870172e-05,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line262/lag1",
+      "pass": true,
+      "actual": [
+        0.038
+      ],
+      "expected": [
+        0.038101635240618895
+      ]
+    },
+    {
+      "check": "S3REML/line263/estimate",
+      "pass": true,
+      "actual": [
+        -0.001472
+      ],
+      "expected": [
+        -0.001472242933892948
+      ]
+    },
+    {
+      "check": "S3REML/line263/CI",
+      "pass": true,
+      "actual": [
+        -0.002928,
+        -1.7e-05
+      ],
+      "expected": [
+        -0.0029275346131345803,
+        -1.6951254651315735e-05
+      ]
+    },
+    {
+      "check": "S3REML/line263/variance3",
+      "pass": true,
+      "actual": 1.61e-05,
+      "expected": 1.6125813809109164e-05,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line263/variance4",
+      "pass": true,
+      "actual": 0.0,
+      "expected": 0.0,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line263/variance5",
+      "pass": true,
+      "actual": 8.04e-05,
+      "expected": 8.037093895207139e-05,
+      "comparison": "three significant figures as actually printed, or exact zero"
+    },
+    {
+      "check": "S3REML/line263/lag1",
+      "pass": true,
+      "actual": [
+        0.099
+      ],
+      "expected": [
+        0.09909526562289138
+      ]
+    },
+    {
+      "check": "S3source/line282/col1",
+      "pass": true,
+      "actual": [
+        1.04413
+      ],
+      "expected": [
+        1.0441297192083434
+      ]
+    },
+    {
+      "check": "S3source/line282/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line282/col3",
+      "pass": true,
+      "actual": [
+        0.199762
+      ],
+      "expected": [
+        0.1997618864065571
+      ]
+    },
+    {
+      "check": "S3source/line282/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line283/col1",
+      "pass": true,
+      "actual": [
+        0.981596
+      ],
+      "expected": [
+        0.9815961423247076
+      ]
+    },
+    {
+      "check": "S3source/line283/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line283/col3",
+      "pass": true,
+      "actual": [
+        0.202307
+      ],
+      "expected": [
+        0.2023068984334763
+      ]
+    },
+    {
+      "check": "S3source/line283/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line284/col1",
+      "pass": true,
+      "actual": [
+        0.961592
+      ],
+      "expected": [
+        0.9615924314745953
+      ]
+    },
+    {
+      "check": "S3source/line284/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line284/col3",
+      "pass": true,
+      "actual": [
+        0.211282
+      ],
+      "expected": [
+        0.21128150512621324
+      ]
+    },
+    {
+      "check": "S3source/line284/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line285/col1",
+      "pass": true,
+      "actual": [
+        0.889042
+      ],
+      "expected": [
+        0.8890415810489936
+      ]
+    },
+    {
+      "check": "S3source/line285/col2",
+      "pass": true,
+      "actual": [
+        0.854269
+      ],
+      "expected": [
+        0.8542690912499477
+      ]
+    },
+    {
+      "check": "S3source/line285/col3",
+      "pass": true,
+      "actual": [
+        0.203086
+      ],
+      "expected": [
+        0.20308628850356594
+      ]
+    },
+    {
+      "check": "S3source/line285/col4",
+      "pass": true,
+      "actual": [
+        0.211562
+      ],
+      "expected": [
+        0.21156225062961184
+      ]
+    },
+    {
+      "check": "S3source/line286/col1",
+      "pass": true,
+      "actual": [
+        0.889634
+      ],
+      "expected": [
+        0.8896339068803254
+      ]
+    },
+    {
+      "check": "S3source/line286/col2",
+      "pass": true,
+      "actual": [
+        0.854269
+      ],
+      "expected": [
+        0.8542690912499477
+      ]
+    },
+    {
+      "check": "S3source/line286/col3",
+      "pass": true,
+      "actual": [
+        0.204909
+      ],
+      "expected": [
+        0.20490936766629728
+      ]
+    },
+    {
+      "check": "S3source/line286/col4",
+      "pass": true,
+      "actual": [
+        0.211562
+      ],
+      "expected": [
+        0.21156225062961184
+      ]
+    },
+    {
+      "check": "S3source/line287/col1",
+      "pass": true,
+      "actual": [
+        0.972515
+      ],
+      "expected": [
+        0.972514501662579
+      ]
+    },
+    {
+      "check": "S3source/line287/col2",
+      "pass": true,
+      "actual": [
+        1.159892
+      ],
+      "expected": [
+        1.1598922064679937
+      ]
+    },
+    {
+      "check": "S3source/line287/col3",
+      "pass": true,
+      "actual": [
+        0.217962
+      ],
+      "expected": [
+        0.21796154418671443
+      ]
+    },
+    {
+      "check": "S3source/line287/col4",
+      "pass": true,
+      "actual": [
+        0.224185
+      ],
+      "expected": [
+        0.2241847689445269
+      ]
+    },
+    {
+      "check": "S3source/line288/col1",
+      "pass": true,
+      "actual": [
+        0.8613
+      ],
+      "expected": [
+        0.8613000392740071
+      ]
+    },
+    {
+      "check": "S3source/line288/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line288/col3",
+      "pass": true,
+      "actual": [
+        0.213523
+      ],
+      "expected": [
+        0.21352290589100276
+      ]
+    },
+    {
+      "check": "S3source/line288/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line289/col1",
+      "pass": true,
+      "actual": [
+        1.00468
+      ],
+      "expected": [
+        1.0046798767177172
+      ]
+    },
+    {
+      "check": "S3source/line289/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line289/col3",
+      "pass": true,
+      "actual": [
+        0.206705
+      ],
+      "expected": [
+        0.20670520935001743
+      ]
+    },
+    {
+      "check": "S3source/line289/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line290/col1",
+      "pass": true,
+      "actual": [
+        1.097525
+      ],
+      "expected": [
+        1.0975252435523128
+      ]
+    },
+    {
+      "check": "S3source/line290/col2",
+      "pass": true,
+      "actual": [
+        1.000889
+      ],
+      "expected": [
+        1.0008888530369597
+      ]
+    },
+    {
+      "check": "S3source/line290/col3",
+      "pass": true,
+      "actual": [
+        0.227839
+      ],
+      "expected": [
+        0.2278390771094272
+      ]
+    },
+    {
+      "check": "S3source/line290/col4",
+      "pass": true,
+      "actual": [
+        0.22656
+      ],
+      "expected": [
+        0.2265597803940014
+      ]
+    },
+    {
+      "check": "S3source/line291/col1",
+      "pass": true,
+      "actual": [
+        1.063479
+      ],
+      "expected": [
+        1.0634785844581784
+      ]
+    },
+    {
+      "check": "S3source/line291/col2",
+      "pass": true,
+      "actual": [
+        0.975955
+      ],
+      "expected": [
+        0.9759550531505173
+      ]
+    },
+    {
+      "check": "S3source/line291/col3",
+      "pass": true,
+      "actual": [
+        0.216243
+      ],
+      "expected": [
+        0.21624309418585033
+      ]
+    },
+    {
+      "check": "S3source/line291/col4",
+      "pass": true,
+      "actual": [
+        0.206851
+      ],
+      "expected": [
+        0.20685100001839563
+      ]
+    },
+    {
+      "check": "all40source groups retained",
+      "pass": true,
+      "actual": 40,
+      "expected": 40
+    },
+    {
+      "check": "all40groups3fits",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "every source fit worse than daily",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "all120sourcefits bound",
+      "pass": true,
+      "actual": 120,
+      "expected": 120
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\direct_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\avg_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_absolute_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\haar_signed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\max_blur_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\mixed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\gated_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\attention_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_v1\\fits\\stride_conv_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261001.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261001.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261002.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261002.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\direct_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\avg_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_absolute_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\haar_signed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\max_blur_repeat_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\mixed_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\gated_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\attention_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_fine_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcecheckpoint/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261003.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "sourcereport/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "source10traces/results\\r7_raw_access_robust_v1\\fits\\stride_conv_coarse_seed20261003.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\initial_coordinate_alignment.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\source_competence_by_cell.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\source_competence_gate.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\mean_std\\r6_source_competence_comparison.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\mean_std\\source_audit.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\mean_std\\source_checkpoint_validation.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\mean_std\\source_numpy64_forward_tolerance.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\mean_std\\source_quality_references.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\median_mad\\r6_source_competence_comparison.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\median_mad\\source_audit.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\median_mad\\source_checkpoint_validation.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\median_mad\\source_numpy64_forward_tolerance.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "rawsource-output/results\\r7_raw_independent_v1\\median_mad\\source_quality_references.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "raw extension no external production",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "no external folder/results/r7_raw_access_v1/calibration",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "no external folder/results/r7_raw_access_v1/confirmation",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "no external folder/results/r7_raw_access_robust_v1/calibration",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "no external folder/results/r7_raw_access_robust_v1/confirmation",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\analysis_plan.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\completion.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\confirmation_crossed_reml.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\confirmation_design_precision.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\confirmation_matched_bootstrap_draws.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\confirmation_multiplicity_intervals.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\confirmation_paired_customer_week_contrasts.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\selftest.json",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\uci_crossed_reml.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\uci_design_precision.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\uci_matched_bootstrap_draws.npz",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\uci_multiplicity_intervals.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "139statoutput/results\\r7_statistics_v1\\uci_paired_customer_week_contrasts.csv",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "references34/remapping34",
+      "pass": true,
+      "actual": 34,
+      "expected": 34
+    },
+    {
+      "check": "reference metadata preserved 1->1",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 2->2",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 3->3",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 5->4",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 7->5",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 8->6",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 9->7",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 10->8",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 11->9",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 12->10",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 13->11",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 14->12",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 15->13",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 16->14",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 17->15",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 18->16",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 19->17",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 20->18",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 26->19",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 28->20",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 29->21",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 30->22",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 31->23",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 32->24",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 33->25",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 34->26",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 35->27",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 36->28",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 37->29",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 38->30",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 39->31",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 40->32",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 41->33",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "reference metadata preserved 42->34",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "all34used/validcitations",
+      "pass": true,
+      "actual": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "comparison": "exclude mathematical [0,1] interval and fixed [1,2,1]/4 filter from citation syntax"
+    },
+    {
+      "check": "preprints accurately labeled",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "AI roles truthful/unknown human review not invented",
+      "pass": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "primary-source/r6_dmanet_2026_official.pdf",
+      "pass": true,
+      "actual": "e6fdee8f4a5982b3c37a8e877c18c79aadb3e55d446c533a4849d6852d4e3865",
+      "expected": "e6fdee8f4a5982b3c37a8e877c18c79aadb3e55d446c533a4849d6852d4e3865"
+    },
+    {
+      "check": "primary-source/r6_dmanet_2026_official.html",
+      "pass": true,
+      "actual": "28078728a98064e7a8662fcf40f0924c3b1a70d566c77ebd844d2d5201671165",
+      "expected": "28078728a98064e7a8662fcf40f0924c3b1a70d566c77ebd844d2d5201671165"
+    },
+    {
+      "check": "primary-source/r6_blurpool_2019_official.pdf",
+      "pass": true,
+      "actual": "3496c80b9a7fd2b51ca83431a5ec498665e0e27f36ab685ed667c6dcd233625d",
+      "expected": "3496c80b9a7fd2b51ca83431a5ec498665e0e27f36ab685ed667c6dcd233625d"
+    },
+    {
+      "check": "primary-source/r6_wpmixer_2025_official.pdf",
+      "pass": true,
+      "actual": "96b505fe77e6488970a565f39a53181db1c13d00dd7f334764699fe8b84478ea",
+      "expected": "96b505fe77e6488970a565f39a53181db1c13d00dd7f334764699fe8b84478ea"
+    },
+    {
+      "check": "primary-source/r6_timemixerpp_2025_official.pdf",
+      "pass": true,
+      "actual": "fe0314e9017764d4404b291cbee5662908c17753a67896fe2e0f0712d81091d6",
+      "expected": "fe0314e9017764d4404b291cbee5662908c17753a67896fe2e0f0712d81091d6"
+    },
+    {
+      "check": "primary-source/r6_boureau_2010_official.pdf",
+      "pass": true,
+      "actual": "e78f5b704c274bff761811ef8f4ab7ef3dd1f09d398fa59560980e90763cd7a2",
+      "expected": "e78f5b704c274bff761811ef8f4ab7ef3dd1f09d398fa59560980e90763cd7a2"
+    },
+    {
+      "check": "primary-source/r6_lee_2016_official.pdf",
+      "pass": true,
+      "actual": "c2a1d846f32b38f91f909bd8992b085d717d48d669f2b22f6b1616636862ecee",
+      "expected": "c2a1d846f32b38f91f909bd8992b085d717d48d669f2b22f6b1616636862ecee"
+    },
+    {
+      "check": "primary-source/r6_dmanet_code_9d21bd2_model.py",
+      "pass": true,
+      "actual": "8f07454630e890d48036560e1c2a5e6245d453f4dbdd95b832540241fe5dfa8e",
+      "expected": "8f07454630e890d48036560e1c2a5e6245d453f4dbdd95b832540241fe5dfa8e"
+    },
+    {
+      "check": "primary-source/r6_dmanet_code_9d21bd2_README.md",
+      "pass": true,
+      "actual": "ba43838a4739efcc6459f1d69edeeca6db8bbf1c5fcc87fa0d85bdbc57c6e2ce",
+      "expected": "ba43838a4739efcc6459f1d69edeeca6db8bbf1c5fcc87fa0d85bdbc57c6e2ce"
+    },
+    {
+      "check": "primary-source/r6_dmanet_code_9d21bd2_LICENSE.txt",
+      "pass": true,
+      "actual": "8a6caa178ea3f33ebff5d7bb5558628cf5b423305dc30d3630f86564c7db94a2",
+      "expected": "8a6caa178ea3f33ebff5d7bb5558628cf5b423305dc30d3630f86564c7db94a2"
+    },
+    {
+      "check": "primary-source/r6_blackwell_1953_official_jina.txt",
+      "pass": true,
+      "actual": "4b95f3d41cc8310fe2674da035859a51f81362205e25eead864ce574a1d69026",
+      "expected": "4b95f3d41cc8310fe2674da035859a51f81362205e25eead864ce574a1d69026"
+    },
+    {
+      "check": "primary-source/r6_blackwell_1951_official_jina.txt",
+      "pass": true,
+      "actual": "88c1c7b66fab0157aca60e6ffc452c583d4b03981a1d20810cdee9949df9bfbe",
+      "expected": "88c1c7b66fab0157aca60e6ffc452c583d4b03981a1d20810cdee9949df9bfbe"
+    },
+    {
+      "check": "fixedfilter buffer wording repaired",
+      "pass": true
+    },
+    {
+      "check": "coarse extra-reference coefficients qualified",
+      "pass": true
+    },
+    {
+      "check": "R6 own source-weight criterion explicitly distinguished",
+      "pass": true
+    },
+    {
+      "check": "loss boundary U expression total not conditional",
+      "pass": true
+    },
+    {
+      "check": "Fig1Gaussian gap in actual panel b",
+      "pass": true
+    },
+    {
+      "check": "Fig1four actual panels correctly bounded",
+      "pass": true
+    },
+    {
+      "check": "primary unchanged and all8 simultaneous intervals span zero",
+      "pass": true
+    },
+    {
+      "check": "source gate bothFAIL/no extra external",
+      "pass": true
+    },
+    {
+      "check": "REML uncertainty not used to replace primary",
+      "pass": true
+    },
+    {
+      "check": "REML residual重尾 and zero boundary actually retained",
+      "pass": true
+    },
+    {
+      "check": "joint customer/calendar-period transfer not calendar-drift attribution",
+      "pass": true
+    },
+    {
+      "check": "loss-dependent optimality mathematical not real mechanism",
+      "pass": true
+    },
+    {
+      "check": "139 code identity",
+      "pass": true
+    },
+    {
+      "check": "statistics note identity",
+      "pass": true
+    },
+    {
+      "check": "144 code identity",
+      "pass": true
+    },
+    {
+      "check": "138 branch code identity",
+      "pass": true
+    },
+    {
+      "check": "145 branch code identity",
+      "pass": true
+    },
+    {
+      "check": "140 exact theory producer identity",
+      "pass": true
+    },
+    {
+      "check": "body synthetic gap alpha0",
+      "pass": true
+    },
+    {
+      "check": "body synthetic gap alpha1",
+      "pass": true
+    },
+    {
+      "check": "body oracle threshold sigmaA0.25",
+      "pass": true
+    },
+    {
+      "check": "body oracle threshold sigmaA1",
+      "pass": true
+    },
+    {
+      "check": "body oracle threshold sigmaA2",
+      "pass": true
+    },
+    {
+      "check": "all6 fine component detail gains",
+      "pass": true
+    },
+    {
+      "check": "all6 fine primaryNMAE worsens",
+      "pass": true
+    },
+    {
+      "check": "body .58-2.10pct detail / .30-2.59pct NMAE",
+      "pass": true
+    },
+    {
+      "check": "body max physicalMAE fine",
+      "pass": true
+    },
+    {
+      "check": "body max physicalMAE coarse",
+      "pass": true
+    },
+    {
+      "check": "body signed fine/mean_mse_kw2_three_seed_mean",
+      "pass": true
+    },
+    {
+      "check": "body signed fine/detail_mse_kw2_three_seed_mean",
+      "pass": true
+    },
+    {
+      "check": "body signed coarse/mean_mse_kw2_three_seed_mean",
+      "pass": true
+    },
+    {
+      "check": "body signed coarse/detail_mse_kw2_three_seed_mean",
+      "pass": true
+    },
+    {
+      "check": "primary three seed signs/uci",
+      "pass": true
+    },
+    {
+      "check": "body primary seedmin/uci",
+      "pass": true
+    },
+    {
+      "check": "body primary seedmax/uci",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/uci/persistence",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/uci/daily_naive",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/uci/weekly_naive",
+      "pass": true
+    },
+    {
+      "check": "crossed REML20 allseed/contrast fits/uci",
+      "pass": true
+    },
+    {
+      "check": "REML zero-week boundary count/uci",
+      "pass": true
+    },
+    {
+      "check": "primary three seed signs/confirmation",
+      "pass": true
+    },
+    {
+      "check": "body primary seedmin/confirmation",
+      "pass": true
+    },
+    {
+      "check": "body primary seedmax/confirmation",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/confirmation/persistence",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/confirmation/daily_naive",
+      "pass": true
+    },
+    {
+      "check": "body qualityreference/confirmation/weekly_naive",
+      "pass": true
+    },
+    {
+      "check": "crossed REML20 allseed/contrast fits/confirmation",
+      "pass": true
+    },
+    {
+      "check": "REML zero-week boundary count/confirmation",
+      "pass": true
+    },
+    {
+      "check": "body confirmation primary excesskurtosis",
+      "pass": true
+    },
+    {
+      "check": "body source minimum/mean_std",
+      "pass": true
+    },
+    {
+      "check": "body source maximum/mean_std",
+      "pass": true,
+      "actual_printed": "1.2777508165",
+      "expected_unrounded": 1.2777508164841438,
+      "printed_decimal_places": 10,
+      "note": "Supplement prints ten decimals; prior six-decimal text-presence test was a checker-only false flag."
+    },
+    {
+      "check": "body source minimum/median_mad",
+      "pass": true
+    },
+    {
+      "check": "body source maximum/median_mad",
+      "pass": true
+    },
+    {
+      "check": "body exactloss C/mse",
+      "pass": true
+    },
+    {
+      "check": "body exactloss C/mae",
+      "pass": true
+    },
+    {
+      "check": "body exactloss U/mse",
+      "pass": true
+    },
+    {
+      "check": "body exactloss U/mae",
+      "pass": true
+    },
+    {
+      "check": "main/supp no formal table numbering duplicates",
+      "pass": true
+    },
+    {
+      "check": "latest actual main identity",
+      "pass": true
+    },
+    {
+      "check": "latest actual supplement identity",
+      "pass": true
+    },
+    {
+      "check": "builder manifest binds both delivered identities",
+      "pass": true
+    },
+    {
+      "check": "Figure1 three fit markers not independent test replications",
+      "pass": true
+    },
+    {
+      "check": "Figure1 oracle versus fitted evidence boundaries",
+      "pass": true
+    },
+    {
+      "check": "Figure2 retained primary pointwise intervals",
+      "pass": true
+    },
+    {
+      "check": "Figure2 four diagnostics simultaneous maxT scope",
+      "pass": true
+    },
+    {
+      "check": "Figure2 conditional fit and nonzero uncertainty boundary",
+      "pass": true
+    },
+    {
+      "check": "Figure3 source competence stop and fresh deployment evaluation",
+      "pass": true
+    },
+    {
+      "check": "Figure3 diagnostic is not validated selection algorithm",
+      "pass": true
+    },
+    {
+      "check": "nontrainable filter and coarse reference capacity boundaries",
+      "pass": true
+    },
+    {
+      "check": "original R6 versus raw-network source estimands distinguished",
+      "pass": true
+    }
+  ],
+  "automatic_check_count": 865,
+  "automatic_failed_checks": [],
+  "required_fixes": [],
+  "resolved_repairs": [
+    "fixed nontrainable filter wording and additional coarse coefficient boundary",
+    "R6 original representation-weight source criterion separated from raw common-weight benchmark",
+    "loss example Bayes MSE total-expression wording",
+    "Figure1 panel/scope caption reconciled"
+  ],
+  "checker_repairs": [
+    "three significant-figure scientific notation was initially compared at overly tight relative tolerance; actual printed precision now used",
+    "[0,1] mathematical interval initially captured as citation; now excluded",
+    "supplement MAE verified again at actual five-decimal precision",
+    "Original source maximum checked at the actual ten-decimal printed precision, rather than searching its six-decimal rounding."
+  ],
+  "primary_source_gate_sha256": "384ff88c422a1884e0d79b7853a778bf046725600b7d799e27ba0d929849fa20",
+  "decision": "DELIVERY_GO",
+  "stage": "Final read-only scientific-content identity audit",
+  "main_file": "D:\\MLWork\\Neurocomputing_TailTransfer\\Neurocomputing_Manuscript.md",
+  "supplement_file": "D:\\MLWork\\Neurocomputing_TailTransfer\\Neurocomputing_Supplement.md",
+  "build_manifest_sha256": "59492a591e63c06c2b08a6fab415be1803d1530ea551b5161eb1b359223d5579",
+  "verified_at_utc": "2026-10-02T08:59:07.615144+00:00",
+  "boundaries": [
+    "No new fits, target forecasts, or significance-seeking analyses were run for this audit.",
+    "This audit does not assess visual geometry, package clean-room execution, public deposition, author responsibility, submission completion, or journal acceptance.",
+    "The source-only raw-network competence failures support stopping those branches, not a new external access-mechanism claim."
+  ]
+}

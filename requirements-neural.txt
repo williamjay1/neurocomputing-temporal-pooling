@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+-r requirements.txt
+torch==2.14.0+cpu
+neuralforecast==3.2.2
+scikit-learn==1.9.0

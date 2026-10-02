@@ -1,0 +1,26 @@
+{
+  "clients": [
+    "MT_017",
+    "MT_349",
+    "MT_022",
+    "MT_233",
+    "MT_082",
+    "MT_272",
+    "MT_001",
+    "MT_091"
+  ],
+  "cache_start": "2013-01-01",
+  "cache_end_exclusive": "2013-01-22",
+  "forecast_start": "2013-01-08",
+  "forecast_end_inclusive": "2013-01-21",
+  "warmup_days": 7,
+  "forecast_days": 14,
+  "history_slots": 672,
+  "horizon_slots": 96,
+  "shape": [
+    2016,
+    8
+  ],
+  "normalization": "normalization_v1.json; primary source-only pooled scaler",
+  "confirmation_data_in_pilot": false
+}

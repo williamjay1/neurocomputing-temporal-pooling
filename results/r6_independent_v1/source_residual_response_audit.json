@@ -1,0 +1,23 @@
+{
+  "status": "PASS_ALL_288_INDEPENDENT_SOURCE_RESIDUAL_RESPONSES",
+  "audit_script_sha256": "44a826920584ea682397a508999a3de95551fcbbf277522b781c214269ea5605",
+  "independent_forward_sha256": "c7effdc77c58b4e70fa58dd98eb7eecb68a47ba9390be73bd638d6259bde6d0b",
+  "producer_script_sha256": "c12176b6ff6bbbf4f05b5bfc0c542dcfe2d6f2c451f4f83f254a36c8838b939f",
+  "producer_csv_sha256": "4138bc27612d349b662273f8383dc3501d21974b9d2f451325c7b3806df31c33",
+  "producer_metadata_sha256": "a86cac5a4e3d107519923901a2e0638f2ee3c40d14f56208b4f5ec4f2ca8305e",
+  "source_completion_sha256": "5bc798dbd36b0983f8a674b927d9449d5f5747cdc11e7e4857ae914d15e8a5f5",
+  "source_cache_manifest_sha256": "a240d3c4c3f240bb798006ea10cbc4eed38fcc201d9ea71e936ca58790ba325a",
+  "output_csv_sha256": "f01cd6d9e7e2d009b4e29fe98e943312610ef0614f280ccb6b039c50f6a2409b",
+  "rows": 288,
+  "fixed_models": 36,
+  "source_windows_per_model": 104,
+  "exact_unmodified_pair_sign_swap_invariance_checks": 18,
+  "exact_all_amplitude_signed_direction_invariance_checks": 72,
+  "maximum_mean_absolute_response_disagreement_kw": 0.0,
+  "maximum_rms_response_disagreement_kw": 0.0,
+  "source_labels_or_future_target_values_scored": false,
+  "producer_130_131_132_imported": false,
+  "formal_optimization_executed": false,
+  "scope": "Frozen last-block preadapter residual intervention; earlier blocks, original normalization and baseline path fixed. Not global input invariance, a learned-information ceiling, or a proof of optimizer dynamics.",
+  "wall_seconds": 8.962941600009799
+}

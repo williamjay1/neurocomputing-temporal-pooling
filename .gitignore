@@ -1,0 +1,16 @@
+# Scientific inputs/outputs included in the release are deliberate.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+reproducibility/runs/
+reproducibility/.pytest_cache/
+.pytest_cache/
+# The author reviews the complete journal draft separately.
+/Neurocomputing_Manuscript.md
+/Neurocomputing_Supplement.md
+reproducibility/.temporary-tests/

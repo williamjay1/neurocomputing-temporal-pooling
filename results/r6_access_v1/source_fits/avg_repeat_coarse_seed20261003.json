@@ -1,0 +1,73 @@
+{
+  "status": "SOURCE_FIT_COMPLETE_NO_CALIBRATION_PREDICTION",
+  "adapter": "avg_repeat",
+  "history": "coarse",
+  "seed": 20261003,
+  "updates": 2000,
+  "parameter_count": 240036,
+  "prediction_active_parameter_count": 196356,
+  "selected_update": 2000,
+  "best_source_held_time_complete_pair_nmae": 0.09734892845153809,
+  "checkpoint_reload_source_nmae": 0.09734892845153809,
+  "trace": [
+    {
+      "update": 200,
+      "batch_train_complete_pair_nmae": 0.1352176070213318,
+      "held_time_complete_pair_nmae": 0.12773491442203522
+    },
+    {
+      "update": 400,
+      "batch_train_complete_pair_nmae": 0.10346776247024536,
+      "held_time_complete_pair_nmae": 0.1129453182220459
+    },
+    {
+      "update": 600,
+      "batch_train_complete_pair_nmae": 0.07762181013822556,
+      "held_time_complete_pair_nmae": 0.10883331298828125
+    },
+    {
+      "update": 800,
+      "batch_train_complete_pair_nmae": 0.11258504539728165,
+      "held_time_complete_pair_nmae": 0.1090351790189743
+    },
+    {
+      "update": 1000,
+      "batch_train_complete_pair_nmae": 0.10629936307668686,
+      "held_time_complete_pair_nmae": 0.10087968409061432
+    },
+    {
+      "update": 1200,
+      "batch_train_complete_pair_nmae": 0.08880864083766937,
+      "held_time_complete_pair_nmae": 0.10146357119083405
+    },
+    {
+      "update": 1400,
+      "batch_train_complete_pair_nmae": 0.0918257087469101,
+      "held_time_complete_pair_nmae": 0.1001146212220192
+    },
+    {
+      "update": 1600,
+      "batch_train_complete_pair_nmae": 0.143938809633255,
+      "held_time_complete_pair_nmae": 0.0995582789182663
+    },
+    {
+      "update": 1800,
+      "batch_train_complete_pair_nmae": 0.12885208427906036,
+      "held_time_complete_pair_nmae": 0.10039883106946945
+    },
+    {
+      "update": 2000,
+      "batch_train_complete_pair_nmae": 0.10193935036659241,
+      "held_time_complete_pair_nmae": 0.09734892845153809
+    }
+  ],
+  "fit_wall_seconds": 29.733402100013336,
+  "fit_process_cpu_seconds": 41.515625,
+  "checkpoint_bytes": 890772,
+  "checkpoint_sha256": "a73599ec15f71bad728e1dc0d9a7f4deb0d6b731a1c671c34950409546495d55",
+  "script_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "source_cache_manifest_sha256": "a240d3c4c3f240bb798006ea10cbc4eed38fcc201d9ea71e936ca58790ba325a",
+  "draws_sha256": "f4484a8f4db012fcf1792c0a6808a3cd01f8b649ef50cd52499a3f2c54dc6d73",
+  "protocol_sha256": "10978eefedd5b49ebda1c745d8ef3c1f85da6fb2458a9502427cebd0e9762a0a",
+  "calibration_or_confirmation_inference_performed": false
+}

@@ -1,0 +1,214 @@
+{
+  "status": "PASS_FINAL_METHOD_AND_CONTENT_AUDIT",
+  "stage": "R7 scientific-content delivery",
+  "scope": "Full method/claim/chronology/reproduction truth audit; not guaranteed acceptance, journal submission or public release approval.",
+  "main_sha256": "6e08b7ed11cb9841f443e9e596c902335d4163f306ac56e152cba5bd5088ca60",
+  "supplement_sha256": "25f5d6094f7bab380cb71750e76f327b9296ec7bf77c8768e9dcf67c01238847",
+  "main_read_lines": 390,
+  "supplement_read_lines": 326,
+  "initial_full_main_read_sha256": "66064b1e6aaf966016a8fca69f2ca91da0f051022544d31f77e9151856f7617f",
+  "final_captions_reread_and_bound": true,
+  "read_coverage": "All main and supplement bodies/references reviewed in successive chunks; final three caption changes reread against current hash.",
+  "checks": [
+    {
+      "dimension": "Contribution and novelty",
+      "status": "PASS",
+      "locations": [
+        "Main Abstract",
+        "Main 1",
+        "Main 2",
+        "Main 6-7"
+      ],
+      "finding": "Contribution is target-specific conditional risk, controlled coordinates, loss geometry and an executable assessment procedure. Maximum/average pooling, mixed/gated pooling, Haar, BlurPool and multiscale architectures are correctly identified as established; no new-codec, SOTA or native DMANet reproduction claim."
+    },
+    {
+      "dimension": "Restricted Bayes scope",
+      "status": "PASS",
+      "locations": [
+        "Main 3.1-3.4",
+        "Supplement S1"
+      ],
+      "finding": "Nonnested post-access C/U risks are separated from nested raw-information value. Gaussian/nondegenerate/finite-moment/symmetry assumptions, W>0 and alpha domains are explicit. Optimal MSE/MAE rankings are optimized for their own losses. Later examples are labeled post-result mathematical boundaries."
+    },
+    {
+      "dimension": "Matched neural fairness",
+      "status": "PASS",
+      "locations": [
+        "Main 4.1-4.2",
+        "Supplement S2-S3"
+      ],
+      "finding": "Identical learned tensor shapes, common draws/seeds/update budgets/source selection/native endpoint masks and compensated signed/direct initialization are documented. Noninvertible function classes differ. R6 has240036 registered and196356 forecast-active coefficients, with43680 final backcast coefficients excluded from the latter."
+    },
+    {
+      "dimension": "R6 chronology and unchanged advancement",
+      "status": "PASS",
+      "locations": [
+        "Main 4.2",
+        "R6 protocol/addendum",
+        "R6 root calibration/confirmation gates"
+      ],
+      "finding": "Source rows/checkpoint selection precede reserved2013/2014 endpoint scoring; past-only filling/scaling and fixed prior support dates are correct. Confirmation advancement was precommitted independently of calibration direction, significance or adapter winner; all36 fitted models and both full customer/period partitions were retained."
+    },
+    {
+      "dimension": "Common raw-input weights versus R6 weights",
+      "status": "PASS",
+      "locations": [
+        "Main 4.2-4.3",
+        "Supplement S3.2"
+      ],
+      "finding": "R6 source selection uses each representation observed-window mean, while raw-input extension uses a common raw observed-history row mean floor1. R6 source losses are explicitly a differently weighted descriptive comparator; raw-model gate is against same-mask/same-weight daily naive."
+    },
+    {
+      "dimension": "Raw-input source failure and stop",
+      "status": "PASS",
+      "locations": [
+        "Main 4.3",
+        "Main 5.4",
+        "Main 6",
+        "Supplement S3.2"
+      ],
+      "finding": "Both complete60-fit families and all40 grouped operation/history/normalizer summaries are reported. The frozen gate averages all36six-core selected source losses, with one permitted training-only median/MAD repair. Means0.9674671026/0.2138580085 fail daily0.1155796124; all120 fits remain retained and no new external forecast, score, bootstrap or third repair occurred."
+    },
+    {
+      "dimension": "Extra reference coefficients and fixed filter",
+      "status": "PASS",
+      "locations": [
+        "Main 4.3",
+        "Supplement S3.2"
+      ],
+      "finding": "Core53472, mixed/attention53473 and gated/stride53475 counts are exact. These extra references are parameter-nonmatched; repeated coarse mixed/gated/attention coefficients can cancel algebraically, so registered count is not equal effective capacity. Two source-only affine constants and fixed BlurPool filter are nontrainable."
+    },
+    {
+      "dimension": "Local versus complete-network inference",
+      "status": "PASS",
+      "locations": [
+        "Main 4.1",
+        "Main 4.4",
+        "Main 5.4",
+        "Main 6",
+        "Supplement S3.2"
+      ],
+      "finding": "Local residual interventions keep earlier blocks/normalization/last-value path fixed. All288 responses and18 relevant sign-swap invariances support local access behavior only. Whole-network Bayes information loss/optimizer cause is not claimed; the failed MLP cannot isolate bypass removal because architecture/capacity/normalization change jointly."
+    },
+    {
+      "dimension": "Primary and multiplicity inference",
+      "status": "PASS",
+      "locations": [
+        "Main 4.2",
+        "Main Tables2-3",
+        "Main Figure2",
+        "Supplement S3.1"
+      ],
+      "finding": "Original primary paired5000customer/Monday-week percentile intervals and fixed analysis seed13320261002 remain unchanged and span zero. Four fine diagnostics are adjusted within each phase on identical draws; all8 simultaneous intervals span zero. Three seeds are fixed fit sensitivity, never independent customers/test replications or a seed population variance."
+    },
+    {
+      "dimension": "Precision and REML sensitivity",
+      "status": "PASS",
+      "locations": [
+        "Main 4.2",
+        "Main 5.2",
+        "Supplement S3.1"
+      ],
+      "finding": "Approximate80%-detectability is post-review local-normal conditional precision, not observed/prospective power. Equal-week REML targets a different weighting; Gaussian/serial/boundary/variance-component plug-in limitations, confirmation zero week variance and heavy residual kurtosis57.12 are disclosed. Its narrowly nonzero interval does not replace primary inference."
+    },
+    {
+      "dimension": "Secondary losses and transport boundary",
+      "status": "PASS",
+      "locations": [
+        "Main Abstract",
+        "Main5.2-5.3",
+        "MainTable4",
+        "SupplementS3"
+      ],
+      "finding": "Fine-history detail benefits are directional cell means, correlated across shared models/data, with full intervals and no six-replication inference. Physical and normalized customer macros can differ. Joint customer/period changes are not calendar-drift causes. Already-scored R6 cohorts are not a new independent confirmation for review-driven extensions."
+    },
+    {
+      "dimension": "Final captions",
+      "status": "PASS",
+      "locations": [
+        "MainFigure1line219",
+        "MainFigure2line250",
+        "MainFigure3line307"
+      ],
+      "finding": "Final four-panel Figure1 distinguishes3fixed-fit markers from independent test replications and oracle panels from neural fits; Figure2 distinguishes pointwise primary from phase-specific4contrast maxT; Figure3 stops a failed source gate, requires fresh evaluation for a newly selected deployment, and keeps complete costs separate."
+    },
+    {
+      "dimension": "Public record, package and AI truth",
+      "status": "PASS",
+      "locations": [
+        "MainData and code availability",
+        "MainAI declaration",
+        "SupplementS4",
+        "public_deposit_candidate_metadata.json",
+        "reproduction_index.json"
+      ],
+      "finding": "Project public DOI is explicitly unassigned/null; local metadata is not published and not a repository record, with creator/license choice still pending. No clean relocated raw-to-result rerun or reproduced external architecture benchmark is claimed. Full actual AI roles include design/proof/code/analysis/drafting, without invented human review or a restricted-use disclosure."
+    }
+  ],
+  "required_fixes": [],
+  "high_issues": 0,
+  "medium_required_issues": 0,
+  "independently_rechecked_source_fits": 120,
+  "raw_network_external_forecasts": 0,
+  "raw_network_external_scores": 0,
+  "raw_network_external_bootstrap_resamples": 0,
+  "source_gate_branches": [
+    {
+      "branch": "mean_std",
+      "source_selected_core_fits": 36,
+      "mean_independent_core_source_nmae": 0.967467102556526,
+      "mean_producer_core_source_nmae": 0.9674670878383849,
+      "frozen_daily_naive_threshold": 0.11557961237049463,
+      "difference_vs_frozen_daily": 0.8518874901860314,
+      "gate": "FAIL_STOP_EXTERNAL_FORECASTS",
+      "all60_individually_worse_than_daily": true,
+      "external_forecast_directories_exist": {
+        "calibration": false,
+        "confirmation": false
+      },
+      "source_audit_sha256": "a32f51579c968db0ff73141fbe60b6639a0b31c23746ff1fe89533c975383428",
+      "training_completion_sha256": "b26488292b0c7b154a3fbbadefe0be255832eced7e7fb178adf0bb0c93279c36"
+    },
+    {
+      "branch": "median_mad",
+      "source_selected_core_fits": 36,
+      "mean_independent_core_source_nmae": 0.21385800847571493,
+      "mean_producer_core_source_nmae": 0.21385800631509888,
+      "frozen_daily_naive_threshold": 0.11557961237049463,
+      "difference_vs_frozen_daily": 0.0982783961052203,
+      "gate": "FAIL_STOP_EXTERNAL_FORECASTS",
+      "all60_individually_worse_than_daily": true,
+      "external_forecast_directories_exist": {
+        "calibration": false,
+        "confirmation": false
+      },
+      "source_audit_sha256": "b81d42c115578bb034c4a9902bac1db1704c0220b29220038d9f5db2646f6e50",
+      "training_completion_sha256": "9a2c4293e0041c9540b47d77701752730c173de447fafc0be6f550916a59f253"
+    }
+  ],
+  "public_project_doi": null,
+  "public_release_status": "prepared local candidate; not published; creator and code-license metadata pending",
+  "remaining_boundaries": [
+    "Full-network loss mechanism is unresolved; local coordinate invariance cannot identify it.",
+    "Three fixed fits and modest external cohorts support conditional customer/time inference only.",
+    "All review-driven mathematical/statistical/source-gate extensions are identified as post-result work.",
+    "No universal pooling/retention ranking, validated learned selector, contemporary SOTA or deployment saving is established.",
+    "No publicly assigned project DOI or verified relocated clean full rerun is claimed."
+  ],
+  "evidence_bindings_sha256": {
+    "docs\\R6_RESEARCH_PROTOCOL_20261002.md": "c9e76c448cc384c82b82c0b2f72afeca5f3cea4a25664657c1d30670cb372a04",
+    "docs\\R6_IMPLEMENTATION_ADDENDUM_20261002.md": "798a8573484cc0e0a10fb31792b7c9840146c89ebe863758bb5546f4b7123e99",
+    "docs\\R7_SOURCE_CONDITIONING_ADDENDUM_20261002.md": "cc5bc885f082f5f7445a6e29a068360c2449afe1e95e140e4288ff2c7d50096f",
+    "results\\r6_access_v1\\root_calibration_gate.json": "1b15de3cbae33f3c197421fa97f70541c7dcb60c00e27555b3ec5bdde9fa581e",
+    "results\\r6_confirmation_v1\\root_confirmation_gate.json": "5f49f1c298ac2cd363347ca7af21d464760ab09b7e24c8dca02f0a0536066867",
+    "results\\r6_independent_v1\\source_residual_response_audit.json": "3dc13d9e96a7cf1f99dce0783d886df91dfe21d54f80a1dbb26900ac4b45f55f",
+    "results\\r7_raw_independent_v1\\independent_completion_v1.json": "9ea4b337538295fe4a80cb25e3e99f441856534d245bd10fd463990cce4d9ec7",
+    "results\\r7_raw_independent_v1\\source_competence_gate.json": "c634e85e22e3dfd0dd2a0bc119eae2c56a73d743d01f0a1587986372853911f5",
+    "results\\r7_article_v1\\public_deposit_candidate_metadata.json": "6fa6f140c5c7fc2f63441335d93407914e4a3a789bfb58230fc49afc4fd115ff",
+    "results\\r7_article_v1\\reproduction_index.json": "f28de0f03f598e907b3fd6dd9c36924873714cc03aa5c6ae1a141585104ad15b",
+    "results\\r7_article_v1\\build_manifest.json": "59492a591e63c06c2b08a6fab415be1803d1530ea551b5161eb1b359223d5579",
+    "results\\r7_article_v1\\statistics_verified.json": "13aa4580e153c7942fa40119b8c95e6b92ad71443efe6d09c0bcd6792000eb26",
+    "results\\r7_article_v1\\figure_captions_verified.json": "acc606ecad4ee6882b370cb1b3e49ee700ac4a16644b79562a23c9ae27d46209"
+  },
+  "delivery_decision": "GO for requested scientific-content delivery; no required content repair. This does not guarantee publication acceptance or authorize publication."
+}

@@ -1,0 +1,33 @@
+# R7 review-driven revision protocol
+
+Route: SCI, Neurocomputing neural forecasting analysis and design diagnosis. Primary standards: a useful, verifiable neural-design increment; valid observation/loss analysis; fair coordinate controls; data chronology; conditional inference and complete adverse reporting. The article does not require economic causal identification or a new architecture to be in scope. This protocol was recorded before the newly specified fits. Previously scored external data remain previously scored.
+
+Contribution: diagnose magnitude mixing, orientation access and invertible conditioning at a fixed forecast endpoint; distinguish the exact restricted-observation construction from measurable behavior of complete neural maps. Convert the result into a source-selected evaluation procedure, with explicit cases where fine detail lacks endpoint value.
+
+The review's strongest repairable risks are the missing operational diagnostic, incomplete MAE/MSE boundary, weak precision interpretation, too much historical material, incomplete neural-pooling dialogue and absence of a persistent public code record. The R6 primary results and their intervals remain unchanged. This revision will not seek significance by replacing the original endpoint or inference model.
+
+## New bounded empirical extension
+
+All 60 combinations are retained: ten operations × fine/coarse × the original three seeds. The six parameter-matched core accesses are Direct, max-repeat, average-repeat, separated mean/magnitude, separated mean/signed and BlurPool-style. Four additional standard mechanism references are sigmoid-scalar mixed max/average, affine pair-gated max/average, shared-scalar-score attention and learned two-tap stride-two convolution. The latter references have one or three additional learned coefficients and different function classes, so they are not used as strict matched decomposition evidence.
+
+A common 672→64→64→96 MLP reads the transformed complete input. It has no residual forecast, raw last-value addition, raw bypass or per-window mean/variance channel. Its two common fixed normalization constants are fitted using observed fine-history entries of the existing source-training rows only; they are shared by every operation and history. The input is filled using the original causal rule. Models do not receive observation masks as added features or clips on forecasts. This intervention changes the architecture, capacity and normalization jointly, so it cannot causally identify which component weakens the N-HiTS local effect.
+
+Each core has 53,472 forecast-active coefficients. Additional references have 53,473 (mixed/attention) or 53,475 (gated/stride) coefficients. Direct and signed initial functions are compensated; preflight discrepancy is 0.00024414 kW in float32. All models use the existing 24 customers and 11,952 training rows. The same 104 source-validation rows from eight fitted customers select among ten 200-update checkpoints. Shared R6 minibatch draws provide 2,000 Adam .001 steps of batch64, gradient cap1 and no schedule. The common fitting/validation loss is complete-pair endpoint MAE divided by the raw observed-history mean floored at1kW; this weight is not a model input.
+
+Every fit completes before any new external prediction. All 16 July–December2013 customers and all 32 full-year2014 customers are evaluated under their existing masks and past support scales. These external groups have already been scored in R6: new MLP results are post-review exploratory transport checks, not new independent confirmation. Preserve all ten operations, both histories, all seeds and both periods. Do not select an operation, calendar subgroup or new endpoint using their results.
+
+The independent scoring extension must reconstruct customer/date losses directly from saved forecasts and frozen panel/masks, import no fitting producer or producer metric, retain all60 model conditions and verify source selection/initial-coordinate shapes. No new raw acquisition is required. D has over130GB free; expected additional outputs are under1GB. All computational artifacts remain on D.
+
+## Mathematical and statistical extensions
+
+Prove a loss-ranking boundary for genuinely restricted/nonnested observations or fixed forecasts. Never claim a reversal of optimal risk between nested raw observations under the same loss. Use a fully enumerated nonlinear future model to establish a persistence case and a clear counterexample/changed condition; identify it as a post-review extension rather than an originally predicted result. Complete Gaussian assumptions, support/independence and uncertainty remain explicit.
+
+Retain the original joint customer/calendar-week bootstrap and primary interval. Add simultaneous inference for the four planned fine-access diagnostics within each phase, using exactly the existing draws. Describe conditional SE and approximate80%-power minimum detectable effects as a current-design precision calculation, not observed power or a prior power analysis. Fit a verified crossed customer/week random-intercept sensitivity if feasible, with three seeds treated as fixed fitted-model sensitivity rather than a reliable random-variance population. Its equal-cell estimand and distribution/serial assumptions are separate from the original availability-weighted customer macro.
+
+## Article and reproduction
+
+Rewrite abstract/introduction around three neural-design questions and three concrete contributions. Add a short executable diagnostic, dedicated loss geometry, quantitative mixed-loss results and design implications. Reorganize the supplement into four modules: proofs/extensions; synthetic protocol/results; full real results/inference/reproduction map; short historical boundary summary. Full historical records stay archived, including the failed selector, without occupying the current supplement's bulk.
+
+Use original pooling/multiscale sources and directly supported Neurocomputing mechanism comparisons. Do not add citations merely to increase a count or imply performance reproduction. Prepare a coherent public-deposit candidate with original source attribution and explicit exclusions. A persistent DOI may be stated only after an actual repository record exists; public publication, author metadata or credentials are not inferred from a local archive. The manuscript will describe actual availability without inventing a DOI.
+
+Closure: independently audit numerical tables, loss proofs, neural fairness and empirical scope; preserve the R6 text and ZIP; update the same current manuscript and supplement. Content is the requested deliverable. No Word/LaTeX layout conversion or journal submission is part of this revision.

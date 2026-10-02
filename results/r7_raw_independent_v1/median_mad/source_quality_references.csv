@@ -1,0 +1,4 @@
+reference,source_validation_nmae,rows,same_source_pair_mask
+persistence,0.3519048080537873,104,True
+daily_naive,0.11557961258284292,104,True
+weekly_naive,0.11698235272636011,104,True

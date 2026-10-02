@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_CONFIRMATION_FORECAST_UNSCORED",
+  "adapter": "max_blur_repeat",
+  "history": "fine",
+  "seed": 20261001,
+  "parameter_count": 240036,
+  "prediction_active_parameter_count": 196356,
+  "checkpoint_sha256": "9fd506504ae4b2f5d34c8060970985eb8ec5b5d92d663bcacda04edd1e8f1d58",
+  "source_fit_report_sha256": "35adf16c1e24cbf939a44344cd734d82df7ab667f89297456d282a63f8a6995d",
+  "prediction_wall_seconds": 0.4198395000130404,
+  "prediction_cpu_seconds": 0.78125,
+  "forecast_sha256": "288bef7a6aee429cd514e35d191cc7f11204067c1818a721c963b37d032755bd",
+  "script_sha256": "c12176b6ff6bbbf4f05b5bfc0c542dcfe2d6f2c451f4f83f254a36c8838b939f",
+  "confirmation_protocol_sha256": "742e8dcf7355b112bbf3bb7f9df3bceb3e3b695a9f86c0490598eb2e0114b753",
+  "root_gate_sha256": "5f49f1c298ac2cd363347ca7af21d464760ab09b7e24c8dca02f0a0536066867",
+  "shape": [
+    32,
+    365,
+    96
+  ],
+  "confirmation_truth_scored_by_predictor": false
+}

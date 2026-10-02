@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this research software and the original UCI dataset when using the code or derived electricity data. A Zenodo DOI will be added by the author after archival."
+type: software
+title: "Diagnosing temporal pooling in neural forecasting: predictive information and loss geometry — research code and evidence"
+authors:
+  - family-names: "Zhang"
+    given-names: "Junjie"
+    affiliation: "Shanghai Academy of Global Governance & Area Studies; School of Economics and Finance; Shanghai International Studies University, Shanghai 201620, China"
+    email: "junjiezhang2024@shisu.edu.cn"
+    orcid: "https://orcid.org/0009-0004-8821-4018"
+repository-code: "https://github.com/williamjay1/neurocomputing-temporal-pooling"
+url: "https://github.com/williamjay1/neurocomputing-temporal-pooling"
+version: "1.0.0"
+license: MIT
+keywords:
+  - temporal pooling
+  - neural forecasting
+  - predictive information
+  - conditional risk
+  - loss geometry
+  - reproducibility
+abstract: "Research software and complete current core evidence for an analytical and controlled empirical study of temporal access in neural forecasting. Includes attributed derived UCI data, synthetic examples, source-selected checkpoints and full forecasts, post-review theory and statistical extensions, and all 120 unsuccessful source-only extension fits. This is not a successful new compression codec or a state-of-the-art architecture claim. Data and artwork licenses are specified separately in DATA_LICENSE.md."

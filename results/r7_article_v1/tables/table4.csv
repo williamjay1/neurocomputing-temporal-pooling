@@ -1,0 +1,13 @@
+Access,History,Endpoint MAE,Endpoint MSE,Detail MSE,NMAE
+Direct,fine,29.06,4225.7,396.67,0.143284
+Direct,coarse,28.62,4162.6,399.50,0.139662
+Maximum,fine,28.86,4191.8,393.48,0.141488
+Maximum,coarse,28.89,4267.8,395.79,0.141070
+Average,fine,29.08,4232.7,394.18,0.142033
+Average,coarse,28.68,4199.9,399.00,0.140173
+Mean/magnitude,fine,28.87,4211.8,391.71,0.140502
+Mean/magnitude,coarse,28.52,4150.6,394.79,0.139330
+Mean/signed,fine,28.91,4155.8,388.34,0.141069
+Mean/signed,coarse,28.75,4244.1,396.66,0.140125
+BlurPool-style,fine,29.11,4234.0,392.09,0.142360
+BlurPool-style,coarse,28.80,4256.5,397.19,0.141163

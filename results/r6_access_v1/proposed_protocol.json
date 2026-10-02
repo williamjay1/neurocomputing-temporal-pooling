@@ -1,0 +1,92 @@
+{
+  "stage": "SOURCE_ONLY_IMPLEMENTED_CALIBRATION_INFERENCE_GATED",
+  "analysis_status": "R6 development family; existing R4/R5 results known; new calibration results not used for design",
+  "adapters": [
+    "direct",
+    "max_repeat",
+    "avg_repeat",
+    "haar_absolute",
+    "haar_signed",
+    "max_blur_repeat"
+  ],
+  "histories": [
+    "fine",
+    "coarse"
+  ],
+  "seeds": [
+    20261001,
+    20261002,
+    20261003
+  ],
+  "formal_fit_count": 36,
+  "history_slots": 672,
+  "horizon_slots": 96,
+  "parameter_count": 240036,
+  "prediction_active_parameter_count": 196356,
+  "inactive_parameter_explanation": "last theta head has672 backcast rows unused by the final forecast;43680 registered coefficients; identical for all cells",
+  "width": 64,
+  "blocks": 3,
+  "native_pool_constructor": [
+    4,
+    2,
+    1
+  ],
+  "forecast_downsampling": [
+    8,
+    4,
+    1
+  ],
+  "intervention": "replace only final pooling_layer; all learned shapes and remaining forward unchanged",
+  "haar_scaling": "orthonormal (r1+r2)/sqrt2,(r1-r2)/sqrt2 in reversed residual pair order",
+  "haar_initialization": "last first affine W_H=W_direct*T^T for signed and absolute Haar; signed preserves initial direct function",
+  "blur_definition": "right-replicate input; max kernel2 stride1; replicate both endpoints; binomial [1,2,1]/4 convolution stride2; repeat2",
+  "blur_is_standard_style_reference_not_author_benchmark_reproduction": true,
+  "normalization": "own decoded past observed/coverage weighted mean and population variance; scale floor max(1 kW,.05*abs(mean)); no fine-detail normalization for coarse",
+  "fine_history": "672 float32 values with native observed-position availability",
+  "coarse_history": "336 observed-only float32 pair means plus uint8 constituent counts, repeated to672 with count/2 coverage",
+  "source_customers": "first24 fixed development IDs; held-time validation first8 of these same IDs",
+  "source_train_origins": "range(index2012-01-08,index2012-09-15-96,48); exact row keys retained",
+  "source_validation_origins": "range(index2012-09-16,index2012-09-30-96,96); exact row keys retained",
+  "updates": 2000,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "gradient_clip": 1.0,
+  "scheduler": "none, as R5",
+  "threads_per_source_process": 2,
+  "fitting_loss": "per-row complete-pair mean endpoint MAE divided by own decoded observed-window mean floored1kW; mean over batch",
+  "checkpoint_rule": "lowest complete-pair history-normalized source-held-time MAE at updates200,400,...,2000",
+  "shared_draws": "one stored 2000x64 index array per seed, same rows across all12 adapter/history cells",
+  "history_cache": "fine and coarse representations precomputed once from source-only history windows; fitting reads only these D arrays",
+  "primary_evaluation": "customer-macro complete-pair endpoint MAE divided by fixed pre-calibration support mean floored1kW",
+  "secondary_evaluation": [
+    "physical customer-macro endpoint MAE kW",
+    "endpoint RMSE",
+    "pair mean/detail MSE"
+  ],
+  "calibration_customers": "all16 fixed calibration IDs, columns32:48; no outcome-dependent removal",
+  "calibration_forecast_dates": "2013-07-01 through2013-12-31 daily;184 origins",
+  "evaluation_support": "2013-06-24 through2013-06-30; observed mean floored1kW, frozen per customer",
+  "quality_references": {
+    "scope": "three no-fit fine-history quality references, not architecture or resource comparisons",
+    "input": "same causal forward-filled fine672 history with leading zero if no observed predecessor",
+    "persistence": "repeat last available causal-filled value for96 future slots",
+    "daily_naive": "repeat the final96 lag slots as the next96 predictions",
+    "weekly_naive": "reuse the first96 of the672 lag slots (origin-672 through origin-577)",
+    "mask_and_scales": "same original complete-future-pair mask and fixed pre-calibration support scales as neural forecasts",
+    "selection": "all three retained; no best-reference selection"
+  },
+  "common_target_mask": "original observed future pairs with both endpoints present; identical across36 fits",
+  "prediction_clipping": "none, as R5 Portuguese predictor",
+  "reserved_confirmation": "columns48:80 /2014; no evaluation code path",
+  "retention_gate_or_deleted_state": "none; no R5 winner or ridge-gate reuse",
+  "root_gate_required_before_any_calibration_inference": true,
+  "no_function_class_equivalence_claim_for_noninvertible_adapters": true,
+  "prediction_schema": {
+    "customer_ids": "[16] string",
+    "forecast_dates": "[184] datetime64[D]",
+    "origin_indices": "[184] int64",
+    "predictions_kw": "[16,184,96] float32"
+  },
+  "source_residual_diagnostics": "not included in primary runs; any new diagnostic requires explicit addendum"
+}

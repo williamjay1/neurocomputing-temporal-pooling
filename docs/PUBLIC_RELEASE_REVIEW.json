@@ -1,0 +1,58 @@
+{
+  "status": "PASS_PRE_PUBLICATION_REVIEW",
+  "reviewed_at_utc": "2026-10-02T09:51:20.525712+00:00",
+  "review_stage": "Pre-publication code/data/results artifact review, not journal acceptance or remote archive verification",
+  "route": "SCI neural forecasting diagnosis; artifact integrity, scientific provenance and reproducibility scope",
+  "manifest_sha256": "43c0ee644b419bda27a1fdde6dbbf4ec2c349b615a9b6010026c3b93e6dd9d7f",
+  "local_manuscript_sha256": {
+    "main": "d84c5f4b20079989a5586ec1326905292f89534f6242650d8a8cb69243004018",
+    "supplement": "f4234d5621a71069a98e01fb9b3e2457000789a809b6f78dca5cc2336ab3fb97"
+  },
+  "payload_manifest_self_reference_exclusions": [
+    "docs/PUBLIC_RELEASE_FILE_MANIFEST.json",
+    "docs/PUBLIC_RELEASE_REVIEW.json",
+    "docs/PUBLIC_RELEASE_REVIEW.md"
+  ],
+  "checks": {
+    "actual_staged_file_count_before_reviews": 873,
+    "payload_files_independently_hashed": 872,
+    "payload_bytes_independently_summed": 542686562,
+    "all_payload_git_blobs_equal_actual_file_bytes": true,
+    "frozen_source_manifest_entries_verified": 845,
+    "original_project_source_files_independently_compared": 845,
+    "text_files_independently_scanned_for_token_private_key_patterns": 497,
+    "potential_credentials_found": 0,
+    "full_manuscripts_ignored_and_not_staged": true,
+    "sole_author_metadata_consistent": true,
+    "component_licenses_distinguished": true,
+    "no_unissued_software_doi_or_accepted_publication_claim": true,
+    "scientific_text_diff_manually_reviewed_against_before_metadata_snapshots": true,
+    "reproduction_mode_records_verified": [
+      "smoke",
+      "all",
+      "statistics",
+      "residual",
+      "figures"
+    ],
+    "reproduction_performed_by_this_final_reviewer": false,
+    "no_new_training": true,
+    "remote_upload_performed_or_verified_by_this_review": false
+  },
+  "verified_execution_record_sha256": {
+    "smoke": "18632057151946e047a64f51f04d52791f6e835692537f0f6ccddd7ca1600d47",
+    "all": "246a1eafe18419a4231c881ae2b4e5f07ca06c6480fd508b090400850889e157",
+    "statistics": "1492d2e6ba08dae7bcc31f61ab68044cfc5d61ef925d24cc03b04ae648a700a8",
+    "residual": "fa1f39a9dc70d9ceeab6f7c52e41c6dca3db657c41e2cd73a27c14a72bcb84bc",
+    "figures": "03422f7235c5783541a0b17fd2f920fe1e5bd5d8dc4ecbbdd10fd184ff3253bd"
+  },
+  "issues": [],
+  "limitations": [
+    "Remote creation/push/content verification is the root agent next action.",
+    "This reviewer verified executed records and frozen hashes but did not retrain.",
+    "Clean virtual-environment installation and non-Windows operation are untested.",
+    "Figure reruns have geometric checks; this final audit claims no new visual/human inspection.",
+    "Full journal drafts and historical raw evidence archives remain local.",
+    "Earlier missing AI model/tool version identifiers are disclosed rather than invented.",
+    "Final author approval and journal submission are distinct from passing artifact release review."
+  ]
+}

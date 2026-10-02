@@ -1,0 +1,110 @@
+{
+  "stage": "POST_REVIEW_EXPLORATORY_ALREADY_SCORED_EXTERNAL_CUSTOMERS_AND_PERIODS",
+  "script_sha256": "82db2546602218e1dfd53b30e8767c3c6cf8391741f3a703d0e895692f1e20df",
+  "frozen_preparation_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "core_adapters": [
+    "direct",
+    "max_repeat",
+    "avg_repeat",
+    "haar_absolute",
+    "haar_signed",
+    "max_blur_repeat"
+  ],
+  "known_nonmatched_parameter_references": [
+    "mixed",
+    "gated",
+    "attention",
+    "stride_conv"
+  ],
+  "histories": [
+    "fine",
+    "coarse"
+  ],
+  "seeds": [
+    20261001,
+    20261002,
+    20261003
+  ],
+  "formal_fit_count": 60,
+  "source_training_rows": 11952,
+  "source_validation_rows": 104,
+  "source_cache_manifest_sha256": "a240d3c4c3f240bb798006ea10cbc4eed38fcc201d9ea71e936ca58790ba325a",
+  "fixed_global_center_kw": 128.0487823486328,
+  "fixed_global_scale_kw": 144.5913449169159,
+  "normalization_source": "median and 1.4826 MAD of all observed fine-history source training entries only; one common constant affine",
+  "hidden_layers": [
+    64,
+    64
+  ],
+  "horizon": 96,
+  "history": 672,
+  "loss": "complete-pair endpoint MAE divided by common source-row observed-history mean floored at1kW",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "updates": 2000,
+  "batch": 64,
+  "gradient_norm_cap": 1.0,
+  "schedule": null,
+  "validation": "104 source rows; every200updates; earliest minimum common-weight NMAE",
+  "per_window_mean_std_as_inputs": false,
+  "last_value_residual_forecast_bypass": false,
+  "clipping": false,
+  "mask_feature": false,
+  "core_initial_compensated_signed_max_abs_prediction_difference_kw": 1.52587890625e-05,
+  "tests": [
+    {
+      "adapter": "direct",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "max_repeat",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "avg_repeat",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "haar_absolute",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "haar_signed",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "max_blur_repeat",
+      "registered_and_forecast_active_parameters": 53472
+    },
+    {
+      "adapter": "mixed",
+      "registered_and_forecast_active_parameters": 53473
+    },
+    {
+      "adapter": "gated",
+      "registered_and_forecast_active_parameters": 53475
+    },
+    {
+      "adapter": "attention",
+      "registered_and_forecast_active_parameters": 53473
+    },
+    {
+      "adapter": "stride_conv",
+      "registered_and_forecast_active_parameters": 53475
+    }
+  ],
+  "batch_draws": "frozen R6 source draws per seed; identical all20 conditions",
+  "external_protocol": {
+    "calibration": "all16 customers,184 days July–December2013,Jun24–30 prior scale",
+    "confirmation": "all32 customers,365 days2014,Dec25–31 2013 prior scale",
+    "all_six_core_and_four_reference_results_retained": true,
+    "future_truth_not_scored_in_producer": true,
+    "not_new_independent_validation": true
+  },
+  "boundary": "architecture changes normalization and bypasses jointly; difference cannot causally isolate bypass removal",
+  "frozen_raw_factory_sha256": "26066ee2fc2ff5501a4cf75a27fc5fdc8e97139f620dd2e24d029fe8c1f11298",
+  "source_only_addendum_sha256": "cc5bc885f082f5f7445a6e29a068360c2449afe1e95e140e4288ff2c7d50096f",
+  "source_only_repair": true,
+  "original_failed_source_family": "results/r7_raw_access_v1",
+  "external_forecasting_gate": "only if all six-core family mean source validation NMAE is below daily-naive benchmark 0.11557961237049463; else source-only failure retained and no external inference"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_CALIBRATION_FORECAST_UNSCORED",
+  "adapter": "max_repeat",
+  "history": "coarse",
+  "seed": 20261002,
+  "shape": [
+    16,
+    184,
+    96
+  ],
+  "parameter_count": 240036,
+  "prediction_active_parameter_count": 196356,
+  "checkpoint_sha256": "6810e637ffdc52756286a24c05262a11f841f659284dd5a99faa79a71516ea2d",
+  "source_fit_report_sha256": "ec83ad81d00952f65a58c7860edaddb114079592809138dbe66560b4e5afc1e7",
+  "forecast_sha256": "51cc65e1f64cf45f79ab1e6f9f32539e8209270a56090e714a1340552ac67b6e",
+  "script_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "root_gate_sha256": "1b15de3cbae33f3c197421fa97f70541c7dcb60c00e27555b3ec5bdde9fa581e",
+  "prediction_wall_seconds": 0.15889930000412278,
+  "prediction_cpu_seconds": 0.203125,
+  "confirmation_values_used": false,
+  "future_calibration_truth_scored_by_predictor": false
+}

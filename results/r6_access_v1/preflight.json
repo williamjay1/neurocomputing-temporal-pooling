@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "synthetic_only": true,
+  "no_calibration_or_confirmation_values_read": true,
+  "adapter_checks": {
+    "direct": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "c534e258d694b1932e9fe83f354403a121dc71ba183a54cfd02103d61e317bf5"
+    },
+    "max_repeat": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "c534e258d694b1932e9fe83f354403a121dc71ba183a54cfd02103d61e317bf5"
+    },
+    "avg_repeat": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "c534e258d694b1932e9fe83f354403a121dc71ba183a54cfd02103d61e317bf5"
+    },
+    "haar_absolute": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "236a00f63d3980b7114afc6011067210b4430572da39604e4fa12ba338ce0a8c"
+    },
+    "haar_signed": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "236a00f63d3980b7114afc6011067210b4430572da39604e4fa12ba338ce0a8c"
+    },
+    "max_blur_repeat": {
+      "parameters": 240036,
+      "prediction_active_parameters": 196356,
+      "shape_and_finite_gradients": true,
+      "initial_parameter_sha256": "c534e258d694b1932e9fe83f354403a121dc71ba183a54cfd02103d61e317bf5"
+    }
+  },
+  "fine_coarse_missing_poison_pass": true,
+  "coarse_counts_coverage_pass": true,
+  "coarse_does_not_use_original_detail_pass": true,
+  "signed_initial_function_alignment_pass": true,
+  "signed_initial_function_max_absolute_difference_kw": 7.62939453125e-06,
+  "nonhaar_all_initial_learned_tensor_bytes_identical": true,
+  "bindings": {
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\scripts\\130_r6_access_experiment_v1.py": {
+      "sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+      "bytes": 30434
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\datasets\\upgrade5_uci_v1\\dataset_manifest_v1.json": {
+      "sha256": "feb46dfa1b53f954b6f75838a062ab3a873f98396d22f1f1cd81c8ca096d7660",
+      "bytes": 11602
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\datasets\\upgrade5_uci_v1\\panel_kw.npy": {
+      "sha256": "891a71cd2b032baada2c25698d41bef32196a905f8d76681693809db28a25115",
+      "bytes": 44882048
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\datasets\\upgrade5_uci_v1\\valid.npy": {
+      "sha256": "e0038bb544ae3907de4c50db5d3259fe4fdc1bcd963f386d7f833fd9c9eb41ef",
+      "bytes": 11220608
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\datasets\\upgrade5_uci_v1\\provider_labels.npy": {
+      "sha256": "840d8d247783e3e06e0b11dceddff2f7762a2d2b0c15bb46c245dfd5b41b8233",
+      "bytes": 1122176
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\datasets\\upgrade5_uci_v1\\client_ids.npy": {
+      "sha256": "c7d64d1ca5914f2b4b700e773caf99cd476f16dadaff0757ec93b84fef8d56f5",
+      "bytes": 2048
+    },
+    "D:\\MLWork\\Neurocomputing_TailTransfer\\dependencies\\neural_cpu_venv\\Lib\\site-packages\\neuralforecast\\models\\nhits.py": {
+      "sha256": "0cfcc06f688ae872cdb5ef98a87d05812ddbfe2e31c3cee9cdb70f60201d1662",
+      "bytes": 19067
+    }
+  },
+  "protocol_sha256": "10978eefedd5b49ebda1c745d8ef3c1f85da6fb2458a9502427cebd0e9762a0a",
+  "torch": "2.14.0+cpu",
+  "numpy": "2.5.3",
+  "python": "3.12.10"
+}

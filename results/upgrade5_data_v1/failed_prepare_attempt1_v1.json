@@ -1,0 +1,11 @@
+{
+  "status": "FAILED_PRESERVED",
+  "phase": "after_train_lock_before_selected_post2012_numeric_read",
+  "error": "pandas ValueError: usecols must be all strings/all integers or callable; original mixed 0 and selected client IDs",
+  "original_script_sha256": "df6a77beb5eacb386c1697c6085307309e8f6be697d5a74fa3595207c3a66eb9",
+  "original_lock_sha256": "a78738c5d4f831d03854c884d010a39f590c5bc6251188c476c3da51e1836a7c",
+  "post2012_values_converted_before_failure": false,
+  "failed_attempt_cpu_seconds": null,
+  "failed_attempt_wall_seconds": null,
+  "timing_note": "Original attempt did not reach its final timer report; unavailable failure timing is not imputed."
+}

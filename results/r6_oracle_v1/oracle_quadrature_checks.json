@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "sigma_c": 1.0,
+      "sigma_a": 0.25,
+      "V": 0.022711264227026164,
+      "W_96": 0.022201589065780004,
+      "W_192": 0.02220158906578204,
+      "W_density_quad": 0.022201589065780188,
+      "density_quad_estimated_error": 1.2365605253183643e-11,
+      "resolution_absolute_difference": 2.0365653607967715e-15,
+      "independent_integral_absolute_difference": 1.85268467234323e-15,
+      "alpha_switch": 0.4971628858232142,
+      "positive_half_normal_mass_96": 0.9999999999999916,
+      "positive_half_normal_mass_192": 1.0000000000000866,
+      "gaussian_mass_96": 1.0,
+      "gaussian_mass_192": 1.0,
+      "tail_bound_scope": "12-sigma truncation; estimated quadrature accuracy, not a closed-form W"
+    },
+    {
+      "sigma_c": 1.0,
+      "sigma_a": 1.0,
+      "V": 0.3633802276324186,
+      "W_96": 0.2597310209625432,
+      "W_192": 0.2597310209625604,
+      "W_density_quad": 0.2597310209625448,
+      "density_quad_estimated_error": 2.498939053119916e-12,
+      "resolution_absolute_difference": 1.7208456881689926e-14,
+      "independent_integral_absolute_difference": 1.559863349598345e-14,
+      "alpha_switch": 0.4581229352650254,
+      "positive_half_normal_mass_96": 0.9999999999999916,
+      "positive_half_normal_mass_192": 1.0000000000000866,
+      "gaussian_mass_96": 1.0,
+      "gaussian_mass_192": 1.0,
+      "tail_bound_scope": "12-sigma truncation; estimated quadrature accuracy, not a closed-form W"
+    },
+    {
+      "sigma_c": 1.0,
+      "sigma_a": 2.0,
+      "V": 1.4535209105296745,
+      "W_96": 0.5479547813860174,
+      "W_192": 0.5479547813860444,
+      "W_density_quad": 0.5479547813860203,
+      "density_quad_estimated_error": 7.792438437989089e-13,
+      "resolution_absolute_difference": 2.6978419498391304e-14,
+      "independent_integral_absolute_difference": 2.4091839634365897e-14,
+      "alpha_switch": 0.3804177029604015,
+      "positive_half_normal_mass_96": 0.9999999999999916,
+      "positive_half_normal_mass_192": 1.0000000000000866,
+      "gaussian_mass_96": 1.0,
+      "gaussian_mass_192": 1.0,
+      "tail_bound_scope": "12-sigma truncation; estimated quadrature accuracy, not a closed-form W"
+    }
+  ]
+}

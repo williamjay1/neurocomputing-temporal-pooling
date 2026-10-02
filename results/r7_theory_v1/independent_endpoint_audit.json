@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "implementation": "Independent endpoint-only direct minimization; no producer import, no conditional-median routine, no level/detail MSE decomposition.",
+  "curve_rows_checked": 202,
+  "loss_observations_checked": 2,
+  "comparison_tolerance": 1e-12,
+  "script_manifest_matches": true,
+  "exact_curve_gap_agreement": true,
+  "producer_run_again_preserved_all_numeric_and_definition_records": true
+}

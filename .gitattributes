@@ -1,0 +1,2 @@
+# Keep archival source/protocol/CSV hashes unchanged across OS checkouts.
+* -text

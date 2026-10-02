@@ -1,0 +1,17 @@
+{
+  "figures": {
+    "status": "PASS_EVERY_PAYLOAD_SHA256_AND_ZIP_CRC",
+    "entries": 36,
+    "payload_files": 35,
+    "sha256": "a23204b6354b8360b2d7bfd549a2f4db7dffacee7615b5a08a95ca37fc0a19d3",
+    "bytes": 3381338
+  },
+  "evidence": {
+    "status": "PASS_EVERY_PAYLOAD_SHA256_AND_ZIP_CRC",
+    "entries": 376,
+    "payload_files": 375,
+    "sha256": "2c1f279c1d8f652a7b2e7c20ab52421287f637729fd43bddb6f15cc90bb44a9e",
+    "bytes": 313289564
+  },
+  "nested_r6_unchanged": true
+}

@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_CALIBRATION_QUALITY_REFERENCE_UNSCORED",
+  "reference": "daily_naive",
+  "shape": [
+    16,
+    184,
+    96
+  ],
+  "fit_count": 0,
+  "forecast_sha256": "b3dca20c1e74c815db07b82c5632f8fb0bc64736f9f2ca471d3cc44302566fc6",
+  "script_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "root_gate_sha256": "1b15de3cbae33f3c197421fa97f70541c7dcb60c00e27555b3ec5bdde9fa581e",
+  "construction_wall_seconds": 0.06759970000712201,
+  "construction_cpu_seconds": 0.125,
+  "confirmation_values_used": false,
+  "future_calibration_truth_scored_by_predictor": false
+}

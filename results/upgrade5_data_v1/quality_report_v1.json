@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "dataset_scope": "fixed provider-label raster, not reconstructed true UTC quarter-hour series",
+  "raw_rows": 140256,
+  "panel_rows": 140256,
+  "selected_clients": 80,
+  "raw_first_label": "2011-01-01 00:15:00",
+  "raw_last_label": "2015-01-01 00:00:00",
+  "initial_unrecorded_label": "2011-01-01 00:00:00; explicitly invalid",
+  "excluded_outside_study_label": "2015-01-01 00:00:00",
+  "train_eligible_clients": 321,
+  "development_calibration_confirmation": [
+    32,
+    16,
+    32
+  ],
+  "physical_unit": "kW",
+  "quarter_hour_energy_conversion": "kWh=kW/4 for ordinary native intervals; DST collapsed hours invalidated",
+  "yearly_dst_labels_invalidated": {
+    "2011": 10,
+    "2012": 10,
+    "2013": 10,
+    "2014": 10
+  },
+  "activation_rule": "first positive finite nonnegative non-DST value using only values strictly before 2013; no retrospective reactivation from holdouts",
+  "post_activation_valid_zero_count_train2012_selected": 38389,
+  "post2012_numeric_summary_or_model_score": false,
+  "fixture_tests": {
+    "spring_five_conservative_labels": "PASS",
+    "fall_five_aggregate_boundary_labels": "PASS",
+    "post_activation_true_zero_preserved": "PASS",
+    "origin_and_future_labels_excluded": "PASS"
+  },
+  "no_model_training": true,
+  "raw_readonly": true
+}

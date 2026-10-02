@@ -1,0 +1,17 @@
+{
+  "no_bayes_attainment_claim": true,
+  "status": "ROOT_APPROVED_ALL30_SYNTHETIC_TEST_FORECAST_AND_SCORE",
+  "family_count": 30,
+  "created_utc": "2026-10-02T05:22:07.6482811Z",
+  "selection_on_test_results": false,
+  "bindings": {
+    "docs\\R6_NEIGHBOR_CORE_GATE_20261002.md": "bc5fb88715b6093939f9fd32c1d41445837268051a915f8f52403e82fb69390e",
+    "docs\\R6_IMPLEMENTATION_ADDENDUM_20261002.md": "798a8573484cc0e0a10fb31792b7c9840146c89ebe863758bb5546f4b7123e99",
+    "docs\\R6_RESEARCH_PROTOCOL_20261002.md": "c9e76c448cc384c82b82c0b2f72afeca5f3cea4a25664657c1d30670cb372a04",
+    "results\\r6_oracle_v1\\experiment_lock.json": "aed011160315340efbaeef8caa69b7baa412e6900920269fa6b9085f632a9855",
+    "scripts\\132_r6_oracle_and_synthetic_v1.py": "a22028012836a4de5a710844f1075834be8917214a81e5339e6f4c9102871a5a",
+    "results\\r6_oracle_v1\\training_completion.json": "ed7b8519f4a72fcdd8b63cc3abf888928f58f64d17f328503ff540f7b73b1a9a",
+    "results\\r6_oracle_v1\\preflight.json": "7adc0f23d13ada4d804d846401ceec548f61bc1d7f07bf798fda0f56d844b616"
+  },
+  "exact_theorem_loss": "pair-average squared endpoint"
+}

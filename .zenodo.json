@@ -1,0 +1,30 @@
+{
+  "title": "Diagnosing temporal pooling in neural forecasting: predictive information and loss geometry — research code and evidence",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "eng",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Zhang, Junjie",
+      "orcid": "0009-0004-8821-4018",
+      "affiliation": "Shanghai Academy of Global Governance & Area Studies; School of Economics and Finance; Shanghai International Studies University, Shanghai 201620, China"
+    }
+  ],
+  "description": "Author: Junjie Zhang, sole author and corresponding author (junjiezhang2024@shisu.edu.cn). Research code and complete current core computational evidence, including derived UCI data (CC BY 4.0, Artur Trindade, DOI10.24432/C58C86), author-generated synthetic examples, selected checkpoints, full forecasts, proofs/statistical extensions and all120failed source-only fits. MIT applies to author-created software; UCI and generated data/artwork retain the component licenses in DATA_LICENSE.md. Third-party dependency licenses are preserved. The complete journal draft is supplied to the author separately for review, not published as a reviewed article in this software repository. No specific grant or competing interest was declared by the author. AI assistance and verification scope are documented. No Zenodo DOI is assigned by this preparation.",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.24432/C58C86",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "keywords": [
+    "temporal pooling",
+    "neural forecasting",
+    "conditional risk",
+    "loss geometry",
+    "reproducibility"
+  ]
+}

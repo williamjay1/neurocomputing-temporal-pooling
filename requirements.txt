@@ -1,0 +1,7 @@
+# Direct numerical/figure dependencies observed in the research environment.
+# Python 3.12.10 was used. Install requirements-neural.txt for the full smoke run.
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+pandas==2.3.3
+Pillow==12.3.0

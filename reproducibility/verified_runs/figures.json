@@ -1,0 +1,31 @@
+{
+  "report_kind": "path-normalized copy of actual executed report",
+  "normalization": "only local repository/workspace prefixes replaced; scientific values/statuses unchanged",
+  "original_executed_report_sha256": "b1a65492e4fbdaeea11e1c30e89738f984a3935a0e46d53f009d23da8a0fd8d9",
+  "report": {
+    "status": "PASS_EXECUTED_NO_NEW_TRAINING",
+    "command": "figures",
+    "new_training_fits": 0,
+    "stages": {
+      "figures": {
+        "status": "PASS_GEOMETRY",
+        "manual_visual_inspection": "NOT_PERFORMED_BY_THIS_RUNNER"
+      }
+    },
+    "runtime": {
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "packages": {
+        "numpy": "2.5.3",
+        "scipy": "1.18.1"
+      }
+    },
+    "adapter_policy": "Only legacy Path/import resolution and fresh output roots; scientific functions/assertions unchanged.",
+    "seconds": 11.064492499979679,
+    "immutable_original_script_sha256": {
+      "scripts/146_r7_nature_figures_v1.py": "605c9eeecfe0ab3e3028decba27ada962618a99f4000bfb11aee2d31ec441837"
+    },
+    "runtime_path_relocations": {
+      "<original-workspace>": "<repo-root>"
+    }
+  }
+}

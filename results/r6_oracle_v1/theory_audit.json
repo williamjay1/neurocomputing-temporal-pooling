@@ -1,0 +1,30 @@
+{
+  "status": "PASS_SCOPED_THEORY_WITH_METHOD_SIGN_CLARIFICATION",
+  "date": "2026-10-02",
+  "scope": "restricted-access proposition, executed oracle precision, and working scientific text; not publication acceptance",
+  "theory_method_working_sha256": "2988d919a8236116ee157962c801a4e04d5e064fd9aceaf358e8c0afc31b0623",
+  "introduction_discussion_working_sha256": "324b052b905531c330aafdcf4351eb8bde25a66395901cd5390ee2d7e157c746",
+  "producer132_sha256": "a22028012836a4de5a710844f1075834be8917214a81e5339e6f4c9102871a5a",
+  "producer130_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "all_proposition_equations_verified": true,
+  "innovation_risk_sum_verified": true,
+  "unique_crossing_domain": "alpha in [0,1]; another negative root exists",
+  "lmmse_upper_bound_verified": true,
+  "non_gaussian_extension_W_positive_required": true,
+  "executed_192_node_tail_variance_bracket_minimum": 0.0017260871489784835,
+  "negative_variance_clamps_on_executed_192_node_grid": 0,
+  "full_network_oracle_ceiling_claim": false,
+  "mae_threshold_proved": false,
+  "new_pooling_or_haar_architecture_claim": false,
+  "required_working_text_clarifications": [
+    {
+      "locator": "theory_and_method_working.md / Neural access controls / orthonormal signed-detail definition",
+      "issue": "Real producer uses (r1-r2)/sqrt2 in reversed residual pairs; synthetic producer uses (x2-x1)/sqrt2 for X=(C-A,C+A).",
+      "action": "State both conventions and that first-weight compensation uses each implemented orthogonal matrix. No model or result change is needed."
+    }
+  ],
+  "producer_scoring_manifest_sha256": "790210034eba6295f616835d95f79baf6a529e66d2651c87869348d9849333c6",
+  "independent_synthetic_numerical_audit_status": "PENDING_133_AT_THIS_REVIEW",
+  "real_calibration_confirmation_evidence_status": "NOT_REVIEWED_HERE",
+  "manuscript_delivery_or_submission_go": false
+}

@@ -1,0 +1,38 @@
+{
+  "status": "COMPLETE_VERIFIED_R7_SCIENTIFIC_CONTENT_AND_FIGURE_DELIVERY",
+  "completed_at_utc": "2026-10-02T09:02:22.908591+00:00",
+  "main_sha256": "6e08b7ed11cb9841f443e9e596c902335d4163f306ac56e152cba5bd5088ca60",
+  "supplement_sha256": "25f5d6094f7bab380cb71750e76f327b9296ec7bf77c8768e9dcf67c01238847",
+  "final_audits": {
+    "results\\r7_article_v1\\final_theory_audit.json": "51a0ac8844256c94714e20f229777338e16a94afc9353b3c551081a72b717fdc",
+    "results\\r7_article_v1\\final_numeric_audit.json": "35f8eb5f9bb3bf663148472c97c11ee08d9fb255873faa5dca94e88370c8f091",
+    "results\\r7_article_v1\\final_method_content_audit.json": "c28daf6627070df1ee9d80c70245c6416c04bbba4acedf1cca651cf6f8b61054"
+  },
+  "build_manifest_sha256": "59492a591e63c06c2b08a6fab415be1803d1530ea551b5161eb1b359223d5579",
+  "source_only_new_fits": 120,
+  "new_external_raw_network_forecasts": 0,
+  "original_real_fits": 36,
+  "original_synthetic_fits": 30,
+  "main_tables": 4,
+  "main_figures": 3,
+  "ancillary_vector_tables": 4,
+  "minimum_raster_dpi": 1000,
+  "figure_package": {
+    "status": "PASS_EVERY_PAYLOAD_SHA256_AND_ZIP_CRC",
+    "entries": 36,
+    "payload_files": 35,
+    "sha256": "a23204b6354b8360b2d7bfd549a2f4db7dffacee7615b5a08a95ca37fc0a19d3",
+    "bytes": 3381338
+  },
+  "evidence_package": {
+    "status": "PASS_EVERY_PAYLOAD_SHA256_AND_ZIP_CRC",
+    "entries": 376,
+    "payload_files": 375,
+    "sha256": "2c1f279c1d8f652a7b2e7c20ab52421287f637729fd43bddb6f15cc90bb44a9e",
+    "bytes": 313289564
+  },
+  "public_repository_doi": null,
+  "external_publication_or_submission": false,
+  "state_sha256": "0a7dd9c3d6c3c82e5eb2c2788d7bae6586f2fc430a3cf03cb1951f68f7aba192",
+  "publication_decision": "scientific-content DELIVERY_GO; submission CONDITIONAL, not acceptance guarantee"
+}

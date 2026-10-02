@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_SOURCE_SELECTED_CHECKPOINT_TEST_UNREAD",
+  "lock_sha256": "aed011160315340efbaeef8caa69b7baa412e6900920269fa6b9085f632a9855",
+  "alpha": 1.0,
+  "beta": 0.5,
+  "adapter": "max_repeat",
+  "seed": 20261003,
+  "parameter_count": 4482,
+  "updates_run": 2000,
+  "selected_update": 1400,
+  "best_validation_pair_mse": 0.27857781639240636,
+  "same_seed_batch_row_rule": "default_rng(seed+132000)",
+  "initial_state_hash": "1cb849f19f65a22340b5f521a596ebb6d99252db0baab14afe145f7e59b0df16",
+  "checkpoint_sha256": "cbf0b8747b91f0b617c824e6f7c81fedbe24ea3afa927849e868267712ea610d",
+  "trace_sha256": "dda97e7f7205fc562b556ceb66f6c1c5f5f10e6a5759d9ea2ca51f12141c639c",
+  "fit_wall_seconds": 1.7855621999769937,
+  "fit_cpu_seconds": 3.5625,
+  "test_values_read": false,
+  "neural_bayes_attainment_claimed": false
+}

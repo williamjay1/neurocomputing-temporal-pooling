@@ -1,0 +1,13 @@
+{
+  "status": "POST_REVIEW_PLAN_BEFORE_EXTENSION_EXECUTION",
+  "timing": "R6 empirical outcomes already known; requested statistical extension",
+  "primary": "Preserve original per-phase primary interaction and percentile intervals",
+  "multiplicity": "four prespecified fine-history diagnostics separately within each phase; centered fixed-SE maxT simultaneous intervals plus Bonferroni percentile cross-check",
+  "precision": "conditional-bootstrap SE; approximate80% MDES under local normal-shift model; no observed power",
+  "mixed": "actual constrained crossed customer/calendar-week Gaussian REML; mean-fit plus three individual-fit sensitivities; unweighted complete response grid",
+  "no_seed_random_variance": true,
+  "no_new_forecasting_fits": true,
+  "script_sha256": "702b2d049b901124d0c89411a138f08e3f06637a048c7bc4415729848af6c1bc",
+  "independent_manifest_sha256": "a5b951dcb120a425cd25bfa58e0ec574d1a2194462e3c5a2c22145b2c85fe39e",
+  "data_manifest_sha256": "feb46dfa1b53f954b6f75838a062ab3a873f98396d22f1f1cd81c8ca096d7660"
+}

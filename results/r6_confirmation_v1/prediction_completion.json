@@ -1,0 +1,215 @@
+{
+  "status": "ALL36_CONFIRMATION_FORECASTS_COMPLETE_UNSCORED",
+  "forecasts": [
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261001.npz",
+      "sha256": "a4abaecf9a12da5fcd14d269701a7bf92b333b945766f7eb9ab154003ea3002d",
+      "report_sha256": "1a5ec071b1ff9b1b3c708f27e0cb93d833b481ac50566943e08c7af1096bd35c"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261001.npz",
+      "sha256": "4ab6cd68a14b6d39945948c72bf7cff901f4825e7116af6c34564055e27dc3ce",
+      "report_sha256": "b5604796eb81c971b0f59fc6148b9f70319e3c69f9bd93a7d50e8308cfd147d9"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261001.npz",
+      "sha256": "995096005b794df3daf87e91ed9d7110f652dfc3e7e0492d07b9edb6da3b2545",
+      "report_sha256": "2c6778f552f1829a50f142899872fec9703436bafed236d62edbe566a2a9e345"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261001.npz",
+      "sha256": "3fcdf0bf48f72634ae4317431e08776d1d9cdcc40e610639682a3e8a86bb7989",
+      "report_sha256": "5274d6e91ac29ee7cd8c0707b2724b3ed5c0786d049286c7fe82d2665edefcd5"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261001.npz",
+      "sha256": "fb4164fdeddd944b506a879e0b8ec75f969a7c8371bb0293bf47bbf55602ad3c",
+      "report_sha256": "ab88368115f17e2e8153dcfb4ef7cd703d3f9ccad581950a4e4b9e80a643a2af"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261001.npz",
+      "sha256": "99ffd6cb0076eaa39b40cbcd97143688267a541b7865d9bd815d3365130219ba",
+      "report_sha256": "b8a777a09acf82d6e862621c40ea800626c1234dc704e00290baa545186781ab"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261001.npz",
+      "sha256": "f45eee01848f3f817ddd05fc82d47c0045bb443e4e7802a6324d3c766816cfd5",
+      "report_sha256": "efd30cc4849d734ec0600758580a5a9a7a02628a31e63006d53ab016ac4ab103"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261001.npz",
+      "sha256": "291a24c2fae0ee26554a50b9d9b41ec7073131a741351d65505cfd4c6a6db139",
+      "report_sha256": "fe19b7e2be9042c6718effc8e1dd5e68e9a0788444f4cdacef5ed86b1d764b9a"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261001.npz",
+      "sha256": "219aa3c7692de5cf69939a182cae578a759b2e9896f86b27b79ac36815b74b18",
+      "report_sha256": "a07d878d80f1fe525b823e15363732921d7249d1c92c7fd7b187fd19cad9bb1f"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261001.npz",
+      "sha256": "9351fd72559683c843de4e5964a116d38973509ca41645bda805b7d34e381048",
+      "report_sha256": "730a8f922c72352cd67ac365cbca2aeb56aa43bcfa34202dbdbda9b35020bea8"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261001.npz",
+      "sha256": "288bef7a6aee429cd514e35d191cc7f11204067c1818a721c963b37d032755bd",
+      "report_sha256": "3d3b7b61bf92429c4577c3eb9b48f8b3c794616b810c9215333ec3064bba2cfc"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261001.npz",
+      "sha256": "156efc83f220d3a9c024b3fb55b65cb6d1b93d06cf6559e390fcc906a2a52241",
+      "report_sha256": "464d6cf5164b67596060c517764831e77760a5ce17fcd6f2dddcd2bfc9e1d0c8"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261002.npz",
+      "sha256": "deb121f4457e566b9a4d18438b58a582e7855a1bbf8437ae8084a3225bbb1904",
+      "report_sha256": "0ce47acfb9caa52410ae4ba17b4bc5ba2af9b49b3a84dc955229a0dcba7ff5b9"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261002.npz",
+      "sha256": "3dee82ef652e8cad44828e07c78ab5fff50544af5463d31af976554d0cacb8bd",
+      "report_sha256": "f6251bbb2ccfe3ea4974f6adc77d928df4a627593680820faf7fa91d41e0833f"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261002.npz",
+      "sha256": "6435f9c9025b013cd4714c69864db23840bd4b284d4289d7a6e96177e8f43b10",
+      "report_sha256": "824fad4781d204fac0238f464ebbe66018df0fede02b8c51b2e5bfe3eea0e308"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261002.npz",
+      "sha256": "5b9bf5fcd5b99a7beaea6207c316e9c93cf92d5a20ff1368c8cf3d3d0f4d209a",
+      "report_sha256": "0277485f5f96855e94a88c757757979750e185da8b43279cca37997445a56f47"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261002.npz",
+      "sha256": "77b47edae178270da1ddaa630dd3ba380b80d05e791c552eb34c141b26f0aa25",
+      "report_sha256": "215ec1a167d6b10f1d04a317cf244e4ac4eea162523ad3e971b7efa734368cce"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261002.npz",
+      "sha256": "4b9248c39750c93be9c4ff93dd985f3bf37321ae206a93c29f66db37429c4cfd",
+      "report_sha256": "9e7cc9c63fe65a73504cef9336e0b7b8ae92c61a99848a5631138745fa981eff"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261002.npz",
+      "sha256": "f7e250dc3e1aa1bfac436a56c1af0dffeb47837620ff86ef1019a774b3f6b5da",
+      "report_sha256": "00caa859815e715bfcd1c40f9bc3a0fedab013cacc4f24980aaf71eb3177de8c"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261002.npz",
+      "sha256": "fb81ef7ed080df55dd01905171d752a1c86ed16ac54c3733b40355ed3d5bfb94",
+      "report_sha256": "155b9691dfed4df73ef75871840f1bfdf22be94719235a16463abfc614a07328"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261002.npz",
+      "sha256": "b2a640144ac7471399be6dd21425e02dc595ff859f04515b92bd0ad74b5dcf2e",
+      "report_sha256": "5fa0e1e2f16a8560c4a04aa1f0d777d765167cb48feb3a55f672b43384550018"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261002.npz",
+      "sha256": "791a4e72a5b3c5c8f55f367175c4c0ad29ec571458d6415450e1f2d2df4f22da",
+      "report_sha256": "3c367f5997308834c7fe70cb1353f781385364f6b07ced0b6101a4bfbf563059"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261002.npz",
+      "sha256": "ff08571954a4304762ebac788fe016fcae58688fa97a4e974f0e6a48c43038e6",
+      "report_sha256": "f7b2e8aa45b0017979210d9b386be38d78505bf8f1b790ebb92d872414b15a71"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261002.npz",
+      "sha256": "8dc9caf56d559d7a24162b0c359a76156b73a6cb6a5a4de2f11b8b2a2b6838f1",
+      "report_sha256": "7b438dfba5482d8fc84a6e327a311cd2aff835b9e52cd728692beb0f94e9fd3d"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_fine_seed20261003.npz",
+      "sha256": "7ed52b68eb3e0fb043fda9d9f9fc8bad75e3df2d4af9517496c6ed7de87dd699",
+      "report_sha256": "0af937786089bf835560cfb947dd72d96aca1bbb39fee21b92bbcf5a40966437"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\direct_coarse_seed20261003.npz",
+      "sha256": "6fefe4b9d6155ca2fc8d2dc53796ce6d8f58f5d9f1318ab686d252c74d2509dd",
+      "report_sha256": "f640be3075bc63154e414b77bf3103bd96315e32749131259f701a69ae87fd47"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_fine_seed20261003.npz",
+      "sha256": "e8600d2de79ab5be124ad5fae9cda66c470e7b9cab3fb1f1cc917fd185e01b51",
+      "report_sha256": "2d147f87c604b4e4045feb9fef0f4b5fc2aad546ac7ff460adb5bda66e0405f2"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_repeat_coarse_seed20261003.npz",
+      "sha256": "06edba683aafe33dfa90da36804eb9318d5dac84281a009bec4b11173aee293f",
+      "report_sha256": "a5b91e9074c266d1f12bdf46b12bc74911461a3d82d298a1d40ba8f4b92304e7"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_fine_seed20261003.npz",
+      "sha256": "03092db492bd1aae2ed276d800c853d4578f9e01ddeaa2158f7cdf2817800217",
+      "report_sha256": "9bd3c3e16702f28661f008cc5c4c7e7007d84037e720cddd669377262a8bbad0"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\avg_repeat_coarse_seed20261003.npz",
+      "sha256": "64498807631af764f335cb3a8d045cf028988be92166da773170ec7b29d28f23",
+      "report_sha256": "319f01a8e4530360fe7aabd0a1bc976ecabffbb11051324349bff1c76f3e79b0"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_fine_seed20261003.npz",
+      "sha256": "e275dbdad01109f0515a3ed0fccf89c0741ade4cd18b87dba7b570583ba1c5d8",
+      "report_sha256": "2ea98ce8f04e78ec72d02243442dbfc9c4036bee46b0e1fa521e7cd168324895"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_absolute_coarse_seed20261003.npz",
+      "sha256": "66f21b15c6776805258c1f8652d3a83cfb1950e80c5c25f66fb219b89bdcc07f",
+      "report_sha256": "34a9f0d25f8c09749c7621fa7342f639f08192fc9dee6fb5b649d504894e0042"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_fine_seed20261003.npz",
+      "sha256": "165053f2491137e4d258d876261a89d91a19d5f1d520467f220583ecfe691f84",
+      "report_sha256": "0b55ca5bec03f6a1b3d45ba87390519efee0430c0d41ced622f7e6b053c29a3b"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\haar_signed_coarse_seed20261003.npz",
+      "sha256": "a2e2223e70ef6ee4d54683acaeafbaa646bff128709b86c221359ca08fba1d67",
+      "report_sha256": "50fa648c783dd647cafcac79fc5b96bf4174c9b63b612a16c66efab22d02b2cf"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_fine_seed20261003.npz",
+      "sha256": "2c00455a95b96c161535697dcafcfd2e2201ac34bd26ef3d6a89915993cafdf8",
+      "report_sha256": "b44efec06af61b4b0abebb33b41aeb7e76e3cb52b852c84974adfdd80fca28d1"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\max_blur_repeat_coarse_seed20261003.npz",
+      "sha256": "36c14969ee418e4c6f5392386d07919d8a2fd0dbe4bb4f8a6ebf19e80169741c",
+      "report_sha256": "9a844fc8af2d4508bbc44d45c8b2645828b76b31240e9834deac37687773e192"
+    }
+  ],
+  "quality_references": [
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\reference_persistence.npz",
+      "sha256": "951b56a5343aed445aca00675821a5bcfdce2d4ca10dc853253847ebb9c76f75",
+      "report_sha256": "9c2e30e471d04aaea595eb6210c8e5038faf01e7dac59c675b30bfdcba70e10b",
+      "name": "persistence"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\reference_daily_naive.npz",
+      "sha256": "ae766fd6ac3bcb450d687b51c149c473ccad9083480baf62df2df3e4f3157ffb",
+      "report_sha256": "a857dae5c814b1299a7b03e85d46b0509d6b8e1a4e07779718a53ed5f737f7c0",
+      "name": "daily_naive"
+    },
+    {
+      "path": "D:\\MLWork\\Neurocomputing_TailTransfer\\results\\r6_confirmation_v1\\predictions\\reference_weekly_naive.npz",
+      "sha256": "aa42567e359cd37e21d37fac000e5f029f2c24d2aa45905cf9cd7174852eced7",
+      "report_sha256": "f165cbd8d8c87772f12ffd03e8aea4d0ce144f23a07c66e5af4a6b686e39987e",
+      "name": "weekly_naive"
+    }
+  ],
+  "formal_fit_count": 36,
+  "quality_reference_count": 3,
+  "script_sha256": "c12176b6ff6bbbf4f05b5bfc0c542dcfe2d6f2c451f4f83f254a36c8838b939f",
+  "learner_script_sha256": "6b434b9d806e12fef001fc7fd8ceaaa73ac5c8badf992de2e947f7d8d2f581e4",
+  "confirmation_protocol_sha256": "742e8dcf7355b112bbf3bb7f9df3bceb3e3b695a9f86c0490598eb2e0114b753",
+  "source_completion_sha256": "5bc798dbd36b0983f8a674b927d9449d5f5747cdc11e7e4857ae914d15e8a5f5",
+  "root_gate_sha256": "5f49f1c298ac2cd363347ca7af21d464760ab09b7e24c8dca02f0a0536066867",
+  "data_manifest_sha256": "feb46dfa1b53f954b6f75838a062ab3a873f98396d22f1f1cd81c8ca096d7660",
+  "confirmation_truth_scored_by_predictor": false,
+  "all36_conditions_retained": true
+}

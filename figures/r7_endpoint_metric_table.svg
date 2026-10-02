@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="510.23622pt" height="320.314961pt" viewBox="0 0 510.23622 320.314961" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-02T16:54:28.617792</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 320.314961 
+L 510.23622 320.314961 
+L 510.23622 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 17.858268 5.125039 
+L 492.377953 5.125039 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 17.858268 38.437795 
+L 492.377953 38.437795 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 17.858268 80.07874 
+L 492.377953 80.07874 
+" style="fill: none; stroke: #000000; stroke-width: 0.3; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 17.858268 114.672756 
+L 492.377953 114.672756 
+" style="fill: none; stroke: #000000; stroke-width: 0.3; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 17.858268 149.266772 
+L 492.377953 149.266772 
+" style="fill: none; stroke: #000000; stroke-width: 0.3; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 17.858268 183.860787 
+L 492.377953 183.860787 
+" style="fill: none; stroke: #000000; stroke-width: 0.3; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 17.858268 218.454803 
+L 492.377953 218.454803 
+" style="fill: none; stroke: #000000; stroke-width: 0.3; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 17.858268 253.048819 
+L 492.377953 253.048819 
+" style="fill: none; stroke: #000000; stroke-width: 0.7; stroke-linecap: square"/>
+  </g>
+  <g id="text_1">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="22.631996" transform="rotate(-0 17.858268 22.631996)">Access</text>
+  </g>
+  <g id="text_2">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="22.631928" transform="rotate(-0 134.702362 22.631928)">History</text>
+  </g>
+  <g id="text_3">
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(200.16698 18.19578)">Endpoint MAE</text>
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(230.14448 27.066024)">(kW)</text>
+  </g>
+  <g id="text_4">
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(290.989027 18.238436)">Endpoint MSE</text>
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(318.635746 27.066024)">(kW²)</text>
+  </g>
+  <g id="text_5">
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(384.914566 18.891405)">Detail MSE</text>
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(402.824722 27.066024)">(kW²)</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(439.865922 18.850389)">Normalized MAE</text>
+   <text style="font-size: 7px; font-family: 'Arial'" transform="translate(443.363734 27.066024)">(dimensionless)</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="64.593256" transform="rotate(-0 17.858268 64.593256)">Direct</text>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="55.944752" transform="rotate(-0 134.702362 55.944752)">Fine</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="55.944752" transform="rotate(-0 244.913386 55.944752)">29.06</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="55.944752" transform="rotate(-0 335.735433 55.944752)">4225.7</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="55.944752" transform="rotate(-0 419.924409 55.944752)">396.67</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="55.944752" transform="rotate(-0 492.377953 55.944752)">0.143284</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="73.24176" transform="rotate(-0 134.702362 73.24176)">Coarse</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="73.24176" transform="rotate(-0 244.913386 73.24176)">28.62</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="73.24176" transform="rotate(-0 335.735433 73.24176)">4162.6</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="73.24176" transform="rotate(-0 419.924409 73.24176)">399.50</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="73.24176" transform="rotate(-0 492.377953 73.24176)">0.139662</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="99.187271" transform="rotate(-0 17.858268 99.187271)">Maximum</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="90.538768" transform="rotate(-0 134.702362 90.538768)">Fine</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="90.538768" transform="rotate(-0 244.913386 90.538768)">28.86</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="90.538768" transform="rotate(-0 335.735433 90.538768)">4191.8</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="90.538768" transform="rotate(-0 419.924409 90.538768)">393.48</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="90.538768" transform="rotate(-0 492.377953 90.538768)">0.141488</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="107.835775" transform="rotate(-0 134.702362 107.835775)">Coarse</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="107.835775" transform="rotate(-0 244.913386 107.835775)">28.89</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="107.835775" transform="rotate(-0 335.735433 107.835775)">4267.8</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="107.835775" transform="rotate(-0 419.924409 107.835775)">395.79</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="107.835775" transform="rotate(-0 492.377953 107.835775)">0.141070</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="133.781219" transform="rotate(-0 17.858268 133.781219)">Average</text>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="125.132783" transform="rotate(-0 134.702362 125.132783)">Fine</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="125.132783" transform="rotate(-0 244.913386 125.132783)">29.08</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="125.132783" transform="rotate(-0 335.735433 125.132783)">4232.7</text>
+  </g>
+  <g id="text_33">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="125.132783" transform="rotate(-0 419.924409 125.132783)">394.18</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="125.132783" transform="rotate(-0 492.377953 125.132783)">0.142033</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="142.429791" transform="rotate(-0 134.702362 142.429791)">Coarse</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="142.429791" transform="rotate(-0 244.913386 142.429791)">28.68</text>
+  </g>
+  <g id="text_37">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="142.429791" transform="rotate(-0 335.735433 142.429791)">4199.9</text>
+  </g>
+  <g id="text_38">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="142.429791" transform="rotate(-0 419.924409 142.429791)">399.00</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="142.429791" transform="rotate(-0 492.377953 142.429791)">0.140173</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="168.375235" transform="rotate(-0 17.858268 168.375235)">Mean + magnitude</text>
+  </g>
+  <g id="text_41">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="159.726799" transform="rotate(-0 134.702362 159.726799)">Fine</text>
+  </g>
+  <g id="text_42">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="159.726799" transform="rotate(-0 244.913386 159.726799)">28.87</text>
+  </g>
+  <g id="text_43">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="159.726799" transform="rotate(-0 335.735433 159.726799)">4211.8</text>
+  </g>
+  <g id="text_44">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="159.726799" transform="rotate(-0 419.924409 159.726799)">391.71</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="159.726799" transform="rotate(-0 492.377953 159.726799)">0.140502</text>
+  </g>
+  <g id="text_46">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="177.023807" transform="rotate(-0 134.702362 177.023807)">Coarse</text>
+  </g>
+  <g id="text_47">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="177.023807" transform="rotate(-0 244.913386 177.023807)">28.52</text>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="177.023807" transform="rotate(-0 335.735433 177.023807)">4150.6</text>
+  </g>
+  <g id="text_49">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="177.023807" transform="rotate(-0 419.924409 177.023807)">394.79</text>
+  </g>
+  <g id="text_50">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="177.023807" transform="rotate(-0 492.377953 177.023807)">0.139330</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="202.96925" transform="rotate(-0 17.858268 202.96925)">Mean + signed</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="194.320815" transform="rotate(-0 134.702362 194.320815)">Fine</text>
+  </g>
+  <g id="text_53">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="194.320815" transform="rotate(-0 244.913386 194.320815)">28.91</text>
+  </g>
+  <g id="text_54">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="194.320815" transform="rotate(-0 335.735433 194.320815)">4155.8</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="194.320815" transform="rotate(-0 419.924409 194.320815)">388.34</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="194.320815" transform="rotate(-0 492.377953 194.320815)">0.141069</text>
+  </g>
+  <g id="text_57">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="211.617823" transform="rotate(-0 134.702362 211.617823)">Coarse</text>
+  </g>
+  <g id="text_58">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="211.617823" transform="rotate(-0 244.913386 211.617823)">28.75</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="211.617823" transform="rotate(-0 335.735433 211.617823)">4244.1</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="211.617823" transform="rotate(-0 419.924409 211.617823)">396.66</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="211.617823" transform="rotate(-0 492.377953 211.617823)">0.140125</text>
+  </g>
+  <g id="text_62">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="237.563266" transform="rotate(-0 17.858268 237.563266)">BlurPool style</text>
+  </g>
+  <g id="text_63">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="228.914831" transform="rotate(-0 134.702362 228.914831)">Fine</text>
+  </g>
+  <g id="text_64">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="228.914831" transform="rotate(-0 244.913386 228.914831)">29.11</text>
+  </g>
+  <g id="text_65">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="228.914831" transform="rotate(-0 335.735433 228.914831)">4234.0</text>
+  </g>
+  <g id="text_66">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="228.914831" transform="rotate(-0 419.924409 228.914831)">392.09</text>
+  </g>
+  <g id="text_67">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="228.914831" transform="rotate(-0 492.377953 228.914831)">0.142360</text>
+  </g>
+  <g id="text_68">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="134.702362" y="246.211838" transform="rotate(-0 134.702362 246.211838)">Coarse</text>
+  </g>
+  <g id="text_69">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="244.913386" y="246.211838" transform="rotate(-0 244.913386 246.211838)">28.80</text>
+  </g>
+  <g id="text_70">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="335.735433" y="246.211838" transform="rotate(-0 335.735433 246.211838)">4256.5</text>
+  </g>
+  <g id="text_71">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="419.924409" y="246.211838" transform="rotate(-0 419.924409 246.211838)">397.19</text>
+  </g>
+  <g id="text_72">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: end" x="492.377953" y="246.211838" transform="rotate(-0 492.377953 246.211838)">0.141163</text>
+  </g>
+  <g id="text_73">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="287.934302" transform="rotate(-0 17.858268 287.934302)">2014 confirmation: 32 customers; three fixed fits per cell.</text>
+  </g>
+  <g id="text_74">
+   <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="17.858268" y="301.707845" transform="rotate(-0 17.858268 301.707845)">Normalized MAE uses fixed customer-specific pre-period scales.</text>
+  </g>
+ </g>
+</svg>

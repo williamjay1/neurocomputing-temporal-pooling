@@ -1,0 +1,72 @@
+{
+  "status": "PASS_ENGINEERING_ONLY",
+  "script_sha256": "702b2d049b901124d0c89411a138f08e3f06637a048c7bc4415729848af6c1bc",
+  "fixtures": [
+    {
+      "fixture": "both_components_interior",
+      "likelihood_identity_error": 4.884981308350689e-15,
+      "dense_optimizer_objective_difference": 1.2789769243681803e-13,
+      "dense_optimizer_success": true,
+      "fit": {
+        "equal_customer_week_estimate": 8.564577618536922e-17,
+        "model_based_se": 0.4407838556946206,
+        "model_based_normal_ci95_low": -0.8639204821281566,
+        "model_based_normal_ci95_high": 0.8639204821281569,
+        "customer_random_intercept_variance": 0.49117595016991444,
+        "calendar_week_random_intercept_variance": 0.6647045379937652,
+        "residual_customer_week_variance": 0.038409919277336745,
+        "customer_variance_at_boundary": false,
+        "week_variance_at_boundary": false,
+        "restricted_deviance_minus_constant": -31.967185930485975,
+        "residual_skew": -0.015130898538548328,
+        "residual_excess_kurtosis": -0.9512396396194802,
+        "pooled_within_customer_residual_lag1": -0.02612256415043768
+      }
+    },
+    {
+      "fixture": "customer_boundary",
+      "likelihood_identity_error": 2.220446049250313e-15,
+      "dense_optimizer_objective_difference": 7.105427357601002e-15,
+      "dense_optimizer_success": true,
+      "fit": {
+        "equal_customer_week_estimate": -6.344131569286608e-17,
+        "model_based_se": 0.38630455784831397,
+        "model_based_normal_ci95_low": -0.7571430204463654,
+        "model_based_normal_ci95_high": 0.7571430204463652,
+        "customer_random_intercept_variance": 0.0,
+        "calendar_week_random_intercept_variance": 1.0184652970222414,
+        "residual_customer_week_variance": 0.13076591439213978,
+        "customer_variance_at_boundary": true,
+        "week_variance_at_boundary": false,
+        "restricted_deviance_minus_constant": -13.043163241937378,
+        "residual_skew": -0.008909075759050292,
+        "residual_excess_kurtosis": -1.071672998391046,
+        "pooled_within_customer_residual_lag1": -0.03558312207674287
+      }
+    },
+    {
+      "fixture": "both_boundaries",
+      "likelihood_identity_error": 2.220446049250313e-15,
+      "dense_optimizer_objective_difference": 7.105427357601002e-15,
+      "dense_optimizer_success": true,
+      "fit": {
+        "equal_customer_week_estimate": 7.612957883143931e-17,
+        "model_based_se": 0.17149858514250885,
+        "model_based_normal_ci95_low": -0.3361310502788933,
+        "model_based_normal_ci95_high": 0.3361310502788934,
+        "customer_random_intercept_variance": 0.0,
+        "calendar_week_random_intercept_variance": 0.0,
+        "residual_customer_week_variance": 1.0294117647058825,
+        "customer_variance_at_boundary": true,
+        "week_variance_at_boundary": true,
+        "restricted_deviance_minus_constant": 34.98557625369058,
+        "residual_skew": -0.06331218704115985,
+        "residual_excess_kurtosis": -0.9872313196538469,
+        "pooled_within_customer_residual_lag1": -0.033012181846781966
+      }
+    }
+  ],
+  "bootstrap_constant_denominator_fixture": true,
+  "real_outcomes_read": false,
+  "new_forecasting_fits": 0
+}

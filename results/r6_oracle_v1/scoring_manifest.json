@@ -1,0 +1,18 @@
+{
+  "status": "PASS_COMPLETE_FIXED_SYNTHETIC_FAMILY",
+  "lock_sha256": "aed011160315340efbaeef8caa69b7baa412e6900920269fa6b9085f632a9855",
+  "training_completion_sha256": "ed7b8519f4a72fcdd8b63cc3abf888928f58f64d17f328503ff540f7b73b1a9a",
+  "prediction_completion_sha256": "7a6f60d35c82784ec790f9248eba1c0df57933b3a9d9a41164aaad04a9d9c2b0",
+  "output_sha256": {
+    "oracle_grid.csv": "2fd259d8d5d5c89f6b06efe06779c09787988c41fd8b35836277a2555b2b6ecb",
+    "oracle_quadrature_checks.json": "cbcd7af1c959ae82e03754e5a7a6959b457e919e34edd57e03f68614ef460217",
+    "metrics_by_seed.csv": "8b7a30f93b98c19f9460545bafe6893f226d4ebf82df22612bd959d0f7a46aca",
+    "metrics_summary.csv": "a79b9a7eb4bebb4e36045ef47bf162c136cd3930560100da415219e70321434b",
+    "contrasts_by_seed.csv": "3a1489562f81337f8a4499f2cef59d6a2f7bd52987df462dd0bc461b91b5a876"
+  },
+  "fit_count": 30,
+  "test_pairs_per_fit": 100000,
+  "unfavorable_cells_retained": true,
+  "population_oracle_not_claimed_attained_by_neural_training": true,
+  "uncertainty": "Three training seeds; iid Monte Carlo SE of each fixed synthetic test score; no empirical-household interpretation"
+}

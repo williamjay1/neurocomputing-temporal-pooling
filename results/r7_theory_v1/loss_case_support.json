@@ -1,0 +1,338 @@
+[
+  {
+    "C": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "A": {
+      "fraction": "-1",
+      "value": -1.0
+    },
+    "D": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "U": {
+      "fraction": "-1/5",
+      "value": -0.2
+    },
+    "p": {
+      "fraction": "81/200",
+      "value": 0.405
+    },
+    "g": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "M": {
+      "fraction": "-29/200",
+      "value": -0.145
+    },
+    "B": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "Y1": {
+      "fraction": "-9/200",
+      "value": -0.045
+    },
+    "Y2": {
+      "fraction": "-49/200",
+      "value": -0.245
+    }
+  },
+  {
+    "C": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "A": {
+      "fraction": "1",
+      "value": 1.0
+    },
+    "D": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "U": {
+      "fraction": "-1/5",
+      "value": -0.2
+    },
+    "p": {
+      "fraction": "81/200",
+      "value": 0.405
+    },
+    "g": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "M": {
+      "fraction": "-29/200",
+      "value": -0.145
+    },
+    "B": {
+      "fraction": "1/10",
+      "value": 0.1
+    },
+    "Y1": {
+      "fraction": "-49/200",
+      "value": -0.245
+    },
+    "Y2": {
+      "fraction": "-9/200",
+      "value": -0.045
+    }
+  },
+  {
+    "C": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "A": {
+      "fraction": "-2",
+      "value": -2.0
+    },
+    "D": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "U": {
+      "fraction": "4/5",
+      "value": 0.8
+    },
+    "p": {
+      "fraction": "9/200",
+      "value": 0.045
+    },
+    "g": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "M": {
+      "fraction": "61/200",
+      "value": 0.305
+    },
+    "B": {
+      "fraction": "-1/5",
+      "value": -0.2
+    },
+    "Y1": {
+      "fraction": "101/200",
+      "value": 0.505
+    },
+    "Y2": {
+      "fraction": "21/200",
+      "value": 0.105
+    }
+  },
+  {
+    "C": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "A": {
+      "fraction": "2",
+      "value": 2.0
+    },
+    "D": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "U": {
+      "fraction": "4/5",
+      "value": 0.8
+    },
+    "p": {
+      "fraction": "9/200",
+      "value": 0.045
+    },
+    "g": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "M": {
+      "fraction": "61/200",
+      "value": 0.305
+    },
+    "B": {
+      "fraction": "1/5",
+      "value": 0.2
+    },
+    "Y1": {
+      "fraction": "21/200",
+      "value": 0.105
+    },
+    "Y2": {
+      "fraction": "101/200",
+      "value": 0.505
+    }
+  },
+  {
+    "C": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "A": {
+      "fraction": "-1",
+      "value": -1.0
+    },
+    "D": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "U": {
+      "fraction": "4/5",
+      "value": 0.8
+    },
+    "p": {
+      "fraction": "9/200",
+      "value": 0.045
+    },
+    "g": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "M": {
+      "fraction": "171/200",
+      "value": 0.855
+    },
+    "B": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "Y1": {
+      "fraction": "191/200",
+      "value": 0.955
+    },
+    "Y2": {
+      "fraction": "151/200",
+      "value": 0.755
+    }
+  },
+  {
+    "C": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "A": {
+      "fraction": "1",
+      "value": 1.0
+    },
+    "D": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "U": {
+      "fraction": "4/5",
+      "value": 0.8
+    },
+    "p": {
+      "fraction": "9/200",
+      "value": 0.045
+    },
+    "g": {
+      "fraction": "-1/10",
+      "value": -0.1
+    },
+    "M": {
+      "fraction": "171/200",
+      "value": 0.855
+    },
+    "B": {
+      "fraction": "1/10",
+      "value": 0.1
+    },
+    "Y1": {
+      "fraction": "151/200",
+      "value": 0.755
+    },
+    "Y2": {
+      "fraction": "191/200",
+      "value": 0.955
+    }
+  },
+  {
+    "C": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "A": {
+      "fraction": "-2",
+      "value": -2.0
+    },
+    "D": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "U": {
+      "fraction": "9/5",
+      "value": 1.8
+    },
+    "p": {
+      "fraction": "1/200",
+      "value": 0.005
+    },
+    "g": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "M": {
+      "fraction": "261/200",
+      "value": 1.305
+    },
+    "B": {
+      "fraction": "-1/5",
+      "value": -0.2
+    },
+    "Y1": {
+      "fraction": "301/200",
+      "value": 1.505
+    },
+    "Y2": {
+      "fraction": "221/200",
+      "value": 1.105
+    }
+  },
+  {
+    "C": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "A": {
+      "fraction": "2",
+      "value": 2.0
+    },
+    "D": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "U": {
+      "fraction": "9/5",
+      "value": 1.8
+    },
+    "p": {
+      "fraction": "1/200",
+      "value": 0.005
+    },
+    "g": {
+      "fraction": "9/10",
+      "value": 0.9
+    },
+    "M": {
+      "fraction": "261/200",
+      "value": 1.305
+    },
+    "B": {
+      "fraction": "1/5",
+      "value": 0.2
+    },
+    "Y1": {
+      "fraction": "221/200",
+      "value": 1.105
+    },
+    "Y2": {
+      "fraction": "301/200",
+      "value": 1.505
+    }
+  }
+]
