@@ -1,0 +1,47 @@
+{
+  "status": "PASS_SOURCE_ONLY_PREFLIGHT",
+  "test_values_read": false,
+  "formal_fits": 0,
+  "initial_direct_signed_max_abs_difference": 1.7881393432617188e-07,
+  "hundred_update_wall_seconds": 0.0904609999852255,
+  "oracle": {
+    "V": 0.3633802276324186,
+    "W": 0.2597310209625604,
+    "W_density": 0.2597310209625448,
+    "integral_discrepancy": 1.559863349598345e-14,
+    "quadrature_error": 2.498939053119916e-12,
+    "alpha_switch": 0.4581229352650254
+  },
+  "python": "3.12.10",
+  "torch": "2.14.0+cpu",
+  "numpy": "2.5.3",
+  "technical_adjustments": [],
+  "all_parameter_counts": 4482,
+  "all_seed_initial_compensation": [
+    {
+      "seed": 2026100801,
+      "gaussian_max_abs_difference": 1.1920928955078125e-07,
+      "finite_max_abs_difference": 4.470348358154297e-08
+    },
+    {
+      "seed": 2026100802,
+      "gaussian_max_abs_difference": 1.7881393432617188e-07,
+      "finite_max_abs_difference": 1.1920928955078125e-07
+    },
+    {
+      "seed": 2026100803,
+      "gaussian_max_abs_difference": 1.7881393432617188e-07,
+      "finite_max_abs_difference": 1.1920928955078125e-07
+    },
+    {
+      "seed": 2026100804,
+      "gaussian_max_abs_difference": 1.6391277313232422e-07,
+      "finite_max_abs_difference": 5.960464477539063e-08
+    },
+    {
+      "seed": 2026100805,
+      "gaussian_max_abs_difference": 1.341104507446289e-07,
+      "finite_max_abs_difference": 5.960464477539063e-08
+    }
+  ]
+}

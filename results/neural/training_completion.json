@@ -1,0 +1,1309 @@
+{
+  "status": "ALL_325_CHECKPOINTS_COMPLETE_BEFORE_TEST_READ",
+  "lock_sha256": "d21ae5bfef29fb1a9a4b4a8b07a28c63ab7c7451007ec5fe7d81a5167522a628",
+  "completed_fits": 325,
+  "reports": [
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_direct_mse_s2026100801.json",
+      "sha256": "4c680c12b030cebdcbeb0f447c83d5a422f9a89c88edf8338e6e96b85fc7d66a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_direct_mse_s2026100802.json",
+      "sha256": "50d75813ae19d56cce9a774166424932a16aa59931db1cf283564610254b7a1c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_direct_mse_s2026100803.json",
+      "sha256": "909a9bea882120fa11888632b155336fd0a04dbbf4491e19cb21d415d5f34606"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_direct_mse_s2026100804.json",
+      "sha256": "c0a9e2421ebf82d79e811482c4b84e801b4980f5c1ab6c5f14aefc7e6c9c8e4d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_direct_mse_s2026100805.json",
+      "sha256": "f5ea407ac45d347c90aff2849d0965ecd97f2d75e5b3d34efffcd50ffeaba7b4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_max_repeat_mse_s2026100801.json",
+      "sha256": "e816b0289c588e944d34eb5584ca01e120cf08c7a0f7d0da5bb529a6e1017492"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_max_repeat_mse_s2026100802.json",
+      "sha256": "f05cad14a1d92be661943c4e59742e385bf89fffb1d93f711b132a70ab88c060"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_max_repeat_mse_s2026100803.json",
+      "sha256": "c736edeb899f0beacb333a1965acbc499ec0cb6d30323e7e9d578032cbd23e19"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_max_repeat_mse_s2026100804.json",
+      "sha256": "fb68e00748b3541f006b3eda892a1c43efedd0d46491774704e0c496b2c6e6b9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_max_repeat_mse_s2026100805.json",
+      "sha256": "be448201186d467db0b2c082839fe701d91d653a6b4d585fb51db8d305eb2c0d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_avg_repeat_mse_s2026100801.json",
+      "sha256": "336d0b119f48c3d177e56b214af2666e8bacce2649faa4fce463793b777b854c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_avg_repeat_mse_s2026100802.json",
+      "sha256": "d88bde768f64eedeefa2c69fb217311bd53a0bf91b57a33ad158b29d8c75c1d8"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_avg_repeat_mse_s2026100803.json",
+      "sha256": "45d82a0f6cdd61785d7878a2be3a2c1b248c1a95a31b700496a72ae416cbff99"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_avg_repeat_mse_s2026100804.json",
+      "sha256": "547341b914e61e8ac0cedf3a5bb14ab064e506185800b0f9bc0a480e6825e652"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_avg_repeat_mse_s2026100805.json",
+      "sha256": "9a04bed0743062e7580c8a552c3eae54b235178207c484f1122f347f54e49760"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_abs_mse_s2026100801.json",
+      "sha256": "7f0370a9cfd4c529fbaa20a108591f85635d539524080869f873eb911cf60185"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_abs_mse_s2026100802.json",
+      "sha256": "89ce93fa46f96ff74ea7ab76579890dfff3d07969a5d181bad65c77829119871"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_abs_mse_s2026100803.json",
+      "sha256": "ea1b0925a7a61b3b0e1c3ba550dc079d2138d4038da531e6de70677ca109bff9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_abs_mse_s2026100804.json",
+      "sha256": "0f842555e3527fb6a32c52bb33f7bdd55f13df96b6d1b85dac881d174f381fb3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_abs_mse_s2026100805.json",
+      "sha256": "aeee320c78fb3d572587f7dd37a6e442a80daf01d5ebdcdb43137bc04ae7c6d2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_signed_mse_s2026100801.json",
+      "sha256": "3c63e9e0be576ab4f4da0e5245bd22526f8f47a7042a3af467bb5ef64e670de4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_signed_mse_s2026100802.json",
+      "sha256": "3aabd8677209ae81a813f936109ea113afefe8e6e3f820c58b6324951dc60b11"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_signed_mse_s2026100803.json",
+      "sha256": "4d3f0aa9152d0721fc78eaa1d88fd91dbefb2bf4baf934a896c04951f0afdc59"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_signed_mse_s2026100804.json",
+      "sha256": "5f455ed597d9e05367c2f8a1cfb92330ae2ef73b3eea146da88f3eeff09209ff"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a0_mean_signed_mse_s2026100805.json",
+      "sha256": "d9ae067b0de67148ea10d2c6008e493556a22b43a9c6208bcd455e707a11e66b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_direct_mse_s2026100801.json",
+      "sha256": "f4a98c76ce423d8d65fa7b5d726a22b78f82dcc767b394109af8634706da6274"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_direct_mse_s2026100802.json",
+      "sha256": "9e00c7825e5589aca35e0251f6e8db953a0ae9b65a24a366b7b240977a8162b4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_direct_mse_s2026100803.json",
+      "sha256": "9a9108615342115c434940e899c0adeffdd0751e00686b4a148a29c8242935db"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_direct_mse_s2026100804.json",
+      "sha256": "e9faef2d7686d0c246a3064f8e64bc842eec6aa8f665f405fea6a048ec426361"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_direct_mse_s2026100805.json",
+      "sha256": "0b83c21907619ab78a037746b0193ba943aa8bdfc160a012ab5f72afedd113ea"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_max_repeat_mse_s2026100801.json",
+      "sha256": "626dfe609dbee53ccb279bcfd41648247cbfbe42b18631524792a6a49b5762a0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_max_repeat_mse_s2026100802.json",
+      "sha256": "c0387b544e2b5ed37fdc4bf1aef626bd1517363798f5fb5a4ed9e88e816ba441"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_max_repeat_mse_s2026100803.json",
+      "sha256": "89a8024a369b9862fbf7197b474706c89fa61d5618eb10a3eb6939dad418d91e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_max_repeat_mse_s2026100804.json",
+      "sha256": "37361760fafc105c18dc1bbe1f004b6f798563aab5c70b42fe29aab5419d520c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_max_repeat_mse_s2026100805.json",
+      "sha256": "0ba02b2ebcedf9f6595c3a49bac98e70bb09f6d0e46ea66a92c403bb0d1296e4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_avg_repeat_mse_s2026100801.json",
+      "sha256": "b1f37bde00d60ecdc8880b641b52e9f7b4dac7f6c32de6eeb503ac1eff73507f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_avg_repeat_mse_s2026100802.json",
+      "sha256": "de151d952ee41c4f5a50a7369ef4c564547e4b27e4036c1c004d84d9461bcf92"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_avg_repeat_mse_s2026100803.json",
+      "sha256": "cc6be215cc03c1a880b674bd41025565e38e8e24f8e17d2a39e226d43ba9e5a6"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_avg_repeat_mse_s2026100804.json",
+      "sha256": "09d1b3494d05efe7aa6c8385891a3f6441976356447870adddff0bcf080b8e7e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_avg_repeat_mse_s2026100805.json",
+      "sha256": "32856808d94c0a8f1854e940e1f6c8c7c45dba873050f0e2f6501421379906bc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_abs_mse_s2026100801.json",
+      "sha256": "091965b31d6196ba2e14dc217a6f07c7af565445fb63a0e430738a07a5c8a632"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_abs_mse_s2026100802.json",
+      "sha256": "3e685a912459fbe18a9c38c767227639f74790e87b3f990abae072e7ee612df2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_abs_mse_s2026100803.json",
+      "sha256": "a9280c2fa61708b31ab7e21545f38619c86a48ab6e752b1b7f0aded37e3c8600"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_abs_mse_s2026100804.json",
+      "sha256": "d2e5178125a3778499d11f1bbdb452d4381ed438286ccc18c1d1abf08945cc43"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_abs_mse_s2026100805.json",
+      "sha256": "bca32cee3fe28839522518450d2b532431bbf8aa0ed3c1407229d37708b0d92a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_signed_mse_s2026100801.json",
+      "sha256": "7736a2a485f09a9fdbda38ae6045c12407f34dc1db0e5be67977cc43b355a42e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_signed_mse_s2026100802.json",
+      "sha256": "b98d41d0b336beaa92dddb555d20f21314f8988df526380234c607866a011527"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_signed_mse_s2026100803.json",
+      "sha256": "eef8b727acf62c487a74fbc158f4d540f242c4cd90a92d600864e77dcecc9dc0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_signed_mse_s2026100804.json",
+      "sha256": "4ac3708ebef539cef0ad66e31710401bd44253b4f1a71e7d43664f37216a71b1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a1_mean_signed_mse_s2026100805.json",
+      "sha256": "ecba1e6646973a13a2ab78d0e085d3bc1d66cee7801b0546ba83bbcae85a305d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_direct_mse_s2026100801.json",
+      "sha256": "b37ce34dad3ceec538d3a9bfc3aabdc72767b79c32e6aa707b0ff5cc24050ce1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_direct_mse_s2026100802.json",
+      "sha256": "ae8090055c3c579ddf9d836589a22511cfe07a8081a2ec51df3963b2c0a219e5"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_direct_mse_s2026100803.json",
+      "sha256": "dd974d38a4129eef0d5199e32b1234d47048714cf792aef8172f5f1cc1c4af25"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_direct_mse_s2026100804.json",
+      "sha256": "b784049e1178176e98df9e7d57c718f9443ec27482da97f1075db7432f0c74c1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_direct_mse_s2026100805.json",
+      "sha256": "27c03e058b596a583e262e694350fc1da612458c53aa014bde15ebe77befbeb5"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_max_repeat_mse_s2026100801.json",
+      "sha256": "04e2eadcd5648131cd30ded0f3900d779999405441542d25f80892c213de1d14"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_max_repeat_mse_s2026100802.json",
+      "sha256": "03483bc46b954584137892a41ff7f7229e6d8badaa8565154b3714a01748de0d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_max_repeat_mse_s2026100803.json",
+      "sha256": "67092be8121f29be0fafe179613f6df2db273044e12d5bc82a9178f7d5657a8e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_max_repeat_mse_s2026100804.json",
+      "sha256": "1fe6c16311bdd2fa5de9dfae3a5134bf3b2dd409b5249bb0ebbec750bcafc6ce"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_max_repeat_mse_s2026100805.json",
+      "sha256": "930cba0882c37f058f76191fd6b353808328c518a2fb3b2a2e1a68ccfe6e75ca"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_avg_repeat_mse_s2026100801.json",
+      "sha256": "d363f363e3ad65799d70ba4894a7c0a113f7a2c27699d2a56c21d8c85bfa44cc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_avg_repeat_mse_s2026100802.json",
+      "sha256": "f6d36cae83d8e429a53b47594cce310c3ba9fafe2e8b1bb4f41c9aeadb4b90a3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_avg_repeat_mse_s2026100803.json",
+      "sha256": "686c362dc40f2d38cf49707d01ef06e07d633d4b9f5f20e226d8170ff29837da"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_avg_repeat_mse_s2026100804.json",
+      "sha256": "2731a43458d6ef9bd623c1185cbc00c1ca7f972e176fb9173989758b0f001c94"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_avg_repeat_mse_s2026100805.json",
+      "sha256": "35c0b4da1fbd3a472d9504055c39f8c8370a321d58d7a1efeaa34c941d37c07b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_abs_mse_s2026100801.json",
+      "sha256": "59dbc86706256ea2497a3520c7af682729fe5ffe650323833bf34ae51091d35f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_abs_mse_s2026100802.json",
+      "sha256": "b00cc4065323a8a50cba1cadb056b63870cb5e1970a172ff125b20d02a03823f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_abs_mse_s2026100803.json",
+      "sha256": "570caf43c723f127e849d4fcae03e3160df1f9e853af6873e51cf5f2d0c30cd7"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_abs_mse_s2026100804.json",
+      "sha256": "4e45d8d02074d5b6546f5cd0211f383c217b92631c2e87780080e38274e1e08c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_abs_mse_s2026100805.json",
+      "sha256": "071bef954a26bf10f5fe3a28ea1a8e6838398666f78eb7aba7797f25aa382521"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_signed_mse_s2026100801.json",
+      "sha256": "1108d65bba2c8d9b83cbcb3d082e4eb21fbd3c26287e9337a90cf8bc52237f0a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_signed_mse_s2026100802.json",
+      "sha256": "8245699838e5e798ed439585f24a6cc82643577d0e6313f30b9f570eed3f693f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_signed_mse_s2026100803.json",
+      "sha256": "84f7fc53d45fbd241dac993da84c709a637c089075c4eeb4ff9f63478160f733"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_signed_mse_s2026100804.json",
+      "sha256": "f51fe9e1c4cac2b35ef946618bb00a8290f20387634b5fedd593d52078b9d211"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a2_mean_signed_mse_s2026100805.json",
+      "sha256": "945367286f5a07c3efd4f1655bf953aa7b9f6654e97918d4c0512f87b40f1b1f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_direct_mse_s2026100801.json",
+      "sha256": "1979bdf331de5b868454d81b1d42b655d07b837739e7ea43497a242d812ef7c0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_direct_mse_s2026100802.json",
+      "sha256": "48c2bf87f25c32f607f1c5c9623b2bb1e9c024af4bcd9275c498786a435ce011"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_direct_mse_s2026100803.json",
+      "sha256": "521a9051d98182ac40b9d91a5c53e2ff8f6cebb13ca5584bb6d22fd07f05908e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_direct_mse_s2026100804.json",
+      "sha256": "7f206a61d951ce7fdab3a3c5dcafee744d741f1a3a93553ce73029a479011c94"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_direct_mse_s2026100805.json",
+      "sha256": "06967241e3ccb6aea902f643c0d15c5568679db5d3eda7075c5aceb59152d187"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_max_repeat_mse_s2026100801.json",
+      "sha256": "453ad04f43b3d379e4a16fe818ca47f9b4821e5965379c7b30c7a32f432e6e64"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_max_repeat_mse_s2026100802.json",
+      "sha256": "ea0d0eb70cc653d935049dba4596dfb646f3f9d30fd801c5788d24e8fd68e91d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_max_repeat_mse_s2026100803.json",
+      "sha256": "f6ff84aadd34a1755a332b0d21d74e1713c304e885caacd5f56942f57953f41f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_max_repeat_mse_s2026100804.json",
+      "sha256": "0233ddde5b8a3fd8bce60fe5c6ef2dc6a1e5b1e9307431c3e5b9b070b3a1eb6c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_max_repeat_mse_s2026100805.json",
+      "sha256": "dbbc8fb5ee9f2f85109714a722a09927d1e874f6e04213b343a08b15db846c69"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_avg_repeat_mse_s2026100801.json",
+      "sha256": "c1a5da5d8fd903b9723047e6ae8cd936ccbe38b09656d8496ed7ff6c9eea5d63"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_avg_repeat_mse_s2026100802.json",
+      "sha256": "6ba6c48047dba5656a71e77e1c303675269e77f6dd58d578eee70b1cb7999594"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_avg_repeat_mse_s2026100803.json",
+      "sha256": "a8b36f6c14d9f78926e31e7f6446f49bdaae2a97934788cbc37a7e0ca1e71cb3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_avg_repeat_mse_s2026100804.json",
+      "sha256": "60ebe111c657b039e1250c6dc5994b57c6aea8e956d1e2d353a82f51dc0794fb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_avg_repeat_mse_s2026100805.json",
+      "sha256": "a6f4aa86fde0dd2b1ff96694e8da627bbd6657fd644e3fac066b6cb24c1e7a69"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_abs_mse_s2026100801.json",
+      "sha256": "761bc43300f68e6a27ba78ae1f1f01573aca6e2407bb828dbdf8f89288120eac"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_abs_mse_s2026100802.json",
+      "sha256": "77e89213853722fb59e9c9195959c1639a1e60a179e1d8fe33c26a3ad9d6b11d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_abs_mse_s2026100803.json",
+      "sha256": "3bbce267967d8b15583b2f6e929f955c37bb7b870198dfe24a18194f99b10d13"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_abs_mse_s2026100804.json",
+      "sha256": "80032d7ff1a86da4d2815a4112e9d68ac4e941e33eaccd14ce42473f4bb246a0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_abs_mse_s2026100805.json",
+      "sha256": "c4f138ff7ef02bf2ee64b245d68935b275c803b86cf16a2465739bd5b125ca10"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_signed_mse_s2026100801.json",
+      "sha256": "05ac6ea87b860a4039cbf5932435c1c22926c9c472b45e0c68096c3224ce9293"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_signed_mse_s2026100802.json",
+      "sha256": "dcecc44ebb3d21467568028f068a0198d2f16e4cfa5e289c493f05ff8bcb725c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_signed_mse_s2026100803.json",
+      "sha256": "d3a97e5a0f58fc51f541da4e97653a876cdb0ede223cc1612dbdc454488d45bc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_signed_mse_s2026100804.json",
+      "sha256": "650bd5264a9f3698e1ca249398d7c2155131fd133a33372b827139bed173cd3a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a3_mean_signed_mse_s2026100805.json",
+      "sha256": "3924db681601f63895d87752905d5e7f27375e09573963df2815826811de29a9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_direct_mse_s2026100801.json",
+      "sha256": "9020ca6da88c9b68311606a07fcc30c4d9cfefe337d4acfdc695c6d8ea5c3710"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_direct_mse_s2026100802.json",
+      "sha256": "d798270058eefc89a9544e2b0fbeeeb2b229fde1ad5f50d1d6fbe3fb5fd3158d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_direct_mse_s2026100803.json",
+      "sha256": "0155002671fa38256a888f673e5382454afb7b0176c226df05b79a046fd975fe"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_direct_mse_s2026100804.json",
+      "sha256": "47d5d9b882dae7588939e1bab20febc94d08d2afc6d610a25449143228c8024c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_direct_mse_s2026100805.json",
+      "sha256": "f7aae47e289e0b9bc0f832ccce0a95d850a98635f82bd7ed8468dbbc0a8ba721"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_max_repeat_mse_s2026100801.json",
+      "sha256": "723b3ba23a2f8c2c8b822fd9bc4279d986f304ba8ce40432766610b6e36bfe10"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_max_repeat_mse_s2026100802.json",
+      "sha256": "9250f7b2ce5884241810754b667976df5c706a29da21680dc3c973ddb7b58607"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_max_repeat_mse_s2026100803.json",
+      "sha256": "48ea7134b1aa08d88efdbce9ca528018fe9dd6d2981ee0ef610dca42b3bf2ee9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_max_repeat_mse_s2026100804.json",
+      "sha256": "dd151e5980eff9a2aa6b028e3e532d2141ca6ac4e2b58b7c2419ff2c31c90bf2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_max_repeat_mse_s2026100805.json",
+      "sha256": "7c66aab7b04991cd96ace33d31cc624025cf3e1e02c2738982c5c34b622770e0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_avg_repeat_mse_s2026100801.json",
+      "sha256": "16a5b9dd23aa4392743a2bd907fb00fa960d4d792ea771f2cfcb5597f2f0eaa7"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_avg_repeat_mse_s2026100802.json",
+      "sha256": "6c83553d4b9612980c844f1831025a3e82ee1c4a1a1a57d38b5d956996a52f03"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_avg_repeat_mse_s2026100803.json",
+      "sha256": "cbcb0e7bd9ce9f1ca041254a746690f1e725d99f387e08fe22e39efa69a4a533"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_avg_repeat_mse_s2026100804.json",
+      "sha256": "b0e5d8e83d9150c4392cf1a55ff96c36e74a842664d249d19966236069326397"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_avg_repeat_mse_s2026100805.json",
+      "sha256": "ac981e2524929201e49cb7a9885f8c983f4f41c5df5f8915702481fc228ac901"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_abs_mse_s2026100801.json",
+      "sha256": "4a546675bf5b2243ebb254d5b697f048537fa483175b29138ff59fcd8c1b4ee8"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_abs_mse_s2026100802.json",
+      "sha256": "08f4cfc4d2cf088f7a027fc83226b395754c374b4f0add36efb72dcb13ecd140"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_abs_mse_s2026100803.json",
+      "sha256": "15ea2c676b1820e0f4b9a08f91e5f47ccf1fb098fc4cd4d795e4e7dbbec00faa"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_abs_mse_s2026100804.json",
+      "sha256": "6b066eb002ac0a093ecd0dcbeb9b8bd73bb9e39010cf2be642df32dad0893219"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_abs_mse_s2026100805.json",
+      "sha256": "aaeadbf41e2d23f5d71e45c57053031468d7869618466857b3560bb7d8470f01"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_signed_mse_s2026100801.json",
+      "sha256": "1894c4c8a531511ccb43259e43a3e6e383f5e51192018f065ca6e6b80c1a62ba"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_signed_mse_s2026100802.json",
+      "sha256": "fcae622baf0da4c2f2274709b02d23c4222c2c35905c71fcd0cb1d5f9d422cfc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_signed_mse_s2026100803.json",
+      "sha256": "60f40fe5067f5233a127367b5fdb2d7b8cf4abc331b0927573a8cd2c9a59bfb9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_signed_mse_s2026100804.json",
+      "sha256": "c6065c21b30a70b1f1b83345d52db0892d3e1fab28085238dc39e43e3e288bca"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a4_mean_signed_mse_s2026100805.json",
+      "sha256": "2b96c5e4fa3f328615f68ee7d3fa00d6ea3d80be540c1b9bce3c53292b295445"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_direct_mse_s2026100801.json",
+      "sha256": "13f404df2df72c30f59456c30ba66aac46ee4a0d73da6973c0969f03bc802e74"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_direct_mse_s2026100802.json",
+      "sha256": "df88356733e569cff61940ae6b31fcfbc44cf22f9a2acd0b2ee40b4323336027"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_direct_mse_s2026100803.json",
+      "sha256": "7cdd42f9db9b219bdb9552c9684ac939897b6053b4a391a87decbc1020a3f15e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_direct_mse_s2026100804.json",
+      "sha256": "992fc495e3955dae403b39d067912fb0ced29cf35d154a60b8df53e146e305d1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_direct_mse_s2026100805.json",
+      "sha256": "daa726bfc5f2e08809e8cc812344a92aea68b4cbb2391ab7874a7bc76f7e257c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_max_repeat_mse_s2026100801.json",
+      "sha256": "2c225bbeb8cc3095283e0b9ff3b81496fd7553f0426d642e90119d016783fa57"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_max_repeat_mse_s2026100802.json",
+      "sha256": "a9d95edeaa1dc9879f90fa05873fa69775a6330ea4a0a2c4a7bc7337bb39fb00"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_max_repeat_mse_s2026100803.json",
+      "sha256": "2ad015bde5fb1c35ebff67f2f6b7f27ee8f072233ae2094c81ccc835faf870ad"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_max_repeat_mse_s2026100804.json",
+      "sha256": "09ecbb051b9f8c4ccfe892b2679d7c8b58ed1b25c9c6b1fa58a915c74cb2b627"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_max_repeat_mse_s2026100805.json",
+      "sha256": "e3eb5821d9abec2dee909202dd1171025c48014cba3f7f93bbe9338a25ef2e39"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_avg_repeat_mse_s2026100801.json",
+      "sha256": "bb75fa41faf3347fb8ca18317ce805e9f29e77efd5e598f3260772e57b9a4cce"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_avg_repeat_mse_s2026100802.json",
+      "sha256": "1e452de2da5635d2dcdefb553911c76b79e2b2043988f0738fc345b74e196329"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_avg_repeat_mse_s2026100803.json",
+      "sha256": "697496d35be2c930d45374bc68ef327e3ec803005ae69df1cdb2fa5f525c4799"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_avg_repeat_mse_s2026100804.json",
+      "sha256": "e6b3172e1954cab1321bd20d12100dfbbd04d39c2fc5cf98478ceb6ac41fa169"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_avg_repeat_mse_s2026100805.json",
+      "sha256": "b8e8d98a9d80494fb46d8a459e56f7d9c10ce72ddb911d1e2aed1af082f58ad0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_abs_mse_s2026100801.json",
+      "sha256": "a6f30a3c940bbab0a4a2358f764e37d702895e6e498404a7ee6b2cdc56100c7c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_abs_mse_s2026100802.json",
+      "sha256": "e92f2e5c0df54580645bd1161bb9270b8e45d4b5457c2d4993dfc9d7fa92e7ef"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_abs_mse_s2026100803.json",
+      "sha256": "d01ca03b39b0472886b519c49641c2649161bcd20de824ba3f8152360db4d490"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_abs_mse_s2026100804.json",
+      "sha256": "5e45c087aa888e749a123a1cfb51421f3f9f0e67f47ec681edd20ff073eefa43"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_abs_mse_s2026100805.json",
+      "sha256": "e48449abd55545790633445483db36237c89772eddf24a0b574e7806e8bc7013"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_signed_mse_s2026100801.json",
+      "sha256": "2eb15b3dbbfe546005b75e169e95b69899d2e1c557562a330d218d839fcc456b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_signed_mse_s2026100802.json",
+      "sha256": "a533cc519b25142740b80b3e4f17f216ec1f20c21ba922f78ec7d4233578287a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_signed_mse_s2026100803.json",
+      "sha256": "8c880d53e62cb248f35c4326740065d39b72bbc891b54a8be5cc0d1ba84f386c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_signed_mse_s2026100804.json",
+      "sha256": "38f225385a18c538dab97e9d92228d98dca57cdba0bf72825a4fea52c10a621a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a5_mean_signed_mse_s2026100805.json",
+      "sha256": "74c6513cfb254a8d98559e3e34d310a3c9e95b93b4d560ae9295fec234f9d7d4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_direct_mse_s2026100801.json",
+      "sha256": "21fd992b8d1ea7367458422d1838fa89a73805ff24d3498794ac68fd24e6a7ae"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_direct_mse_s2026100802.json",
+      "sha256": "b7341f078136604f17c41951ceff2eed5162c57248b9a2cf1d53b36dbea534ef"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_direct_mse_s2026100803.json",
+      "sha256": "5e365ef0bbd4dd6e850ac4ef1da1f79c13af5077a638e39ec865ce885743a698"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_direct_mse_s2026100804.json",
+      "sha256": "bc635d64e2ca3545830f6098f5759de203825e9e5cbe44deb02241628fdb6067"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_direct_mse_s2026100805.json",
+      "sha256": "749044e4d0022cce2250c4eead8b3b24fd5bb670a6492e412a3743e70a654629"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_max_repeat_mse_s2026100801.json",
+      "sha256": "fadd91ba238caa458c9c63a4a679bfdcf9e09f59404144a4737b3fb60ce1e193"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_max_repeat_mse_s2026100802.json",
+      "sha256": "4663fa8d625bb2bf4f6e3965eea03464ab9a0db955ee314140044f391cd9c072"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_max_repeat_mse_s2026100803.json",
+      "sha256": "078d6f12de1c902ffb8faecff3cfc6af5fbdb082204bd09fc1006c4032814326"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_max_repeat_mse_s2026100804.json",
+      "sha256": "b04a6d7a77f9e56ca0b494b6258289a3102ba166e91179f1424e796b9cb2ac6e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_max_repeat_mse_s2026100805.json",
+      "sha256": "cda4a08166156b4f60135dafadf9208b25dad0fffd30305e8b0f3aa500820957"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_avg_repeat_mse_s2026100801.json",
+      "sha256": "cfdba9b770876e2a2f368db4e488bfff093e57bb2f59a8915b786255dff69169"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_avg_repeat_mse_s2026100802.json",
+      "sha256": "d2b2dbbd6d138ff661860114f6dc0556821228263887fe58dd544c0535d6e430"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_avg_repeat_mse_s2026100803.json",
+      "sha256": "b6d9d6790888badbf5057a638ec4ace7a700c0b8feaf80a56d21457d3b1c2bdf"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_avg_repeat_mse_s2026100804.json",
+      "sha256": "bd91d23a53921387acd707042d2d86ab1de82eeb443c6e1a0bfeea9ea1a98d94"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_avg_repeat_mse_s2026100805.json",
+      "sha256": "34cfe09180d602324a2ea484fba2562fcf19d9d010033b27df6b9d9f0333c201"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_abs_mse_s2026100801.json",
+      "sha256": "88f2bae56c79827ba677e67e3c97923882841c7ba4f4e3742bfa3c2787aaa622"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_abs_mse_s2026100802.json",
+      "sha256": "adb3c521207e6b707d6bc3baaea98fd17643621884954588c624ac0611291162"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_abs_mse_s2026100803.json",
+      "sha256": "e85dc3a634e8982535712bdbf16a6a1940c317376d7d7e8a28e7057e89776548"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_abs_mse_s2026100804.json",
+      "sha256": "9ec7e48b18c91441f71b26e2f9d2e61fc5e90cc64e83f7be03d9e931c2b4c456"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_abs_mse_s2026100805.json",
+      "sha256": "eea3ef129f28818032bde4fcd133ed2e312597f2de7fa921cba903594baf033a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_signed_mse_s2026100801.json",
+      "sha256": "53e2c82835cfb1bba10d7c87b68e5cf6c10c8beda08f38a7194f92c7f1699b4e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_signed_mse_s2026100802.json",
+      "sha256": "db147b13c9e6bb3be94b2d692e1e1f91e76309119f50dda93a2cd28d26cbfbb7"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_signed_mse_s2026100803.json",
+      "sha256": "588c4730a2b598586fa8cfe3f5f4dd07bda5d5b44a33c672fe438647d97cc068"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_signed_mse_s2026100804.json",
+      "sha256": "966254461dffa6d83d8532c389c2f5ffb3035205fc1c803dae995c26d27c3e4b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\gaussian_a6_mean_signed_mse_s2026100805.json",
+      "sha256": "12455d884d8b783d769c41673a792411352fad3c9cd6ce84061fb57438068b7a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mse_s2026100801.json",
+      "sha256": "271ee2495e31e7a9e97d0b6a9f0a142d36378a488bf0af19677f17effa7516cf"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mse_s2026100802.json",
+      "sha256": "48752411c83491d12ca4d710c94c24a0b5dc9ea341195339224248a5f648676e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mse_s2026100803.json",
+      "sha256": "edb53b03aab1590269620be827f7a5c98f167160a57f56fb819faf58c482b31f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mse_s2026100804.json",
+      "sha256": "df5864a1da5e92d7cc33f3065f637b79fc76d488a114b5a64ab73c1665840ef8"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mse_s2026100805.json",
+      "sha256": "49c725165f069428a5c5b8d7b7633a5f21b40fbab16f6d407eb38209b25814e2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mae_s2026100801.json",
+      "sha256": "e49a7e23f32ae1c00ea2c9f293aef717cbafcb5da23daafa5097c7f5837c3a28"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mae_s2026100802.json",
+      "sha256": "687661e0f8a7e49f91445b72fee96f5420eb8aae8a0ff5d283ec20cf760fef8b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mae_s2026100803.json",
+      "sha256": "2ee8835c1ccb04c9765962152e599ff6e10e8291270674f8f27c6891cf5429c1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mae_s2026100804.json",
+      "sha256": "24f45eefaa0c15e370d71499633deb310a4c71018dcee7f71c511429351f1096"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_direct_mae_s2026100805.json",
+      "sha256": "f9ee2aae5897bedccc3f8835c581295dc84bf366a46bdde321bc96e4ee0164dd"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mse_s2026100801.json",
+      "sha256": "cabd5df739a9e4ad1c3a6b651d6f981de100967d336e5272d20109fd75d90626"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mse_s2026100802.json",
+      "sha256": "c763036d5bb8c3c7d883c769515ea7f04ace8db778b1179816af2a4d6e9b5f93"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mse_s2026100803.json",
+      "sha256": "c6128e40e57aa69ebe323bb09b2ae7fc4099c59713d2fa723316f28619718e7b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mse_s2026100804.json",
+      "sha256": "0a730781ece6842984bbb7767b738c2090d4699e70fe1b0f10c2f93554466262"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mse_s2026100805.json",
+      "sha256": "0b052883f94e2c3c4e8d3e0641728d171d3fd4bfb50d59fa3b3c6ce6ca5eb756"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mae_s2026100801.json",
+      "sha256": "cb54cb85a4878a0bf5f655a93b58f5652c37df9536df9978e6a8a834c181bea1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mae_s2026100802.json",
+      "sha256": "4ab0d2357e1e7e45e161ef17dab8aa22567ca85bfa3336f10f15b1f448e81831"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mae_s2026100803.json",
+      "sha256": "aa6dc2da028793ad194b00649cda71f2fec92ada727f0705b16f9aa25b75a59b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mae_s2026100804.json",
+      "sha256": "b9a8687b3572eff00cdf2301dba46496038584825f8b66c1ce76f3bf32ee19cc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_max_repeat_mae_s2026100805.json",
+      "sha256": "157274cdf550b2613f2578af0adfb75a6577f33433730a805a2e30efc558d5c1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mse_s2026100801.json",
+      "sha256": "4a8a141499bb4292f10f5da16360606b8a92019d9d87050cf11eba6ed73bb375"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mse_s2026100802.json",
+      "sha256": "991540517dbf21a39f42c595060d0f0c5983966fa3de0807996ae9c99fc299cd"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mse_s2026100803.json",
+      "sha256": "a66b6a6d9dd50b6b762aa692bfd4499b388b6fcc43dfa49918956921a3a87ad8"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mse_s2026100804.json",
+      "sha256": "26280a8f8e5c489d2b45b715c511819f4eb70353d73b775cfab7e4d25ea57419"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mse_s2026100805.json",
+      "sha256": "b511d1a7438f0eb6760d1c3049fc5e42d58b46cdcdad68ec1d267edb8eabad0a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mae_s2026100801.json",
+      "sha256": "92ef4c9ea16e7a6c577ca8dcf075facf28e6fd12523428a3e3621afc2e09f568"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mae_s2026100802.json",
+      "sha256": "358ec36bf46c05850e6a6d01f777abd2ba9da1101bcd272ab33db8f28c67dfe2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mae_s2026100803.json",
+      "sha256": "8129820ea34ab679cf6cf88bc6bc4887d5a99937b353ed2bb401e861dce34044"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mae_s2026100804.json",
+      "sha256": "975bf9013f7616f80a6780ebbac5d6a2c0f1665e72952a865980bbd594b0287c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_avg_repeat_mae_s2026100805.json",
+      "sha256": "86e38ff47e7dde2a00e120b2f6d8e8af73c91ed5e7e0ec689de579930a6b99ac"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mse_s2026100801.json",
+      "sha256": "75750088562ee1cc64f611891538d5c7c20d1d48ec9bddbbd7872f0d4a312478"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mse_s2026100802.json",
+      "sha256": "50cc9e419df880c4a9202a1a8825a90d842b8e9458d9c8d92805bd5a5ff4dde3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mse_s2026100803.json",
+      "sha256": "07f82cace16fc2e8f72fd752424e8216d02716401611c38f4973c81d1d917c47"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mse_s2026100804.json",
+      "sha256": "4efd16f157768d954e27457b8a9d17a65c7cd22cad85fa9690b269507a768880"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mse_s2026100805.json",
+      "sha256": "1f4d973cb7b03648a3720cbd95f16c1f71a579ca89f83c56b511c00216e0aa21"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mae_s2026100801.json",
+      "sha256": "4bd363ba2cfa9d8ca56489fad23acc320b18001b2879690a15da4627e269664f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mae_s2026100802.json",
+      "sha256": "0a65a15ef5f161f121aea5af232100928a897fb49a385a592bbf0242ccaa3526"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mae_s2026100803.json",
+      "sha256": "f94b675072db1088cbf9d921585154756117b92790e65ee89c82b501ca9ccc5a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mae_s2026100804.json",
+      "sha256": "887425a41a94d9bfe3e9c8c93c6d0034bbe26bdc5f8e3a13b1266b934337e782"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_abs_mae_s2026100805.json",
+      "sha256": "3f9f7459f110a5eed57aab2903a53356a5e20847b231ebb7182a960dc458a05c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mse_s2026100801.json",
+      "sha256": "3a01896ebab95fc2a1c5608305f1b240dfddec731baf5a1b75c1c43a0c19edff"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mse_s2026100802.json",
+      "sha256": "fda7bfbf00dd9d4e1ccf619c8a8eaa304dcc905c45fa065d3b8293524aebdb05"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mse_s2026100803.json",
+      "sha256": "0ee0473a7e049130fc3bb30bb4abee9df9dccd01091007a2484fb9b743136522"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mse_s2026100804.json",
+      "sha256": "06277e74d3b16586324eabcc175631e785880ddd35312d856412618e88fd343e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mse_s2026100805.json",
+      "sha256": "e2b697672f9412296e96b8f439f240673fd133564e31d48736fc16036a9fa859"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mae_s2026100801.json",
+      "sha256": "ea5a86de58520d3af7457fca13623a22806505980ba40ef737a4e334ca55d05e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mae_s2026100802.json",
+      "sha256": "8988a57d5fc38bdf6285bad2c2d14ceb4c4e40e80ce17bf5635dc57ea897e3b9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mae_s2026100803.json",
+      "sha256": "2cde452eff74cc02b866ce8bc9756e40d08e9fabfc2505c0f86544edae5b04b0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mae_s2026100804.json",
+      "sha256": "3478f94a298ac58e10fb9a13d8fd8ceb6755c5b7e66d15757e3184cbf442b0c7"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a0_mean_signed_mae_s2026100805.json",
+      "sha256": "e5f78e76e1f52d99ec3fd98e5c97056dcbb59e003fb2e5379cb74618daa15c1c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mse_s2026100801.json",
+      "sha256": "7fff55d533379be7a9258bc88fd4a9e7a7dea0bca0f6a7065762ad7292cff6cc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mse_s2026100802.json",
+      "sha256": "c6a3c7c8acdf0a4b51bee0eb5be48eec5a8319f849fbed678b17ef6fb3f446e3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mse_s2026100803.json",
+      "sha256": "10000a31d06f652403a03a361772a644ab00103216627c47c3495b45233840da"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mse_s2026100804.json",
+      "sha256": "cd82c469fafe9f25632f220b1a0a628897eb176f29bd5117e970ad196f36abe5"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mse_s2026100805.json",
+      "sha256": "3658dcd490766e63adc95611d3b2d6bbfd8a04923302683198756df8b36c8118"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mae_s2026100801.json",
+      "sha256": "7708ad6bc01300ead4a21c7f94a68818ae4201624b79ce2867400f027b68f1cf"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mae_s2026100802.json",
+      "sha256": "1c0e4854fbad0a4c639fd7a8acf687280f4af54d71a1cffac38c81c7053adccb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mae_s2026100803.json",
+      "sha256": "3e6c067201f550b2df6ab033e82305de1def6cb3acbaacec786986d42ca74be4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mae_s2026100804.json",
+      "sha256": "b67a7b69a75ef1b6757ec3907800f957ff37856f46e0e3d56663febc945edbbf"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_direct_mae_s2026100805.json",
+      "sha256": "d67b7cfe82d53263c32fc5876c25a03a7ddd2585f77c872cc0d00f5df35c5011"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mse_s2026100801.json",
+      "sha256": "79d7ef9f1b2b6ef166ca9f26b86d6c090f53924384294091836f5a5864a299bc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mse_s2026100802.json",
+      "sha256": "8cd5943af6f7109c2066e838fc82b4bdb2afbd39091b16e4c9219f2512e2b124"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mse_s2026100803.json",
+      "sha256": "d4abae101f207cf5a5bd39434cb4d568d440b8378880cc102d1fc2f3e98aa697"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mse_s2026100804.json",
+      "sha256": "025b298ac0f285e22d7d766d6b4fe76260d39e24acdef781661e01231cfda2bb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mse_s2026100805.json",
+      "sha256": "286e66d712cb574947db1eb37e19e47fa132d534bf771f264066a754bf66d0e3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mae_s2026100801.json",
+      "sha256": "201ec5c5d74472dbe901210f39e48d8ccc480879e607f8593046f7ea9d5e573e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mae_s2026100802.json",
+      "sha256": "e950447b2dd4aad0f24b1a8509f4fd20e773d66a26faa62dc0b15473560e0c2f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mae_s2026100803.json",
+      "sha256": "217e6b42a1949dd52dae4de754e53199f2cc8756acc5c872d6ada25e490bbe01"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mae_s2026100804.json",
+      "sha256": "2665c35682f07ddf5be0d04433ea7516af2fae428f1ef2ecd2122d6eba1ada21"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_max_repeat_mae_s2026100805.json",
+      "sha256": "90096b29c605a3a5f8493ed4b402ae0b45447838601f0975bbbcacb776e1491f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mse_s2026100801.json",
+      "sha256": "656efe200b3d958bf3631d73d45bb693d9b90fe873a0557afc67f4c0f0655588"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mse_s2026100802.json",
+      "sha256": "38f7dd4115f78cf426f0f2f5a8ae8c967a41f83f24a1cde3aba01010f1d7cf81"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mse_s2026100803.json",
+      "sha256": "b454cc9666be4544323ee23a8b867f3f3c73ac68ba30df4574fe41e0b4ae49cb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mse_s2026100804.json",
+      "sha256": "bfc1b4a4773ec561b9736dc428eb55d31a2c175ba4e20dbe7565eab1f431db56"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mse_s2026100805.json",
+      "sha256": "7ca2dcfe3cdb70707ee61ffafeda5e27627b19f08033ef2250a35471bf151693"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mae_s2026100801.json",
+      "sha256": "eb43a525f37d0aec2675336274878d571f9de446b73d16a55a065c4e68ed21b4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mae_s2026100802.json",
+      "sha256": "81cb4f043408a25308fa2918cc458056eb600bed6661115fcf16eeae02f3d312"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mae_s2026100803.json",
+      "sha256": "b700cdd28c253f2046a4d01a1e92180c1224f9a0b623030db93fd0afe38a3638"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mae_s2026100804.json",
+      "sha256": "9c90710097ff6aba086f5ebbe5e9f357436b80d7c6ba8352f8b45ebc29101e3a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_avg_repeat_mae_s2026100805.json",
+      "sha256": "8cefde3c6bc1a08e2599a96947f2d2ef77d30b8a4fdb3578eba29822acb79522"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mse_s2026100801.json",
+      "sha256": "c8aa6a13b30a85338b7fda6b38cdde4738164c94dee99d451858f82bb09d27f1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mse_s2026100802.json",
+      "sha256": "f30219bdbc89cdc550bae886805b3499942ea8f209f8c3351734ccabcdaaa7c4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mse_s2026100803.json",
+      "sha256": "e374c3eace16110225f1ceb270ff099ebb4876dde590c12e876dc4502c98c12f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mse_s2026100804.json",
+      "sha256": "b550588316d850161719587217bd2007ceaea800713e319bd21a19e85bd16a56"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mse_s2026100805.json",
+      "sha256": "47f62697e9935a1665001de571bcf0aa72a2561ca4ea71699af7d4a08b2941e1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mae_s2026100801.json",
+      "sha256": "a4938f3614a4a01ace5fd8d2ad40d6207b9925a2da43e7a316610f53756bb9d3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mae_s2026100802.json",
+      "sha256": "ac54152381a44bf3dc1e3c9e766558b9d5bdf14c3a1351eeb114b7679b3d8811"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mae_s2026100803.json",
+      "sha256": "88b1ae1c58f9c24c71564579abff016b61dabf6367bcc88419f2f242c685f042"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mae_s2026100804.json",
+      "sha256": "bc6e1153c9e4b7a02acd4d8a65d59bc27dbb1615524e490ffd2cf782ca8fb8eb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_abs_mae_s2026100805.json",
+      "sha256": "c8f232843d3f404bf8048a4be50bebc082bfb95e44d78fd0514ca353cd5e6dd8"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mse_s2026100801.json",
+      "sha256": "de8e56e96985b787ebd0b87ec23ec410e37a78ec0e44e8158d0fcd310c7a0fbc"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mse_s2026100802.json",
+      "sha256": "b2a8a5a44c93ceb798b6b767f8364287043c076bc4b0a363bd7d49d9304b164f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mse_s2026100803.json",
+      "sha256": "7765a94350e88b9f237763e44951c1f1d167e0427b2dc823f5fd0210f986d53c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mse_s2026100804.json",
+      "sha256": "555dff3007369e9469643f311b5051ac70b20088cc4a52f87bba6c70b2da4eca"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mse_s2026100805.json",
+      "sha256": "f5a52b74e39e9ebaa4d0d4fdb7aca90bea4fa16cc4e451459b74c0c96a290646"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mae_s2026100801.json",
+      "sha256": "5ac33ed1fa95d5e3696a28a3697cae426b8cee361cb04e68b1e25744ff5654d9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mae_s2026100802.json",
+      "sha256": "8754a3d88fbfb9c2d54f840de1f9bed46fb2db7485cfc199094d1eee2c2122e5"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mae_s2026100803.json",
+      "sha256": "87ea394bb3c5a3d6da3bdef19fd868e76e9e43b334ec578f2088c248ea6dcedd"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mae_s2026100804.json",
+      "sha256": "7b494a7cb2795cb08ddd1d10e79278d616df51ac460f53a260b0e0023daaaeb3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a1_mean_signed_mae_s2026100805.json",
+      "sha256": "34aaadfdb67505c17f5f0b1029112f519b0e0174c69b67fd52ff232a361bbd91"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mse_s2026100801.json",
+      "sha256": "3365a0ec1927f402cf5aca7f318575a2f77a84b77cb3d691aa373eee8b74c05e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mse_s2026100802.json",
+      "sha256": "8a32ea56d52246ba9283b8c617d294702a1aec5e2cba279629ed5923324c48e7"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mse_s2026100803.json",
+      "sha256": "fea06994568eefd74fe5e610f8e3044a55273441873489fb1bb778c03b09310f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mse_s2026100804.json",
+      "sha256": "bcecf1df6bdf15ec4d1d21175a1e9907d1d49ba8b5b0ba6521b348b7108015a4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mse_s2026100805.json",
+      "sha256": "949b4f7c2d0cf0d23b41b0f68a52383f8ed9fe3eb202f805b4d4481e64db8ae1"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mae_s2026100801.json",
+      "sha256": "809f12600b5b58a86c39bb7664d99682d37b009c75f8eadeff3c82b288f440b2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mae_s2026100802.json",
+      "sha256": "4999d8e21a5844d9e95e7bbf14aa4563e363c11e2699ad3769c338b638606402"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mae_s2026100803.json",
+      "sha256": "80f8f84a900a931eee3f6eb509db468abfe67c886957f7e215604543f8b3f6bf"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mae_s2026100804.json",
+      "sha256": "4e079a887f062ca0d5f04c9fe357fd6ce112a97dd011d5574a58bcf16ff28dcb"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_direct_mae_s2026100805.json",
+      "sha256": "62ec63f42a4357006b07e4081696a460e7c2eeaec87aea18e958d31b07351ec3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mse_s2026100801.json",
+      "sha256": "2d2d12b936923da0a5d61b47a2ff3fe735b654ac8918b46596e7f53de1bfd15d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mse_s2026100802.json",
+      "sha256": "e1a7272057d55154386d2ff33b828e377bf07825ec7b35ca2ba5ee6502d79850"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mse_s2026100803.json",
+      "sha256": "9a6fe26d67a32bc70e10b1af75da10548fa8db9795cb480822b7df016e10fdd0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mse_s2026100804.json",
+      "sha256": "7a0645a046dac4db02014f065f7c3bde01580cfc604441a2c0f8742cd5230ccd"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mse_s2026100805.json",
+      "sha256": "cf594fd03fb9a3ca5f5f1df967d2943c3d98f46b0e23d58f6e82924ba6b8c88f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mae_s2026100801.json",
+      "sha256": "8f4fa103a70a7fa524a6e2246a19fd8b397300abfe740c8beb6db8eb91b51f7c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mae_s2026100802.json",
+      "sha256": "df1177d194c5a6b04c97f642fae4ea2e6c3612e4c7155f3364ee368b9a9e326a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mae_s2026100803.json",
+      "sha256": "e1239e3f8c136ad2e17fb7e244a97e75900e2501d94ccf5df9d9dc07825acae6"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mae_s2026100804.json",
+      "sha256": "97db3dcacb6eab903e504936e8af84b2d47a6dbf91dcfbda13bbe179dfb69259"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_max_repeat_mae_s2026100805.json",
+      "sha256": "e014ccc41266cd5430c5c3443bb51c64440e72fc64bcf53b6b3477bc2de2a2f3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mse_s2026100801.json",
+      "sha256": "df1bdd6c93b0e8992e4054ef9d3dff8909e85d870eae3ee718b59da15c629035"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mse_s2026100802.json",
+      "sha256": "dbc21b9b5850d51e6fb0b4832e3e03cba67af1a9b6672d0f82ef93937ad4626f"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mse_s2026100803.json",
+      "sha256": "9df19f59f1899b8ef89a4ef6e819f9436f8841818f4a0fc76a877ec6c4f0935e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mse_s2026100804.json",
+      "sha256": "539b6f074cfcba4c8e8e8022d3f33f9e4306930f037c1a4882dca51b807b3ab4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mse_s2026100805.json",
+      "sha256": "b5d6a7309a58bc50a6ecd78dddfe86fdd07807aa13a069cbae8ebb42fade8d96"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mae_s2026100801.json",
+      "sha256": "2858cf25fa7ac9819063b5ef1005bad36c32145da7ab98a7762c55be43468711"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mae_s2026100802.json",
+      "sha256": "8ca9b99412077b232312f0bfad4bd171c146e63c10b22b0630db721dad17ea5d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mae_s2026100803.json",
+      "sha256": "9f9cc057f3418d9858d737e1715d284870bbd81a21e30c74c2b2226a127bffb3"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mae_s2026100804.json",
+      "sha256": "1fce2dcceab20acd10793755a8b69e1e27c0dc54774dae03353476dc3c518ff4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_avg_repeat_mae_s2026100805.json",
+      "sha256": "fa22dc61ed624df84e28007bc8e91c187274b4413c597df54f6b3cd02e679530"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mse_s2026100801.json",
+      "sha256": "bb3bcb46a1e1a29b8bed4f6b774ab0881931590354dfa1200cc8c1b0f74629b2"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mse_s2026100802.json",
+      "sha256": "8d8195ff6a5f4b7e9347aef0244aa5e05ec9abe4eef5444b5832c5f58f8fad1a"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mse_s2026100803.json",
+      "sha256": "0a87212250dadcbdc55431794d6d5737687601a582f100d63447b7e0ab8fb5b4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mse_s2026100804.json",
+      "sha256": "9c6bc7a86f06212abb1602a222ed214277eeddddb63a97f76906347724da9233"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mse_s2026100805.json",
+      "sha256": "49c587b3635af2a1122c7dd891313dda4f9fb21cc0ca0fb4fc45308c3a2b912e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mae_s2026100801.json",
+      "sha256": "1bcb92b11fefc6ec5830109dbacd103d8494486304f4ab42010a9032d0dd5852"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mae_s2026100802.json",
+      "sha256": "192447eb767fd97c9d56627c1eb30a7b6d77c329101437dd5dc3e2b645fc65d4"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mae_s2026100803.json",
+      "sha256": "f61d5e49aa96f5bfcfc51596ff0b2ea6629ef6d268208fb8746f1ec1ade577c9"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mae_s2026100804.json",
+      "sha256": "83fe8cbdd354b2c9e8f3815407f2aa365f93641c4a7293a041a6909a8574b0ff"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_abs_mae_s2026100805.json",
+      "sha256": "c98f797ba55143142245f03390ceb1d2eb4157d4b05a08b24600a2bd7fbba199"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mse_s2026100801.json",
+      "sha256": "fc4cdf688f3325145977570406f79ce008d0711371a1ce6d38181ef6ba15cb97"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mse_s2026100802.json",
+      "sha256": "324b710ba8f0484a2c13f013bb1b4b657888ebdab063f08e5b37154c89d2ffed"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mse_s2026100803.json",
+      "sha256": "6ef17c5b16df9a094772b64b5860a7d22ac232907d81a5b7bdacfaded75c5526"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mse_s2026100804.json",
+      "sha256": "61e7843f58022cc1c1127c2cac1be9242ce525f44680bb25185b77ef1d991aac"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mse_s2026100805.json",
+      "sha256": "90be959721bd4d7b71acb71f83959388b39a934604387e33198c00951ec4f677"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mae_s2026100801.json",
+      "sha256": "8bbb4e0cefd74d93e83a7fd84414dde2f3f7bac87da78852f6293ed1ed9eeb2b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mae_s2026100802.json",
+      "sha256": "13a9c08d905962eda4504edb69df7c9c36454be6336722d5bc62ecd0cce0cdf0"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mae_s2026100803.json",
+      "sha256": "b650371982c1f1df32c4546213e5b23daa0b34862d5226b2fae0c37439bd820d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mae_s2026100804.json",
+      "sha256": "9be7b85417f7cb1763a99768d346e3757d1df9d4c2ea2d8bcc1610d1e7f9620d"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\models\\finite_a2_mean_signed_mae_s2026100805.json",
+      "sha256": "007b446405dd2aefc2c3536c8943966df7c99aa638bda70babcd7adcc33a1823"
+    }
+  ],
+  "independent_test_values_read": false,
+  "wall_seconds": 446.8734036999522
+}

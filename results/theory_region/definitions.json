@@ -1,0 +1,11 @@
+{
+  "recorded_at_utc": "2026-10-08T14:27:43.793619+00:00",
+  "stage": "post-review extension; fixed mathematical family, not preregistered",
+  "support": "Independent L,H~Bernoulli(p), fair S; C=L-p, D=H-p, A=S(1+H), U=C+D",
+  "target": "M=C+alpha*D, B=beta*A, Y=(M-B,M+B)",
+  "domain": "0<=alpha<=1, beta real, 0<p<1/2",
+  "losses": "average squared endpoints; average absolute endpoints",
+  "no_external_data": true,
+  "no_neural_training": true,
+  "disclosure": "Parameter family and robustness region were derived after review. Enumeration checks the proof; it is not independent empirical evidence."
+}

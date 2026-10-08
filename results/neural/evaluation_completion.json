@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETE_325_FIXED_CHECKPOINT_EVALUATION",
+  "lock_sha256": "d21ae5bfef29fb1a9a4b4a8b07a28c63ab7c7451007ec5fe7d81a5167522a628",
+  "training_completion_sha256": "388e2dadec3b524f868c2ff9b903730dfe00d3363e06cdbe47ce1855b21f87df",
+  "evaluated_fits": 325,
+  "score_tables": [
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\all_seed_scores.csv",
+      "sha256": "55b7e550261f815dd3ee7c2bad9bca71f5d73d0e33c18464ca108b14951a4291"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\condition_summary.csv",
+      "sha256": "27734e811c4b9086f725b204d901eb4ab55bf2b2cb80cc61fab2820c7be1fa2b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\paired_contrasts.csv",
+      "sha256": "e225de2ae1e024014d65983db9a92d5d25fbc6c246404c85d8be72eee97a91a6"
+    }
+  ],
+  "per_row_archives": 325,
+  "evaluation_wall_seconds": 26.80777610000223,
+  "uncertainty_scope": "Pointwise synthetic sampling uncertainty conditional on these five trained seeds; not a confidence interval for optimizer-seed population",
+  "generated_data_are_synthetic": true,
+  "finite_experiment_is_population_approximation": true
+}

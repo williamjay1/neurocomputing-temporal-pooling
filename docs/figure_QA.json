@@ -1,0 +1,486 @@
+{
+  "status": "PASS_DETERMINISTIC_AND_NATIVE_VISUAL_INSPECTION",
+  "visual_inspection_record": {
+    "method": "Actual native view_image inspection of all three final 150 dpi previews at their recorded publication dimensions; also independently inspected by the integrating agent during iteration.",
+    "figure2_revision": "Panel a zoomed to the five frozen near-crossover positions; panel b uses seven equally spaced categorical offsets and horizontal condition dodging. All panel legends have opaque white backgrounds to prevent plotted lines crossing text.",
+    "observations": "No visible text-text overlap, text-data overlap, line-text crossings, cut-off labels, or unreadable tick labels in the final three previews. Distinct markers and line styles supplement color encoding. Seed ranges and paired row confidence intervals have distinct gray and blue encodings.",
+    "external_vision_backend": "UNAVAILABLE: optional vision-backend see.ps1 request timed out after 45 seconds; no external-vision pass is claimed.",
+    "binding": "The inspected preview SHA-256 values are recorded per figure below; rerunning the plotting script resets visual inspection to pending."
+  },
+  "interpreter": "C:\\Users\\Administrator\\.dsh\\venvs\\scifig\\Scripts\\python.exe",
+  "skill": "C:\\Users\\Administrator\\.agents\\skills\\sci-figures\\SKILL.md",
+  "house_style_module_sha256": "f438c891483a40ec4e0f5bcc0593df533b39c19f73da3de309d5c872b7f90ba0",
+  "style_module": "scripts/figure_house_style.py; unchanged archived copy of sci-figures figstyle.py",
+  "reproduction_dependencies": "Python 3.12; matplotlib 3.11.2; numpy; pandas; Pillow; SciencePlots; cmcrameri",
+  "script_sha256": "42b0db9eed8ea34ce94aff6064cd4217b0eacdd323df1a1124b36a8e0e9d4968",
+  "nominal_width_mm": 183,
+  "base_font_pt": 8,
+  "minimum_allowed_font_pt": 5,
+  "dpi_raster": 1000,
+  "dpi_preview": 150,
+  "pdf_fonttype": 42,
+  "svg_text_kept_editable": true,
+  "color_map": "Crameri vik; line styles and marker shapes also encode conditions",
+  "data_bindings": {
+    "docs\\experiment_protocol.json": "681a33958b6d5e9900d6ffedd0a23e586a56146223a4466cb7471ec6178c266c",
+    "results\\theory_region\\verification.json": "42e51988889c1f7d34c1cc46b3ebfd001adb7df42ed792ce7fa44c1581780f73",
+    "results\\neural\\paired_contrasts.csv": "e225de2ae1e024014d65983db9a92d5d25fbc6c246404c85d8be72eee97a91a6",
+    "results\\neural\\condition_summary.csv": "27734e811c4b9086f725b204d901eb4ab55bf2b2cb80cc61fab2820c7be1fa2b",
+    "results\\neural\\evaluation_completion.json": "a3e866e676be12a1ec4de554c2536216a753f726d83435abc8acbd1d5d3b3632",
+    "source_snapshot\\r7_statistics_v1\\uci_multiplicity_intervals.csv": "9ca0c859ed2ec443241fa9d625c536e2054f557b02a60721449783c4ae219a39",
+    "source_snapshot\\r7_statistics_v1\\confirmation_multiplicity_intervals.csv": "0b6c378868d047c72c9ddcd70d2f0c6d7a75e4e7620e8912002a3785f7e9eaf6"
+  },
+  "figures": {
+    "Figure1": {
+      "house_style_audit": {
+        "nominal_mm": [
+          183.0,
+          84.0
+        ],
+        "tight_mm": [
+          173.4,
+          76.8
+        ],
+        "tight_growth_mm": -9.6,
+        "tight_within_max": true,
+        "max_width_mm": 183,
+        "panel_titles": [
+          {
+            "axis": 0,
+            "loc": "left",
+            "text": "a"
+          },
+          {
+            "axis": 0,
+            "loc": "center",
+            "text": "Gaussian observation risks"
+          },
+          {
+            "axis": 1,
+            "loc": "left",
+            "text": "b"
+          },
+          {
+            "axis": 1,
+            "loc": "center",
+            "text": "Loss reversal region ($p=0.1$)"
+          }
+        ],
+        "left_titles_found": 2,
+        "min_font_pt": 7.0,
+        "fonts_under_5pt": [],
+        "pdf_fonttype": 42,
+        "ok": true
+      },
+      "all_text_audit": {
+        "visible_text_objects": 36,
+        "minimum_text_font_pt": 6.8,
+        "text_bounding_box_overlaps": [],
+        "text_below_5pt": [],
+        "ok": true
+      },
+      "raster": {
+        "pixel_dimensions": [
+          6848,
+          3041
+        ],
+        "recorded_dpi": [
+          999.9979999999999,
+          999.9979999999999
+        ],
+        "physical_mm": [
+          173.93954787909576,
+          77.24155448310896
+        ],
+        "rendered_natively": true,
+        "interpolated": false
+      },
+      "vector_checks": {
+        "pdf_type3_fonts": false,
+        "svg_image_elements": 0,
+        "svg_text_editable": true
+      },
+      "files": {
+        "pdf": {
+          "path": "figures\\Figure1.pdf",
+          "sha256": "ae6ffee481218f9bd0f3cb45a6e6155072ce1350ff7b08c362856a7b0ae4998f"
+        },
+        "png": {
+          "path": "figures\\Figure1.png",
+          "sha256": "7639e15a41d5fbf9ea6a65b2c9bd53128ce87c4f38cbc2c48d9ef17dc698c217"
+        },
+        "svg": {
+          "path": "figures\\Figure1.svg",
+          "sha256": "15c5da0f6f300e83d62273267d8dc7b13ece39e64c0a759d8c9d2eb18d33a524"
+        }
+      },
+      "preview": {
+        "path": "figures\\previews\\Figure1_150dpi.png",
+        "sha256": "025402a25c63f7b758658096397fc8ff2d30e62b2583f59a2ad063953f5de28a",
+        "dpi": 150
+      },
+      "scientific_encoding": {
+        "panel_a": "Analytic Bayes MSE curves, beta=.5, Gaussian coordinate noise SD=.1; dot is calculated crossover.",
+        "panel_b": "Complete strict region at p=.1: alpha>sqrt(2)-1, 3|beta|<1-alpha, 19alpha<9+3|beta|. Solid boundaries are excluded from strict region.",
+        "neural_targets": [
+          {
+            "alpha": 0.43,
+            "beta": 0.1
+          },
+          {
+            "alpha": 0.45,
+            "beta": 0.1
+          },
+          {
+            "alpha": 0.47,
+            "beta": 0.1
+          }
+        ],
+        "box_projection": {
+          "alpha": [
+            0.43,
+            0.47
+          ],
+          "absolute_beta": [
+            0.08,
+            0.12
+          ],
+          "probability_box": [
+            0.08,
+            0.12
+          ]
+        },
+        "no_neural_interpolation": true
+      },
+      "visual_inspection": "PASS_NATIVE_PREVIEW_INSPECTION"
+    },
+    "Figure2": {
+      "house_style_audit": {
+        "nominal_mm": [
+          183.0,
+          140.0
+        ],
+        "tight_mm": [
+          170.5,
+          129.0
+        ],
+        "tight_growth_mm": -12.5,
+        "tight_within_max": true,
+        "max_width_mm": 183,
+        "panel_titles": [
+          {
+            "axis": 0,
+            "loc": "left",
+            "text": "a"
+          },
+          {
+            "axis": 0,
+            "loc": "center",
+            "text": "Gaussian: near crossover"
+          },
+          {
+            "axis": 1,
+            "loc": "left",
+            "text": "b"
+          },
+          {
+            "axis": 1,
+            "loc": "center",
+            "text": "Gaussian: approximation error"
+          },
+          {
+            "axis": 2,
+            "loc": "left",
+            "text": "c"
+          },
+          {
+            "axis": 2,
+            "loc": "center",
+            "text": "Finite states: MSE optimization"
+          },
+          {
+            "axis": 3,
+            "loc": "left",
+            "text": "d"
+          },
+          {
+            "axis": 3,
+            "loc": "center",
+            "text": "Finite states: MAE optimization"
+          }
+        ],
+        "left_titles_found": 4,
+        "min_font_pt": 6.8,
+        "fonts_under_5pt": [],
+        "pdf_fonttype": 42,
+        "ok": true
+      },
+      "all_text_audit": {
+        "visible_text_objects": 71,
+        "minimum_text_font_pt": 6.8,
+        "text_bounding_box_overlaps": [],
+        "text_below_5pt": [],
+        "ok": true
+      },
+      "raster": {
+        "pixel_dimensions": [
+          6726,
+          5087
+        ],
+        "recorded_dpi": [
+          999.9979999999999,
+          999.9979999999999
+        ],
+        "physical_mm": [
+          170.84074168148337,
+          129.21005842011684
+        ],
+        "rendered_natively": true,
+        "interpolated": false
+      },
+      "vector_checks": {
+        "pdf_type3_fonts": false,
+        "svg_image_elements": 0,
+        "svg_text_editable": true
+      },
+      "files": {
+        "pdf": {
+          "path": "figures\\Figure2.pdf",
+          "sha256": "c3e0563081b0edf3dbb5b6b3dc103a64c29d2296efa449a542ba37d0706eb6ce"
+        },
+        "png": {
+          "path": "figures\\Figure2.png",
+          "sha256": "f2b3519f32c010bf2f8f47c4eed68e931481dbafeb8ba86d546d7d62a5d212b3"
+        },
+        "svg": {
+          "path": "figures\\Figure2.svg",
+          "sha256": "3a064d953c3f3a089c10b5bc059a161e9057805dee37b3623d257ceed0910c0f"
+        }
+      },
+      "preview": {
+        "path": "figures\\previews\\Figure2_150dpi.png",
+        "sha256": "6942525800d993fe3af13c2f93bb689df9c30ee9bf95f9955fc66fb4a5add0a1",
+        "dpi": 150
+      },
+      "scientific_encoding": {
+        "neural_positions_only": true,
+        "connecting_curves_are_analytic_only": true,
+        "panel_a": "Five preset positions within alpha*=.4581229352650254 plus/minus .02; across-five-seed mean test MSE contrast; 95% pointwise paired iid-row bootstrap conditional on these fixed trained models (2000 resamples). The two distant controls are retained in the complete seven-position results table.",
+        "panel_a_actual_alpha": [
+          0.4381229352650254,
+          0.4531229352650254,
+          0.4581229352650254,
+          0.4631229352650254,
+          0.4781229352650254
+        ],
+        "panel_b": "All seven frozen alpha values displayed at equally spaced categorical positions labeled by their offsets from the analytic crossover; slight horizontal dodging separates maximum and average. Nonnegative sampled conditional-mean projection regret; colored markers mean, gray vertical ranges are min/max across five seeds, not confidence intervals. No connecting lines between neural positions.",
+        "panel_b_actual_alpha": [
+          0.35,
+          0.4381229352650254,
+          0.4531229352650254,
+          0.4581229352650254,
+          0.4631229352650254,
+          0.4781229352650254,
+          0.56
+        ],
+        "panel_b_category_offsets": [
+          -0.10812293526502542,
+          -0.020000000000000018,
+          -0.0050000000000000044,
+          0.0,
+          0.0050000000000000044,
+          0.020000000000000018,
+          0.10187706473497465
+        ],
+        "panels_c_d": "Loss-specific exact weighted full-population contrasts; separately optimized MSE and MAE; colored markers mean, gray ranges are five-seed min/max; no row CI for exact population risk.",
+        "finite_distribution": {
+          "p": 0.1,
+          "beta": 0.1,
+          "target_noise": 0
+        },
+        "no_claim_of_simultaneous_intervals": true
+      },
+      "visual_inspection": "PASS_NATIVE_PREVIEW_INSPECTION"
+    },
+    "Figure3": {
+      "house_style_audit": {
+        "nominal_mm": [
+          183.0,
+          92.0
+        ],
+        "tight_mm": [
+          161.2,
+          78.6
+        ],
+        "tight_growth_mm": -21.8,
+        "tight_within_max": true,
+        "max_width_mm": 183,
+        "panel_titles": [
+          {
+            "axis": 0,
+            "loc": "left",
+            "text": "a"
+          },
+          {
+            "axis": 0,
+            "loc": "center",
+            "text": "2013: 16 customers"
+          },
+          {
+            "axis": 1,
+            "loc": "left",
+            "text": "b"
+          },
+          {
+            "axis": 1,
+            "loc": "center",
+            "text": "2014: 32 customers"
+          }
+        ],
+        "left_titles_found": 2,
+        "min_font_pt": 7.0,
+        "fonts_under_5pt": [],
+        "pdf_fonttype": 42,
+        "ok": true
+      },
+      "all_text_audit": {
+        "visible_text_objects": 25,
+        "minimum_text_font_pt": 6.8,
+        "text_bounding_box_overlaps": [],
+        "text_below_5pt": [],
+        "ok": true
+      },
+      "raster": {
+        "pixel_dimensions": [
+          6364,
+          3112
+        ],
+        "recorded_dpi": [
+          999.9979999999999,
+          999.9979999999999
+        ],
+        "physical_mm": [
+          161.6459232918466,
+          79.04495808991618
+        ],
+        "rendered_natively": true,
+        "interpolated": false
+      },
+      "vector_checks": {
+        "pdf_type3_fonts": false,
+        "svg_image_elements": 0,
+        "svg_text_editable": true
+      },
+      "files": {
+        "pdf": {
+          "path": "figures\\Figure3.pdf",
+          "sha256": "0820333b392b8b09a358e3b71627664fbd8254ab5f658c274a3ae1c6df807433"
+        },
+        "png": {
+          "path": "figures\\Figure3.png",
+          "sha256": "7daea0ffe5ac0e65b5d78b241bfa62976fe8c505b0316d94eec184aa43ae838e"
+        },
+        "svg": {
+          "path": "figures\\Figure3.svg",
+          "sha256": "e8bb222f80aba4065e7dad8fe5335813680322a82a645036b2366fa7b21f9df5"
+        }
+      },
+      "preview": {
+        "path": "figures\\previews\\Figure3_150dpi.png",
+        "sha256": "cbbd7b3f7851d55599a6e9cc828060ceaffaf75fe765ff90130c5badc6bae34a",
+        "dpi": 150
+      },
+      "scientific_encoding": {
+        "exact_plotted_rows": [
+          {
+            "phase": "2013: 16 customers",
+            "contrast": "primary_max_minus_avg_history_interaction",
+            "estimate": -0.0014373543928467,
+            "low": -0.0032455760044435,
+            "high": 0.0001065468748749,
+            "interval": "unadjusted primary paired-bootstrap 95%"
+          },
+          {
+            "phase": "2013: 16 customers",
+            "contrast": "max_repeat_minus_haar_absolute_fine",
+            "estimate": 0.0003357734274915,
+            "low": -0.0007918495132703,
+            "high": 0.0014633963682533,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2013: 16 customers",
+            "contrast": "haar_absolute_minus_haar_signed_fine",
+            "estimate": 0.0002165021223055,
+            "low": -0.0009633007412905,
+            "high": 0.0013963049859015,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2013: 16 customers",
+            "contrast": "haar_signed_minus_direct_fine",
+            "estimate": -0.0006576675576088,
+            "low": -0.0022244612927815,
+            "high": 0.0009091261775638,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2013: 16 customers",
+            "contrast": "max_blur_repeat_minus_max_repeat_fine",
+            "estimate": 0.0007486650606123,
+            "low": -0.0007844046440029,
+            "high": 0.0022817347652277,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2014: 32 customers",
+            "contrast": "primary_max_minus_avg_history_interaction",
+            "estimate": -0.001442631511148,
+            "low": -0.0029706580631829,
+            "high": 0.0001897551433446,
+            "interval": "unadjusted primary paired-bootstrap 95%"
+          },
+          {
+            "phase": "2014: 32 customers",
+            "contrast": "max_repeat_minus_haar_absolute_fine",
+            "estimate": 0.0009861048893073,
+            "low": -0.001425180445033,
+            "high": 0.0033973902236476,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2014: 32 customers",
+            "contrast": "haar_absolute_minus_haar_signed_fine",
+            "estimate": -0.000567093367507,
+            "low": -0.0019253666627671,
+            "high": 0.000791179927753,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2014: 32 customers",
+            "contrast": "haar_signed_minus_direct_fine",
+            "estimate": -0.0022152017419157,
+            "low": -0.005618685242001,
+            "high": 0.0011882817581695,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          },
+          {
+            "phase": "2014: 32 customers",
+            "contrast": "max_blur_repeat_minus_max_repeat_fine",
+            "estimate": 0.0008726845218659,
+            "low": -0.0011416042618219,
+            "high": 0.0028869733055538,
+            "interval": "four-diagnostic within-phase maxT simultaneous 95%"
+          }
+        ],
+        "all_ten_intervals_include_zero": true,
+        "primary": "Original primary maximum-minus-average history interaction, paired customer/week bootstrap (5000 resamples).",
+        "diagnostics": "Four planned fine-history access contrasts; within each phase maxT simultaneous intervals, not the unadjusted percentile diagnostics.",
+        "confirmation_customers_and_time_distinct": true,
+        "no_secondary_REML_result_substituted": true
+      },
+      "visual_inspection": "PASS_NATIVE_PREVIEW_INSPECTION"
+    }
+  },
+  "figure_design": "Compact data figures. No neural interpolation between trained alpha positions. No text labels positioned on data paths."
+}

@@ -7,10 +7,17 @@ venv/
 .env.*
 .DS_Store
 Thumbs.db
-reproducibility/runs/
-reproducibility/.pytest_cache/
 .pytest_cache/
-# The author reviews the complete journal draft separately.
+
+# Manuscripts, supplements, cover letters and AI-use statements are never published in this archive.
 /Neurocomputing_Manuscript.md
 /Neurocomputing_Supplement.md
-reproducibility/.temporary-tests/
+/JETAI_Manuscript*.md
+/JETAI_Manuscript*.docx
+/JETAI_Manuscript*.pdf
+/JETAI_Supplement*.md
+/JETAI_Supplement*.docx
+/JETAI_Supplement*.pdf
+/JETAI_Cover_Letter*
+/AI_USE.md
+/docs/AUTHOR_AND_DECLARATIONS.md

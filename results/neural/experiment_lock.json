@@ -1,0 +1,38 @@
+{
+  "status": "FROZEN_BEFORE_FORMAL_TRAINING_AND_TEST_SCORING",
+  "files": [
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\gaussian_train_latents.npy",
+      "sha256": "47aebd06cbedf32c214247f9d7570113be0f7d1eb88abd441d0cbe6d4eb33f78"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\gaussian_validation_latents.npy",
+      "sha256": "c87d0c2e83f1da555a7f39891af044132a6ef30a46a3bdf0372cae2b846e0716"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\gaussian_test_latents.npy",
+      "sha256": "491346a36cd98466d71559b342ab67ba90243b5e0b61de3c666af299e879489e"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\finite_test_state_indices.npy",
+      "sha256": "bdcfc80c9edbd315ba82f6527e6c286aeb079ec6ec280d0cd7631996438d9b83"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\scripts\\mechanism_experiments.py",
+      "sha256": "557b70af5f941d47f744663c941ac76f1d5c8f4656e43642dd4c5a647663147b"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\docs\\experiment_protocol.json",
+      "sha256": "681a33958b6d5e9900d6ffedd0a23e586a56146223a4466cb7471ec6178c266c"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\scripts\\loss_region_oracle.py",
+      "sha256": "0747961a9e63bca3b37ed27fea7283d32b1e9ece9558ecefb5d19a9b1c7fae15"
+    },
+    {
+      "path": "D:\\MLWork\\JETAI_PoolingMechanisms_20261008\\results\\neural\\preflight.json",
+      "sha256": "75867097cebbba67048fa2ba22ea411c8b457af7d6f9fb32f4aba4c362be3810"
+    }
+  ],
+  "formal_fits": 325
+}

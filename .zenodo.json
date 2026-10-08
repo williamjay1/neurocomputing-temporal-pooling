@@ -1,7 +1,7 @@
 {
-  "title": "Diagnosing temporal pooling in neural forecasting: predictive information and loss geometry — research code and evidence",
+  "title": "When temporal pooling changes predictive risk: observation boundaries and how rankings depend on the loss - research code and evidence",
   "upload_type": "software",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "language": "eng",
   "access_right": "open",
   "license": "mit",
@@ -12,19 +12,25 @@
       "affiliation": "Shanghai Academy of Global Governance & Area Studies; School of Economics and Finance; Shanghai International Studies University, Shanghai 201620, China"
     }
   ],
-  "description": "Author: Junjie Zhang, sole author and corresponding author (junjiezhang2024@shisu.edu.cn). Research code and complete current core computational evidence, including derived UCI data (CC BY 4.0, Artur Trindade, DOI10.24432/C58C86), author-generated synthetic examples, selected checkpoints, full forecasts, proofs/statistical extensions and all120failed source-only fits. MIT applies to author-created software; UCI and generated data/artwork retain the component licenses in DATA_LICENSE.md. Third-party dependency licenses are preserved. The complete journal draft is supplied to the author separately for review, not published as a reviewed article in this software repository. No specific grant or competing interest was declared by the author. AI assistance and verification scope are documented. No Zenodo DOI is assigned by this preparation.",
+  "description": "Research code, frozen protocols and numerical evidence for a study of temporal pooling observation boundaries and loss dependent risk rankings. Includes the exact finite-state risk algebra with its complete reversal region, uniform margins, target-noise bound and support-perturbation counterexample; the frozen 325-fit neural protocol with per-seed scores, condition summaries, paired contrasts, frozen draws and fitted checkpoints; and the executed verification records. The manuscript, supplementary document, cover letter and AI-use statement are not part of this archive, and provider electricity files are not redistributed. The real-data study evaluated in the paper remains in version 1.0.0 of the same archive (concept DOI 10.5281/zenodo.23100654). MIT applies to author-created software; author-generated synthetic data, result tables and figures are CC BY 4.0.",
   "related_identifiers": [
     {
       "identifier": "https://doi.org/10.24432/C58C86",
-      "relation": "isDerivedFrom",
+      "relation": "references",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/williamjay1/neurocomputing-temporal-pooling/tree/v1.0.0",
+      "relation": "isNewVersionOf",
+      "resource_type": "software"
     }
   ],
   "keywords": [
     "temporal pooling",
-    "neural forecasting",
-    "conditional risk",
+    "observation boundaries",
+    "Bayes risk",
     "loss geometry",
+    "neural forecasting",
     "reproducibility"
   ]
 }

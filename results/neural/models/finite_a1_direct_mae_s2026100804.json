@@ -1,0 +1,21 @@
+{
+  "group": "finite",
+  "alpha_index": 1,
+  "alpha": 0.45,
+  "access": "direct",
+  "loss": "mae",
+  "seed": 2026100804,
+  "label": "finite_a1_direct_mae_s2026100804",
+  "status": "COMPLETE_CHECKPOINT_FIXED_TEST_UNREAD",
+  "lock_sha256": "d21ae5bfef29fb1a9a4b4a8b07a28c63ab7c7451007ec5fe7d81a5167522a628",
+  "parameter_count": 4482,
+  "updates_run": 2000,
+  "selected_update": 1400,
+  "selection_objective": 0.0020323665793985117,
+  "initial_state_sha256": "1d6006fd7d1c4554bac174acb2e80769b2f318941cfd892f07ed5717a1d52fff",
+  "checkpoint_sha256": "986aaa57d1b1aabdd0d92e716dccaf76000be66016bdb62083991ad312aee734",
+  "trace_sha256": "69e144b01c85cbbc4814745b64b26d19414fa2b33290f22fab575b68cac44a8c",
+  "fit_wall_seconds": 1.1285235999384895,
+  "fit_cpu_seconds": 2.203125,
+  "independent_test_values_read": false
+}

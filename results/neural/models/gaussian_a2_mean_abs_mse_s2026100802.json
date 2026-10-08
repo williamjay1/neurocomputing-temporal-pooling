@@ -1,0 +1,21 @@
+{
+  "group": "gaussian",
+  "alpha_index": 2,
+  "alpha": 0.4531229352650254,
+  "access": "mean_abs",
+  "loss": "mse",
+  "seed": 2026100802,
+  "label": "gaussian_a2_mean_abs_mse_s2026100802",
+  "status": "COMPLETE_CHECKPOINT_FIXED_TEST_UNREAD",
+  "lock_sha256": "d21ae5bfef29fb1a9a4b4a8b07a28c63ab7c7451007ec5fe7d81a5167522a628",
+  "parameter_count": 4482,
+  "updates_run": 2000,
+  "selected_update": 1800,
+  "selection_objective": 0.27050554091578927,
+  "initial_state_sha256": "ac9c9004d6a8c5704a8c2a8db9fc4ca28105874d583f8e6bb2d96db94ec4f9eb",
+  "checkpoint_sha256": "b86ba01620c434099af78ad976e568a2b5ba82421403bba6478e6cdcbe6e55ce",
+  "trace_sha256": "62c075a215cbcbb6ffa793cd1ce05d0ebff4a43585a3e6722dca883e86792b63",
+  "fit_wall_seconds": 1.4294629000360146,
+  "fit_cpu_seconds": 2.84375,
+  "independent_test_values_read": false
+}

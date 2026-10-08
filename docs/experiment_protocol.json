@@ -1,0 +1,116 @@
+{
+  "frozen_at_utc": "2026-10-08T14:33:42.650927+00:00",
+  "stage": "post-review constructive mechanism extension; prospective only relative to these new neural outcomes",
+  "study_type": "synthetic mathematical mechanism; no physical measurements",
+  "adapters": [
+    "direct",
+    "max_repeat",
+    "avg_repeat",
+    "mean_abs",
+    "mean_signed"
+  ],
+  "model_seeds": [
+    2026100801,
+    2026100802,
+    2026100803,
+    2026100804,
+    2026100805
+  ],
+  "architecture": [
+    2,
+    64,
+    64,
+    2
+  ],
+  "activation": "ReLU",
+  "parameter_count": 4482,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "updates": 2000,
+  "batch_size_gaussian": 256,
+  "evaluation_every_updates": 200,
+  "normalization": "none",
+  "initialization": "Same base weights for every access/loss/alpha within seed; signed and magnitude first layer compensated by orthogonal rotation",
+  "checkpoint_gaussian": "minimum validation endpoint-average MSE; earliest exact tie",
+  "checkpoint_finite": "minimum exact weighted population training objective for its separately optimized loss; earliest exact tie",
+  "finite_scope": "Known 8-state distribution and complete weighted support: approximation experiment, not generalization evaluation",
+  "test_read_gate": "All 325 complete checkpoint reports must be frozen before either independent test draw is loaded for scoring",
+  "gaussian": {
+    "alpha_grid": [
+      0.35,
+      0.4381229352650254,
+      0.4531229352650254,
+      0.4581229352650254,
+      0.4631229352650254,
+      0.4781229352650254,
+      0.56
+    ],
+    "beta": 0.5,
+    "latent_sd_C": 1,
+    "latent_sd_A": 1,
+    "coordinate_noise_sd": 0.1,
+    "sample_counts": {
+      "train": 20000,
+      "validation": 10000,
+      "test": 100000
+    },
+    "latent_seeds": {
+      "train": 2026100811,
+      "validation": 2026100812,
+      "test": 2026100813
+    },
+    "minibatch_seed_rule": "default_rng(model_seed+132000), reset in each fit",
+    "shared_latents_all_conditions": true,
+    "optimization_loss": "mse",
+    "formal_fits": 175,
+    "reported_scores": [
+      "test endpoint MSE",
+      "analytic Bayes MSE",
+      "nonnegative conditional-mean projection regret",
+      "test MSE minus analytic floor"
+    ],
+    "oracle": {
+      "V": 0.3633802276324186,
+      "W": 0.2597310209625604,
+      "W_density": 0.2597310209625448,
+      "integral_discrepancy": 1.559863349598345e-14,
+      "quadrature_error": 2.498939053119916e-12,
+      "alpha_switch": 0.4581229352650254
+    }
+  },
+  "finite": {
+    "alpha_grid": [
+      0.43,
+      0.45,
+      0.47
+    ],
+    "p": 0.1,
+    "beta": 0.1,
+    "formal_fits": 150,
+    "optimized_losses": [
+      "mse",
+      "mae"
+    ],
+    "full_weighted_support_states": 8,
+    "independent_test_draw_n": 100000,
+    "independent_test_seed": 2026100814,
+    "training_rule": "Full support weighted population loss; no resampled minibatches and no invented data split",
+    "reported_scores": [
+      "exact population risk under the optimized loss",
+      "loss-specific exact Bayes floor",
+      "exact approximation gap",
+      "independent-draw risk"
+    ]
+  },
+  "paired_uncertainty": {
+    "gaussian": "2000 iid paired-row bootstrap replicates of across-seed mean max-minus-average MSE; separate seed range",
+    "finite": "Exact population contrast first; 2000 multinomial paired-row bootstrap replicates on independent draw; separate seed range",
+    "replicate_count": 2000,
+    "bootstrap_seed": 2026100821,
+    "confidence_level": 0.95,
+    "scope": "Pointwise synthetic sampling uncertainty conditional on these five trained seeds; not a confidence interval for optimizer-seed population"
+  },
+  "test_outcomes_used_for_design": false,
+  "permitted_adjustments": "Technical preflight bugs only, before formal fits, with explicit record",
+  "no_neural_bayes_attainment_assumption": true
+}

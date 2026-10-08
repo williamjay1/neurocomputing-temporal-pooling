@@ -1,7 +1,0 @@
-# AI assistance and responsibility
-
-OpenAI Codex (OpenAI) assisted literature retrieval, design discussion, proof exploration, code development, computational analysis, independent-check implementation, figure scripting and drafting. Specific model/tool identifiers were not consistently retained for all earlier sessions; no missing version is invented. Executed data/code/results, not regeneration of AI responses, define scientific reproduction. Synthetic generators are explicit and real UCI observations are not fabricated. Plotting uses Matplotlib from recorded numerical values, with no generative-image fabrication or alteration of results.
-
-The paper's explanatory schematic is drawn programmatically with the same assistance. The current author draft records assistance in its Methods, figure caption and declaration. All120failed complete-input source fits are retained and their failed advancement gate prevents new external forecasts. Prior scored cohorts are not relabeled untouched future tests. Theory and inferential extensions are identified as post-review additions. AI-assisted secondary checks are not represented as human peer review or institutional ethical approval.
-
-Junjie Zhang is the sole human author and corresponding author, responsible for scientific judgement, checking the content and approving the final journal manuscript before submission. This repository does not claim that a journal has reviewed or accepted the work. Private chat/review attachments and unrelated personal demographic details are not published.

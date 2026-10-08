@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "All frozen source/configuration/input hashes match",
+    "325 actual checkpoint/trace/report bindings and pre-test status verified",
+    "325 scored fits, independent test loss archives and summary hashes verified",
+    "All 65 condition means and nonnegative risk-gap bounds reaggregated",
+    "13 prespecified comparisons checked; all finite seeds reverse; Gaussian tie remains unresolved",
+    "Executed theory/LP verification bound to the actual source"
+  ],
+  "model_fits": 325,
+  "conditions": 65,
+  "contrasts": 13,
+  "main_whitespace_word_count": 4089,
+  "count_scope": "Whitespace count includes equations and title/abstract; not a publisher word-count determination"
+}

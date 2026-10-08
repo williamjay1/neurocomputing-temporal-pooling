@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite this research software and the original UCI dataset when using the code or derived electricity data. A Zenodo DOI will be added by the author after archival."
+message: "Please cite this research software and the original UCI dataset when using the code or the derived evidence. The concept DOI 10.5281/zenodo.23100654 resolves to the newest version of this archive."
 type: software
-title: "Diagnosing temporal pooling in neural forecasting: predictive information and loss geometry — research code and evidence"
+title: "When temporal pooling changes predictive risk: observation boundaries and how rankings depend on the loss - research code and evidence"
 authors:
   - family-names: "Zhang"
     given-names: "Junjie"
@@ -9,14 +9,23 @@ authors:
     email: "junjiezhang2024@shisu.edu.cn"
     orcid: "https://orcid.org/0009-0004-8821-4018"
 repository-code: "https://github.com/williamjay1/neurocomputing-temporal-pooling"
-url: "https://github.com/williamjay1/neurocomputing-temporal-pooling"
-version: "1.0.0"
+url: "https://doi.org/10.5281/zenodo.23100654"
+version: "2.0.0"
+doi: "10.5281/zenodo.23100654"
 license: MIT
 keywords:
   - temporal pooling
-  - neural forecasting
-  - predictive information
-  - conditional risk
+  - observation boundaries
+  - Bayes risk
   - loss geometry
+  - neural forecasting
   - reproducibility
-abstract: "Research software and complete current core evidence for an analytical and controlled empirical study of temporal access in neural forecasting. Includes attributed derived UCI data, synthetic examples, source-selected checkpoints and full forecasts, post-review theory and statistical extensions, and all 120 unsuccessful source-only extension fits. This is not a successful new compression codec or a state-of-the-art architecture claim. Data and artwork licenses are specified separately in DATA_LICENSE.md."
+abstract: "Research software, frozen protocols and numerical evidence for a study of temporal pooling observation boundaries and loss dependent risk rankings: exact finite-state risk algebra with uniform margins, a target-noise bound and a support-perturbation counterexample; a frozen 325-fit neural protocol with per-seed scores, paired contrasts, frozen draws and fitted checkpoints; and executed verification records. The manuscript, supplementary document, cover letter and AI-use statement are not included, and provider electricity files are not redistributed."
+references:
+  - type: dataset
+    title: "ElectricityLoadDiagrams20112014"
+    authors:
+      - family-names: "Trindade"
+        given-names: "Artur"
+    year: 2015
+    doi: "10.24432/C58C86"

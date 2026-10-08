@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "python": "3.12.10",
+  "script_sha256": "0747961a9e63bca3b37ed27fea7283d32b1e9ece9558ecefb5d19a9b1c7fae15",
+  "exact_grid_points": 2205,
+  "exact_formula_risk_checks": 8820,
+  "mae_branch_counts": {
+    "C_high:U_high": 336,
+    "C_low:U_high": 252,
+    "C_low:U_low": 1365,
+    "C_high:U_low": 252
+  },
+  "independent_vertex_checks": 88,
+  "continuous_lp_checks": 88,
+  "lp_status": "PASS",
+  "lp_import_error": null,
+  "mse_switch": 0.41421356237309515,
+  "strict_open_region": "alpha>sqrt(2)-1; 3|beta|<1-alpha; (2-p)alpha<1-p+3p|beta|; 0<p<1/2",
+  "closed_box": {
+    "p": [
+      {
+        "fraction": "2/25",
+        "value": 0.08
+      },
+      {
+        "fraction": "3/25",
+        "value": 0.12
+      }
+    ],
+    "alpha": [
+      {
+        "fraction": "43/100",
+        "value": 0.43
+      },
+      {
+        "fraction": "47/100",
+        "value": 0.47
+      }
+    ],
+    "absolute_beta": [
+      {
+        "fraction": "2/25",
+        "value": 0.08
+      },
+      {
+        "fraction": "3/25",
+        "value": 0.12
+      }
+    ],
+    "min_MSE_C_minus_U": {
+      "fraction": "10327/6250000",
+      "value": 0.00165232
+    },
+    "min_MAE_U_minus_C": {
+      "fraction": "46/15625",
+      "value": 0.002944
+    }
+  },
+  "gaussian_coordinate_noise": {
+    "sigma": 0.001,
+    "target_L1_distance": 0.0011283791670955127,
+    "worst_gap_perturbation_bound": 0.0022567583341910253,
+    "anchor_sigma_sufficient_upper": 0.003323350970447842,
+    "box_sigma_sufficient_upper": 0.0013045260342664598
+  },
+  "fixed_support_TV_sufficient_upper": {
+    "fraction": "369/490000",
+    "value": 0.000753061224489796
+  },
+  "rademacher_noise_cases": 9,
+  "gaussian_mixture_median_cases": 18,
+  "independent_probability_corner_cases": 4,
+  "observations": "Formula checks do not validate neural training. Gaussian mixture checks are numerical, all noiseless/Rademacher support checks use exact fractions."
+}

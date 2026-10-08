@@ -1,0 +1,26 @@
+{
+  "upper_C_shift": {
+    "fraction": "1/1000000000",
+    "value": 1e-09
+  },
+  "original_U_groups": 3,
+  "shifted_U_groups": 4,
+  "risks": {
+    "C_mse": {
+      "fraction": "1249/40000",
+      "value": 0.031225
+    },
+    "C_mae": {
+      "fraction": "1/8",
+      "value": 0.125
+    },
+    "U_mse": {
+      "fraction": "13/1000",
+      "value": 0.013
+    },
+    "U_mae": {
+      "fraction": "11/100",
+      "value": 0.11
+    }
+  }
+}
